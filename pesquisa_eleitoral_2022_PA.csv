@@ -1,0 +1,755 @@
+"DT_GERACAO";"HH_GERACAO";"AA_ELEICAO";"CD_ELEICAO";"NM_ELEICAO";"SG_UF";"SG_UE";"NM_UE";"NR_PROTOCOLO_REGISTRO";"DT_REGISTRO";"ST_PESQUISA_PROPRIA";"NR_CNPJ_EMPRESA";"NM_EMPRESA";"NM_EMPRESA_FANTASIA";"DS_CARGO";"DT_INICIO_PESQUISA";"DT_FIM_PESQUISA";"QT_ENTREVISTADO";"CD_CONRE";"NM_ESTATISTICO_RESP";"VR_PESQUISA";"VR_PESQUISA";"DS_METODOLOGIA_PESQUISA";"DS_PLANO_AMOSTRAL";"DS_SISTEMA_CONTROLE";"DS_DADO_MUNICIPIO"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA032382022";"2022-05-03 21:00:02";"N";"07317438000147";"DOXA ARTE & COMUNICAO S/S LTDA";"DOXA";"Governador, Senador, Deputado Federal, Deputado Estadual";"2022-05-01 00:00:00";"2022-05-04 00:00:00";621;"8010";"JADSON FERNANDEZ CHAVES";"7000,00";"7000,00";"A pesquisa é de cunho quantitativo, que consiste na realização de entrevistas pessoais, com a aplicação de
+questionário estruturado junto a uma amostra representativa do eleitorado de Santarém conforme fonte de dados do TRE.
+";"A seleção obterá o quantitativo representativo do eleitorado municipal que está apto a participar das
+eleições/2022, elaborada respeitando os conglomerados urbano e rural em único estágio. O estágio faz¬ se um
+sorteio probabilístico dos bairros/áreas/comunidades reconhecidamente no município e que não possui bairros
+definidos em Lei Municipal ou órgão oficial municipal/estadual, onde as entrevistas serão realizadas, com
+subamostragem pelo método PPT (Probabilidade Proporcional ao Tamanho) se possível com respaldo de fonte
+secundária municipal para tal procedimento ou embasamento pelo IBGE, tomando como referência a população
+de 16 anos ou mais residente nos setores como base para tal seleção prevista no TRE. Os respondentes serão
+selecionados através de quotas amostrais proporcionais dos estratos reconhecidos pelo TRE em função de
+variáveis, agrupando¬-as conforme a natureza do levantamento: Sexo masculino: 48,03%, feminino 51,97%;
+Sem escolaridade: 2,436%, Fundamental Completo: 6,893%, Fundamental Incompleto: 20,961%; Médio
+Completo: 30,913%; Médio Incompleto: 16,432%; Le e Escreve: 5,485%; Superior Completo: 9,501%;
+Superior Incompleto: 7,379%; 16 a 24 anos: 10,69%, 25 a 34 anos: 25,34%, 35 a 44 anos: 21,86%, 45 a 59
+anos: 21,11%, acima de 59 anos: 15,81%; Nível de Renda: Até 1 SM, 35,8%; De 01 a 02 SM, 45,3%; De 02 a
+03 SM, 14,2%; De 03 a 04 SM, 2,1%;De 04 a 05 SM, 1,6% acima de 5 SM 1,0%. A margem de erro amostral:
+respeitando o intervalo de confiança estimada foi de 95% e significância de 5%, tendo a margem de erro
+amostral de 4 pontos percentuais para mais ou para menos na amostra.
+";"Os pesquisadores contratados para aplicação dos formulários desta pesquisa foram treinados pela equipe técnica
+da DOXA com instruções adequadas para atingir a meta e o objetivo do cliente. Quanto aos supervisores de
+campo, possuem a meta de atingir no mínimo 20% dos questionários dos pesquisadores indo ao local indicado
+ou por telefone. A validação do formulário somente será confirmada com o colhimento da ponderação previsto
+pela legislação eleitoral e todo o material após codificação e processamento dos dados das variáveis contidas no
+questionário.";"#NULO#"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA039572022";"2022-07-27 20:18:06";"S";"26114657000173";"M DO S DA SILVA CARDOSO";"DESTAK PUBLICIDADE MARKETING E PESQUISA";"Governador, Senador, Deputado Federal, Deputado Estadual";"2022-07-26 00:00:00";"2022-07-29 00:00:00";621;"9477";"LUIZ CARLOS FERREIRA FEITOSA";"7000,00";"7000,00";"A pesquisa é de cunho quantitativo, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado em amostra representativa do eleitorado de Santarém conforme fonte de dados do TRE.";"A seleção obterá o quantitativo representativo do eleitorado municipal que está apto a participar das eleições/2022, elaborada respeitando os conglomerados urbano e rural em único estágio. O estágio faz-se um sorteio probabilístico dos bairros/áreas/comunidades reconhecidamente no município e que não possui bairros definidos em Lei Municipal ou órgão oficial municipal/estadual, onde as entrevistas serão realizadas, com sub amostragem pelo método PPT (Probabilidade Proporcional ao Tamanho) se possível com respaldo de fonte secundária municipal para tal procedimento ou embasamento pelo IBGE, tomando como referência a população de 16 anos ou mais residente nos setores como base para tal seleção prevista no TRE. Os respondentes serão selecionados através de quotas amostrais proporcionais dos estratos reconhecidos pelo TRE em função de variáveis, agrupando-as conforme a natureza do levantamento: Sexo masculino: 48,03%, feminino 51,97%; Sem escolaridade: 2,436%, Fundamental Completo: 6,893%, Fundamental Incompleto: 20,961%; Médio Completo: 30,913%; Médio Incompleto: 16,432%; Le e Escreve: 5,485%; Superior Completo: 9,501%; Superior Incompleto: 7,379%; 16 a 24 anos: 10,69%, 25 a 34 anos: 25,34%, 35 a 44 anos: 21,86%, 45 a 59 anos: 21,11%, acima de 59 anos: 15,81%; Nível de Renda: Até 1 SM, 35,8%; De 01 a 02 SM, 45,3%; De 02 a 03 SM, 14,2%; De 03 a 04 SM, 2,1%;De 04 a 05 SM, 1,6% acima de 5 SM 1,0%. A margem de erro amostral: respeitando o intervalo de confiança estimada foi de 96% e significância de 5%, tendo a margem de erro amostral de 4 pontos percentuais para mais ou para menos na amostra de 621 respondentes.";"Os pesquisadores contratados para aplicação dos formulários desta pesquisa foram treinados pela equipe técnica da DESTAK com instruções adequadas para atingir a meta e o objetivo do cliente. Quanto aos supervisores de campo, possuem a meta de atingir no mínimo 20% dos questionários dos pesquisadores indo ao local indicado ou por telefone. A validação do formulário somente será confirmada com o colhimento da ponderação previsto pela legislação eleitoral e todo o material após codificação e processamento dos dados das variáveis contidas no questionário.
+
+";"DISTRIBUIÇÃO DA AMOSTRA SANTARÉM			
+	ELEITORES	PESO %	AMOSTRA
+ÁREA URBANA	123008	75,3	468
+PLANALTO	10574	6,5	40
+EIXO FORTE	5042	3,1	19
+REGIÃO DE RIOS E LAGOS	24741	15,1	94
+TOTAL	163365	100	621
+			
+			
+BAIRROS	ELEITORES	% PESO	AMOSTRA
+AEROPORTO VELHO	5726	4,7	21
+ALDEIA	5805	4,7	22
+ALVORADA	1062	0,9	4
+APARECIDA	7049	5,7	26
+ÁREA VERDE	1334	1,1	5
+CARANAZAL	6075	4,9	23
+CENTRO	775	0,6	3
+CONQUISTA	3962	3,2	15
+DIAMANTINO	8655	7,0	32
+ELCIONE BARBALHO	1836	1,5	7
+ESPERANÇA	2042	1,7	8
+FÁTIMA	1047	0,9	4
+FLORESTA	2511	2,0	9
+IPANEMA	593	0,5	2
+JADERLÂNDIA	1334	1,1	5
+JARDIM SANTARÉM	2244	1,8	8
+JUTAI	1450	1,2	5
+LIBERDADE	1939	1,6	7
+LIVRAMENTO	3786	3,1	14
+MAICÁ	1370	1,1	5
+MAPIRI	2818	2,3	11
+MARACANÃ	4854	3,9	18
+MARARU	1533	1,2	6
+MATINHA	1643	1,3	6
+NOVA REPÚBLICA	7417	6,0	28
+PÉROLA DO MAICÁ	576	0,5	2
+PRAINHA	8979	7,3	34
+SANTA CLARA	4957	4,0	18
+SANTARENZINHO	5927	4,8	22
+SANTÍSSIMO	4653	3,8	17
+SANTO ANDRÉ	1545	1,3	6
+SÃO FRANCISCO	625	0,5	2
+URUARÁ	3756	3,1	14
+URUMARI	3502	2,8	13
+VITÓRIA RÉGIA	1028	0,8	4
+SALVAÇÃO	3600	2,9	13
+JUÁ	5000	4,1	19
+TOTAL	123008	100,0	459
+			
+PLANALTO			
+REGIÃO ROD. SANTARÉM-CUIABÁ	4288	40,6	16
+REGIÃO ROD. SANTARÉM-CURUA-UMA	6286	59,4	24
+TOTAL	10574	100,0	40
+			
+EIXO FORTE E ALTER DO CHÃO	5042		
+CUCURUNÃ			4
+SÃO BRAZ			4
+STA. TEREZINHA			3
+BOM JESUS			3
+BOA ESPERANÇA			3
+ALTER DO CHÃO			12
+TOTAL			29
+REGIÃO DOS RIOS E LAGOS			
+REGIÃO DO ARAPIXUNA	826	3,3	3
+REGIÃO DO ARITAPERA	728	2,9	3
+REGIÃO DO ITUQUI	1501	6,1	6
+REGIÃO DO LAGO GRANDE	8275	33,4	31
+REGIÃO DO RIO AMAZONAS	3409	13,8	13
+REGIÃO DO RIO ARAPIUNS	4646	18,8	17
+REGIÃO DO RIO CURUA-UMA	293	1,2	1
+REGIÃO DO RIO TAPAJÓS	3198	12,9	12
+REGIÃO DO RIO TAPARÁ	1865	7,5	7
+TOTAL	24741	100,0	93
+			
+TOTAL GERAL	163365		621
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA075302022";"2022-06-22 14:43:04";"S";"26114657000173";"M DO S DA SILVA CARDOSO";"DESTAK PUBLICIDADE MARKETING E PESQUISA";"Governador, Senador, Deputado Federal, Deputado Estadual";"2022-06-22 00:00:00";"2022-06-25 00:00:00";400;"9477";"LUIZ CARLOS FEITOSA";"4000,00";"4000,00";"Pesquisa eleitoral do tipo quantitativo categórico, aleatório e estratificado domiciliar por cotas de sexo e idade, área geográfica detalhamento feito com amostragens mediante aplicação de questionários estruturados por pessoal treinado levando em consideração parâmetros populacionais, tendo como universo (total) o eleitorado do município de Altamira.";"O universo considerado são todos os eleitores registrados no TRE/PA e aptos a votar nas eleições gerais em Altamira. O tamanho da amostra é de 400 entrevistados com uso da fórmula de Tagliacarne que associa a distribuição de probabilidade Normal de Gauss e erro amostral do Intervalo de confiança. A técnica de amostragem: Do parâmetro populacional estabelecemos a estratificação respeitando a proporcionalidade das variáveis que atuam como filtros adequados da amostragem: sexo, idade, grau de instrução e nível de instrução do eleitorado. Masculino 32.091 50,1 Feminino 31.929 49,9 64.020 100,0 16 a 24 anos 13.404 20,9 25 a 34 anos 17.051 26,6 35 a 44 anos 12.988 20,3 45 a 59 anos 12.739 19,9 acima de 59 anos 7.838 12,2 64.020 100,0 ANALFABETO 5.059 7,9 ENSINO FUNDAMENTAL COMPLETO 4.494 7,0 ENSINO FUNDAMENTAL INCOMPLETO 23.271 36,4 ENSINO MÉDIO COMPLETO 6.280 9,8 ENSINO MÉDIO INCOMPLETO 11.134 17,4 LÊ E ESCREVE 11.741 18,3 SUPERIOR COMPLETO 1.200 1,9 SUPERIOR INCOMPLETO 824 1,3 64.003 100 Até 1 SM 40,6 Acima de 1 a 2 SM 38,8 Acima de 2 a 3SM 17,7 Acima de 3 a 4 SM 2,6 Acima de 4 a 5 SM 0,1 Acima de 5 SM 0,1 Total 100 A margem de erro amostral: respeitando o intervalo de confiança estimada foi de 95% e significância de 5%, tendo a margem de erro amostral de 4 pontos percentuais para mais ou para menos na amostra";"Destak trabalha com uma equipe de supervisores aptos a checar e verificar 20% dos questionários aplicados em campo.
+";"#NULO#"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA044002022";"2022-08-08 17:42:04";"S";"26114657000173";"M DO S DA SILVA CARDOSO";"DESTAK PUBLICIDADE MARKETING E PESQUISA";"Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital";"2022-08-10 00:00:00";"2022-08-12 00:00:00";400;"9477";"LUIZ CARLOS FERREIRA FEITOSA";"7000,00";"7000,00";"A pesquisa é de cunho quantitativo, que consiste na realização de entrevistas pessoais in loco, com a aplicação de questionário estruturado na amostra representativa do eleitorado de Oriximiná conforme fonte de dados do TRE.";"A seleção obterá o quantitativo representativo do eleitorado municipal que está apto a participar das eleições/2022, elaborada respeitando os conglomerados urbano e rural em único estágio. O estágio faz-se um sorteio probabilístico dos bairros/áreas/comunidades reconhecidamente no município e que não possui bairros definidos em Lei Municipal ou órgão oficial municipal/estadual, onde as entrevistas serão realizadas, com sub amostragem pelo método PPT (Probabilidade Proporcional ao Tamanho) se possível com respaldo de fonte secundária municipal para tal procedimento ou embasamento pelo IBGE, tomando como referência a população de 16 anos ou mais residente nos setores como base para tal seleção prevista no TRE. Os respondentes serão selecionados através de quotas amostrais proporcionais dos estratos reconhecidos pelo TRE em função de variáveis, agrupando-as conforme a natureza do levantamento: 
+
+A margem de erro amostral: respeitando o intervalo de confiança estimada foi de 96% e significância de 5%, tendo a margem de erro amostral total 5% com 2,5% pontos percentuais para mais ou para menos na amostra de 400 respondentes.
+AMOSTRA	Fundamental	51%	Médio	41%	Superior 	8%
+ 	 	203	 	165	 	32
+Faixa Etária	Masculino(M)	Feminino(F)	Masculino(M)	Feminino(F)	Masculino(M)	Feminino(F)
+ 	51%	49%	51%	49%	51%	49%
+ 	103	99	84	81	16	16
+16 a 20 anos	9	9	8	7	1	1
+21 a 24 anos	11	11	9	9	2	2
+25 a 34 anos	24	23	19	18	4	4
+35 a 44 anos	22	21	18	17	3	3
+45 a 59 anos	21	20	17	16	3	3
+60+ anos	16	16	13	13	3	2
+TOTAL(TT)	103	99	84	81	16	16
+";"Os pesquisadores contratados para aplicação dos formulários desta pesquisa foram treinados pela equipe técnica da DESTAK com instruções adequadas para atingir a meta e o objetivo do cliente. Quanto aos supervisores de campo, possuem a meta de atingir no mínimo 20% dos questionários dos pesquisadores indo ao local indicado ou por telefone. A validação do formulário somente será confirmada com o colhimento da ponderação previsto pela legislação eleitoral e todo o material após codificação e processamento dos dados das variáveis contidas no questionário.";"DISTRIBUIÇÃO DA AMOSTRA EM ORIXIMINÁ			
+DISTRIBUIÇÃO DA AMOSTRA ZONA URBANA	ELEITORES	PESO (%)	AMOSTRA
+CENTRO	3559	12,6	33
+SANTA TERESINHA	6297	22,2	58
+CIDADE NOVA	954	3,4	9
+SÃO PEDRO	1760	6,2	16
+SANTISSIMO	1391	4,9	13
+SANTA LUZIA	5042	17,8	46
+FATIMA	1513	5,3	14
+PERPETUO  SOCORRO	1454	5,1	13
+N. S. DAS GRAÇAS	1498	5,3	14
+A. PASTORAL	2604	9,2	24
+S. JOSÉ OPERÁRIO	677	2,4	6
+PORTO TROMBETAS	1598	5,6	15
+TOTAL	28347		259
+DISTRIBUIÇÃO DA AMOSTRA ZONA RURAL	ELEITORES	PESO (%)	AMOSTRA
+COM. ASCENSAO - LAGO SAPUCUA	143	4,5	6
+COM. SÃO LUIZ DO RIO CACHOEIRY	256	8,1	11
+COM DO AIMIM	154	4,9	7
+COM. CUNURI - LAGO SAPUCUA	78	2,5	3
+COM AMAPA - LAGO DO SAPUCUA	288	9,1	13
+AJARA SAPUCUA	287	9,1	13
+COM. JAUARI - RIO EREPECURU	157	5,0	7
+ESTRADA DO BEC KM 12	1063	33,6	47
+LAGO DO MOURA- MEDIO TROMBETAS	349	11,0	16
+COM DA SERRINHA - CUMINA	388	12,3	17
+TOTAL	3163	100,0	141
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA066982022";"2022-06-17 19:26:06";"N";"26114657000173";"M DO S DA SILVA CARDOSO";"DESTAK PUBLICIDADE MARKETING E PESQUISA";"Governador, Senador, Deputado Federal, Deputado Estadual";"2022-06-16 00:00:00";"2022-06-18 00:00:00";400;"9477";"LUIZ CARLOS FEITOSA";"3000,00";"3000,00";"Pesquisa eleitoral do tipo quantitativo categórico, aleatório e estratificado domiciliar por cotas de sexo e idade, área geográfica detalhamento feito com amostragens mediante aplicação de questionários estruturados por pessoal treinado levando em consideração parâmetros populacionais, tendo como universo (total) o eleitorado do município de Vitória do Xingu.";"O universo considerado são todos os eleitores registrados no TRE/PA e aptos a votar nas eleições gerais em Vitória do Xingu. O tamanho da amostra é de 400 entrevistados com uso da fórmula de Tagliacarne que associa a distribuição de probabilidade Normal de Gauss e erro amostral do Intervalo de confiança. A técnica de amostragem: Do parâmetro populacional estabelecemos a estratificação respeitando a proporcionalidade das variáveis que atuam como filtros adequados da amostragem: sexo, idade, grau de instrução e nível de instrução do eleitorado. Masculino 32.091 50,1 Feminino 31.929 49,9 64.020 100,0 16 a 24 anos 13.404 20,9 25 a 34 anos 17.051 26,6 35 a 44 anos 12.988 20,3 45 a 59 anos 12.739 19,9 acima de 59 anos 7.838 12,2 64.020 100,0 ANALFABETO 5.059 7,9 ENSINO FUNDAMENTAL COMPLETO 4.494 7,0 ENSINO FUNDAMENTAL INCOMPLETO 23.271 36,4 ENSINO MÉDIO COMPLETO 6.280 9,8 ENSINO MÉDIO INCOMPLETO 11.134 17,4 LÊ E ESCREVE 11.741 18,3 SUPERIOR COMPLETO 1.200 1,9 SUPERIOR INCOMPLETO 824 1,3 64.003 100 Até 1 SM 40,6 Acima de 1 a 2 SM 38,8 Acima de 2 a 3SM 17,7 Acima de 3 a 4 SM 2,6 Acima de 4 a 5 SM 0,1 Acima de 5 SM 0,1 Total 100 A margem de erro amostral: respeitando o intervalo de confiança estimada foi de 95% e significância de 5%, tendo a margem de erro amostral de 4 pontos percentuais para mais ou para menos na amostra";"Destak trabalha com uma equipe de supervisores aptos a checar e verificar 20% dos questionários aplicados em campo.";"#NULO#"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA029252022";"2022-08-12 15:43:08";"S";"26114657000173";"M DO S DA SILVA CARDOSO";"DESTAK PUBLICIDADE MARKETING E PESQUISA";"Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital";"2022-08-12 00:00:00";"2022-08-15 00:00:00";400;"9477";"LUIZ CARLOS FERREIRA FEITOSA";"5000,00";"5000,00";"A pesquisa é de cunho quantitativo, que consiste na realização de entrevistas pessoais in loco, com a aplicação de questionário estruturado na amostra representativa do eleitorado do ITAITUBA conforme fonte de dados do TRE.";"A seleção obterá o quantitativo representativo do eleitorado municipal que está apto a participar das eleições/2022, elaborada respeitando os conglomerados urbano e rural em único estágio. O estágio faz-se um sorteio probabilístico dos bairros/áreas/comunidades reconhecidamente no município e que não possui bairros definidos em Lei Municipal ou órgão oficial municipal/estadual, onde as entrevistas serão realizadas, com sub amostragem pelo método PPT (Probabilidade Proporcional ao Tamanho) se possível com respaldo de fonte secundária municipal para tal procedimento ou embasamento pelo IBGE, tomando como referência a população de 16 anos ou mais residente nos setores como base para tal seleção prevista no TRE. Os respondentes serão selecionados através de quotas amostrais proporcionais dos estratos reconhecidos pelo TRE em função de variáveis, agrupando-as conforme a natureza do levantamento: 
+
+A margem de erro amostral: respeitando o intervalo de confiança estimada foi de 96% e significância de 5%, tendo a margem de erro amostral total 5% com 2,5% pontos percentuais para mais ou para menos na amostra de 400 respondentes.
+Bairros	 		Quantidade		%
+Bela Vista			57		14%
+Boa Esperanca			13	3%
+Bom Jardim			7	2%
+Bom Remédio			40	10%
+Centro				20	5%
+Miritituba			23	6%
+Floresta			43	11%
+Jardim Aeroporto		10	3%
+Jardim das Araras		30	8%
+Liberdade			30	8%
+Paz				10	3%
+Piracana			20	5%
+Santo Antônio			43	11%
+São Francisco			7	2%
+São José			7	2%
+Sao Tome			7	2%
+Wirland Freire			13	3%
+Vale do Piracanã		13	3%
+Viva Itaituba			7	2%
+Total				400	100
+";"Os pesquisadores contratados para aplicação dos formulários desta pesquisa foram treinados pela equipe técnica da DESTAK com instruções adequadas para atingir a meta e o objetivo da pesquisa. Quanto aos supervisores de campo, possuem a meta de atingir no mínimo 20% dos questionários dos pesquisadores indo ao local indicado ou por telefone. A validação do formulário somente será confirmada com o colhimento da ponderação previsto pela legislação eleitoral e todo o material após codificação e processamento dos dados das variáveis contidas no questionário.";"Bairros	 		Quantidade		%
+Bela Vista			57		14%
+Boa Esperanca			13	3%
+Bom Jardim			7	2%
+Bom Remédio			40	10%
+Centro				20	5%
+Miritituba			23	6%
+Floresta			43	11%
+Jardim Aeroporto		10	3%
+Jardim das Araras		30	8%
+Liberdade			30	8%
+Paz				10	3%
+Piracana			20	5%
+Santo Antônio			43	11%
+São Francisco			7	2%
+São José			7	2%
+Sao Tome			7	2%
+Wirland Freire			13	3%
+Vale do Piracanã		13	3%
+Viva Itaituba			7	2%
+Total				400	100"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA044892022";"2022-08-26 18:15:49";"N";"04717077000138";"INSTITUTO ACERTAR PESQUISA DE MERCADO E DE OPINIAO PUBLICA LTDA.";"INSTITUTO ACERTAR";"Governador";"2022-08-26 00:00:00";"2022-08-29 00:00:00";1200;"7932";"SILVANILDO BAIA DA SILVA";"40000,00";"40000,00";"Pesquisa quantitativa, através de entrevistas pessoais e domiciliares, com aplicação de questionário estruturado e padronizado, junto a uma amostra representativa do conjunto do eleitorado do Estado do Pará com 16 anos ou mais foi tomado como universo da pesquisa. O objetivo principal é aferir indicativos e potencialidade de intenção de voto dos candidatos aos cargos de Presidente, Governador e Senador, para a eleição de 2022 no Estado do Pará.";"Universo: Eleitorado do Estado Pará, aptos a votar nas eleições gerais 2022, com 16 anos ou mais. Tamanho da amostra: A amostra prevista é de 1.200 entrevistas. Técnica de amostragem: A amostra é estratificada pelas seis Mesorregiões do Estado (Metropolitana, Nordeste, Baixo Amazonas, Marajó, Sudeste e Sudoeste), área de moradia (urbana e rural) e por três faixas de cortes/porte/grandeza do município (grande, médio e pequeno). O plano amostral foi elaborado em 3 fases. Na primeira realizou-se o sorteio, de forma aleatória, dos municípios de acordo com o método PPT (Probabilidade Proporcional ao Tamanho), na segunda foi feito o sorteio aleatório dos setores censitários (área urbana e rural) dos municípios, bairros, pontos de abordagem/quarteirões e domicílios onde serão aplicadas as entrevistas. Na terceira fase os eleitores serão selecionados aleatoriamente para responder ao questionário, dentro dos setores censitários através de uma quota proporcional de sexo (masculino e feminino), grupo de idade (16 e 17 anos, 18 a 24 anos, 25 a 34 anos, 35 a 44 anos, 45 a 59 anos e 60 anos ou mais, de acordo com os dados do cadastro de eleitores do TSE/Agosto/2014 e o IBGE ¿ Censo 2010 e estimativas 2014. Para as variáveis grau de instrução e nível econômico do entrevistado (renda familiar mensal), o fator previsto para ponderação é 1 (resultados obtidos em campo). Devido à metodologia amostral adotada, a pesquisa é auto ponderada, ou seja, as proporções do universo pesquisado estão previstas na amostra, não sendo necessário nenhum tipo de ponderação. A área física da pesquisa é composta de 40 municípios, localizados nas seis mesorregiões (conforme quadro anexo). A margem de erro máxima prevista é de 3 pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra, considerando um nível de confiança de 95%.";"Para a realização da pesquisa, utiliza-se uma equipe de pesquisadores, supervisores operacionais e coordenadores de campo, devidamente treinados para este tipo de pesquisa. Durante o trabalho de campo, os questionários serão submetidos a um acompanhamento, que consiste na checagem de 25,0% dos questionários aplicados por cada entrevistador através de uma planilha de checagem, para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais. Em uma segunda etapa, todos os questionários aplicados serão novamente criticados e submetidos à consistência após sua digitação, a fim de detectar falhas ou erros, evitando informações confusas, distorcidas ou incompletas, ou incoerências de qualquer espécie.";"#NULO#"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA001882022";"2022-02-15 00:00:00";"N";"04942645000102";"J J COELHO";"INSTITUTO PHOENIX & ASSOCIADOS";"Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital";"2022-02-14 00:00:00";"2022-02-18 00:00:00";1351;"7655";"Augosto da Silva Rocha ";"12500,00";"12500,00";"Metodologia de pesquisa:
+Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.
+";"
+Plano amostral e ponderação quanto a sexo, idade, grau de instrução e nível econômico do entrevistado; intervalo de confiança e margem de erro:
+Universo: 5. 777 eleitores (TSE). Amostra: 1.351 entrevistas. Nível de Confiança: 95%. Margem de Erro: até 3.% pontos percentuais para mais ou para menos. Ponderação quanto ao sexo e faixa etária: Masculino  (48,9%), Feminino (51,1%), 16 a 24 anos (16,4%), 25 a 34 anos (23,9%), 35 a 44 anos (22,2%), 45 a 59 anos (22,4%) e  60 anos ou mais (15,1%). Ponderação quanto ao nível de instrução: 
+ANALFABETO/LÊ E ESCREVE  	14,1%
+ENSINO FUNDAMENTAL COMPLETO E INCOMPLETO 	32,7%
+ENSINO FUNDAMENTAL INCOMPLETO	26,8%
+ENSINO MÉDIO COMPLETO E INCOMPLETO 	41,2%
+SUPERIOR COMPLETO E INCOMPLETO	12,0%
+
+ Ponderação quanto a distribuição por renda mensal domiciliar: 23,0% até 1 SM, 26,0% de 1 até 2 SM, 33,1% de 2 até 5 SM, 12,5% de 5 até 10 SM e 5,4% acima de 10 SM. FONTE DOS DADOS: IBGE | TSE Dez/2021
+
+
+";"
+Sistema interno de controle e verificação, conferência e fiscalização da coleta de dados e do trabalho de campo:
+Checagem de 20% da amostra efetuada pelos supervisores. Todos os entrevistadores foram amplamente treinados e orientados tanto teoricamente quanto praticamente sobre suas responsabilidade e funções, respeitando as cotas pré-estabelecidas. A equipe está dividida em coordenadoria-geral / supervisores / entrevistadores.
+";"#NULO#"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA004752022";"2022-07-27 17:30:44";"N";"07317438000147";"DOXA ARTE & COMUNICAO S/S LTDA";"DOXA";"Governador, Senador, Deputado Federal, Deputado Estadual";"2022-07-26 00:00:00";"2022-07-30 00:00:00";2000;"8010";"JADSON FERNANDES CHAVES";"30000,00";"30000,00";"Pesquisa de opinião de cunho quantitativa. Universo da pesquisa são os eleitores do Estado do Pará. Todo o processo de delineamento amostral foi através das técnicas combinadas conhecidas da Amostragem mista da conglomerada, da casuísta, da estratificada e de ordem sistemática. Sendo realizada aplicação de questionário estruturado contendo perguntas fechadas e abertas junto aos eleitores aptos a votar e que sejam moradores da área selecionada, resultando na composição final da amostra representativa do eleitorado em estudo.";"Plano amostral e ponderação quanto a sexo, idade, grau de instrução e nível econômico do entrevistado; intervalo de confiança e margem de erro:
+Para definição do Plano Amostral, delimitou-se inicialmente a área geográfica da Pesquisa, sendo 70% na área urbana e 30% na rural, com as subdivisões das seis (6) mesorregiões (Metropolitana de Belém, Nordeste Paraense, Sudeste Paraense, Sudoeste Paraense, Baixo Amazonas e Marajó) (IBGE) que levou em consideração as proporções e percentagens da composição final da população investigada, cuja fonte é o próprio TSE. Determinou-se a equação adequada para estimar a grandeza da amostra para populações com características de infinitude, cuja fração de amostragem (f) foi superior a 0,95. Levou-se em consideração que o erro amostral aceitável seria de (+/-)2,25%, levando em consideração o nível do Intervalo de Confiança o estimado foi de 95%. A grandeza obtida foi de 2.000 (Dois mil) entrevistados. Continuamente fez a repartição da amostra por conglomerado das mesorregiões paraenses. Em cada mesorregião
+estabeleceu-se pela amostragem casuística pela obrigatoriedade de serem pesquisados os municípios considerados como pólos da área pesquisada, devido a sua grandeza populacional com definição dos respectivos quantitativos e que serão agregados posteriormente os demais em rateio populacional. Tendo os municípios-pólo definidos e com a correspondente grandeza da amostra parcial, iniciou-se a etapa seguinte de repartição com o restante, sendo utilizada outra técnica de amostragem para os demais municípios, que consistiu na realização de sorteio aleatório dos municípios, onde as entrevistas serão também realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho). Em cada município foi novamente sorteado os bairros ou comunidades, onde cada pesquisador foi ao encontro das unidades amostrais, eleitores aptos, que foram abordados em seus domicílios. Para tal usou-se a técnica combinada de amostragem sistemática com intervalo entre os domicílios de 10 ou 20 unidades e estratificada até composição final da grandeza da amostra. Dentro dos bairros ou comunidades sorteados, os respondentes amostrados foram selecionados através de quotas amostrais proporcionais em função de variáveis significativas, nas seguintes proporções, a saber: IDADE 16-24 (9,7% masculino e 10,2% feminino); 25-34 (11,8% masculino e 12,3% feminino); 35-44 (10,4% masculino e 10,7% feminino); 45-59 (10,3% masculino e 10,4% feminino); mais de 59 anos(7,2% masculino e 7,0% feminino). Grau de Instrução: Até Ensino Médio (45,6% masculino e 44,8%feminino); Ensino Superior (3,8% masculino e 5,8% feminino). Nível Econômico: Economicamente ativo(masculino) 74% (feminino) 49%; Não Economicamente ativo (masculino) 26% (feminino) 51%. Em alguns casos, poderá haver ajustes nas ponderações para correção das variáveis sexo e idade, levando em conta a proporcionalidade dos percentuais supracitados, em no máximo em situações cujas diferenças sejam superiores a 3% entre o previsto no plano amostral e a efetiva coleta dos dados que fora realizada. No caso das variáveis de grau de instrução e de nível econômico do entrevistado, o critério previsto para ponderação é 1% (resultados obtidos em campo). Fontes: IBGE/Censo 2010/PNADC 2016/TSE 2021.";"Para operacionalização da pesquisa, contou com uma equipe de entrevistadores e supervisores contratados pela DOXA que foram devidamente treinados para o trabalho de campo. Após os trabalhos de campo, os questionários foram submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros populacionais.";"Em anexo as informações referente a delimitações e bairros."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA008912022";"2022-07-28 22:18:02";"S";"07317438000147";"DOXA ARTE & COMUNICAO S/S LTDA";"DOXA";"Governador, Senador, Deputado Federal, Deputado Estadual";"2022-07-26 00:00:00";"2022-07-29 00:00:00";800;"8010";"JADSON FERNANDES CHAVES";"10000,00";"10000,00";"A pesquisa é de cunho quantitativo, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa da Mesorregião Metropolitana de Belém (Belém, Ananindeua, Marituba e Benevides). O levantamento será realizado pela equipe DOXA ARTE & COMUNICAO S/S LTDA. Para realização dessa pesquisa será destinado recursos do próprio caixa da empresa, DOXA ARTE & COMUNICAO S/S LTDA, com o intuito de divulgação da marca e do trabalho da empresa na área de pesquisa eleitoral e de mercado.";"Para definição do Plano Amostral, delimitou-se inicialmente a área geográfica da Pesquisa, abrangendo os seguintes municípios da Mesorregião Metropolitana de Belém: Belém, Ananindeua, Marituba, Benevides que levou em consideração as proporções e percentagens da composição final da população investigada, cuja fonte é o próprio TSE. Determinou-se a equação adequada para estimar a grandeza da amostra para populações com características de infinitude, cuja fração de amostragem (f) foi superior a 0,95. Os respondentes serão selecionados através de quotas amostrais proporcionais dos estratos reconhecidos pelo TSE 2022 em função de variáveis, agrupando-as conforme a natureza do levantamento: Sexo masculino: 46%, feminino 54%; Sem escolaridade: 0,73%, Fundamental Completo: 6,05%, Fundamental Incompleto: 17,87%; Médio Completo: 35,46%; Médio Incompleto: 13,07%; Le e Escreve: 1,93%; Superior Completo: 17,04%; Superior Incompleto: 7,85%; Faixa Etária: 16 a 24 anos: 13,24%, 25 a 34 anos: 21,2%, 35 a 44 anos: 22,11%, 45 a 59 anos: 25,84%, acima de 59 anos: 17,61%; Nível de Renda: Até 1 SM, 40,21%; De 01 a 02 SM, 28,19%; De 02 a 03 SM, 9,29%; De 03 a 05 SM, 8,16%; acima de 5 SM 11,83%; Sem rendimento: 2,32%. A margem de erro amostral: respeitando o intervalo de confiança estimada foi de 95% e significância de 5%, tendo a margem de erro amostral de 3,5 pontos percentuais para mais ou para menos na amostra.";"Para operacionalização da pesquisa, contou com uma equipe de entrevistadores e supervisores contratados pela DOXA que foram devidamente treinados para o trabalho de campo. Após os trabalhos de campo, os questionários foram submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros populacionais.";"Os dados sobre delimitações estão em anexo."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA005372022";"2022-07-16 20:57:17";"S";"07317438000147";"DOXA ARTE & COMUNICAO S/S LTDA";"DOXA";"Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital";"2022-07-18 00:00:00";"2022-07-23 00:00:00";1300;"8010";"JADSON FERNANDES CHAVES";"15000,00";"15000,00";"A pesquisa é de cunho quantitativo, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado da Mesorregião do Baixo Amazonas. O levantamento será realizado pela equipe DOXA ARTE & COMUNICAO S/S LTDA. Para realização dessa pesquisa será destinado recursos do próprio caixa da empresa, DOXA ARTE & COMUNICAO S/S LTDA, com o intuito de divulgação da marca e do trabalho da empresa na área de pesquisa eleitoral e de mercado.";"A seleção obterá o quantitativo representativo do eleitorado da Mesorregião do Baixo Amazonas, o que hoje equivale a 606.522 eleitores, segundo T.R.E que estão aptos a participar das eleições/2022, elaborada respeitando o conglomerado urbano em único estágio. O estágio faz-se um sorteio probabilístico dos municípios reconhecidamente na mesorregião, obedecendo a proporcionalidade eleitoral de cada município em relação a toda a mesorregião. Tomando como referência a população de 16 anos ou mais residente nos municípios como base para tal seleção prevista no TRE. Os respondentes serão selecionados através de quotas amostrais proporcionais dos estratos reconhecidos pelo TRE 2022 em função de variáveis, agrupando-as conforme a natureza do levantamento: Sexo masculino: 46%, feminino 54%; Sem escolaridade: 0,73%, Fundamental Completo: 6,05%, Fundamental Incompleto: 17,87%; Médio Completo: 35,46%; Médio Incompleto: 13,07%; Le e Escreve: 1,93%; Superior Completo: 17,04%; Superior Incompleto: 7,85%; Faixa Etária: 16 a 24 anos: 13,24%, 25 a 34 anos: 21,2%, 35 a 44 anos: 22,11%, 45 a 59 anos: 25,84%, acima de 59 anos: 17,61%; Nível de Renda: Até 1 SM, 40,21%; De 01 a 02 SM, 28,19%; De 02 a 03 SM, 9,29%; De 03 a 05 SM, 8,16%; acima de 5 SM 11,83%; Sem rendimento: 2,32%. A margem de erro amostral: respeitando o intervalo de confiança estimada foi de 95% e significância de 5%, tendo a margem de erro amostral de 3,5 pontos percentuais para mais ou para menos na amostra.";"Os pesquisadores contratados para aplicação dos formulários desta pesquisa foram treinados pela equipe técnica da DOXA ARTE & COMUNICAO S/S LTDA com instruções adequadas para atingir a meta e o objetivo do estudo. Quanto aos supervisores de campo, possuem a meta de atingir no mínimo 20% dos questionários dos pesquisadores indo ao local indicado ou por telefone. A validação do formulário somente será confirmada com o colhimento da ponderação previsto pela legislação eleitoral e todo o material após codificação e processamento dos dados das variáveis contidas no questionário. Sendo dever do supervisor de campos: a) zelar pelo cumprimento correto das entrevistas; b) anular questionários preenchidos incorretamente; c) anular questionários que não cumpram a amostra determinada; d) zelar pelo andamento do trabalho de campo dentro do tempo especificado; e) inspecionar os questionários aplicados e sua validade; f) conferir ao final do trabalho o preenchimento e zelo da amostra.";"Dados em anexo.
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA042732022";"2022-08-26 13:50:59";"S";"07317438000147";"DOXA ARTE & COMUNICAO S/S LTDA";"DOXA";"Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital";"2022-08-25 00:00:00";"2022-08-29 00:00:00";1201;"8010";"JADSON FERNANDES CHAVES";"10000,00";"10000,00";"A pesquisa é de cunho quantitativo, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa da Mesorregião Metropolitana de Belém (Belém, Ananindeua, Marituba e Benevides). O levantamento será realizado pela equipe DOXA ARTE & COMUNICAO S/S LTDA. Para realização dessa pesquisa será destinado recursos do próprio caixa da empresa, DOXA ARTE & COMUNICAO S/S LTDA, com o intuito de divulgação da marca e do trabalho da empresa na área de pesquisa eleitoral e de mercado.";"Para definição do Plano Amostral, delimitou-se inicialmente a área geográfica da Pesquisa, abrangendo os seguintes municípios da Mesorregião Metropolitana de Belém: Belém, Ananindeua, Marituba, Benevides que levou em consideração as proporções e percentagens da composição final da população investigada, cuja fonte é o próprio TSE. Determinou-se a equação adequada para estimar a grandeza da amostra para populações com características de infinitude, cuja fração de amostragem (f) foi superior a 0,95. Os respondentes serão selecionados através de quotas amostrais proporcionais dos estratos reconhecidos pelo TSE 2022 em função de variáveis, agrupando-as conforme a natureza do levantamento: Sexo masculino: 46%, feminino 54%; Sem escolaridade: 0,73%, Fundamental Completo: 6,05%, Fundamental Incompleto: 17,87%; Médio Completo: 35,46%; Médio Incompleto: 13,07%; Le e Escreve: 1,93%; Superior Completo: 17,04%; Superior Incompleto: 7,85%; Faixa Etária: 16 a 24 anos: 13,24%, 25 a 34 anos: 21,2%, 35 a 44 anos: 22,11%, 45 a 59 anos: 25,84%, acima de 59 anos: 17,61%; Nível de Renda: Até 1 SM, 40,21%; De 01 a 02 SM, 28,19%; De 02 a 03 SM, 9,29%; De 03 a 05 SM, 8,16%; acima de 5 SM 11,83%; Sem rendimento: 2,32%. A margem de erro amostral: respeitando o intervalo de confiança estimada foi de 95% e significância de 5%, tendo a margem de erro amostral de 2,9% pontos percentuais para mais ou para menos na amostra. Com um total de 1.201 questionários.";"Para operacionalização da pesquisa, contou com uma equipe de entrevistadores e supervisores contratados pela DOXA que foram devidamente treinados para o trabalho de campo. Após os trabalhos de campo, os questionários foram submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros populacionais.";"Os dados referentes a delimitação e área está em anexo."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA072542022";"2022-05-09 19:10:16";"N";"07317438000147";"DOXA ARTE & COMUNICAO S/S LTDA";"DOXA";"Governador, Senador, Deputado Federal, Deputado Estadual";"2022-05-09 00:00:00";"2022-05-14 00:00:00";2000;"8010";"JADSON FERNANDES CHAVES";"30000,00";"30000,00";"Pesquisa de opinião de cunho quantitativa. Universo da pesquisa são os eleitores do Estado do Pará. Todo o processo de delineamento amostral foi através das técnicas combinadas conhecidas da Amostragem mista da conglomerada, da casuísta, da estratificada e de ordem sistemática. Sendo realizada aplicação de questionário estruturado contendo perguntas fechadas e abertas junto aos eleitores aptos a votar e que sejam moradores da área selecionada, resultando na composição final da amostra representativa do eleitorado em estudo.";"Para definição do Plano Amostral, delimitou-se inicialmente a área geográfica da Pesquisa, sendo 70% na área urbana e 30% na rural, com as subdivisões das seis (6) mesorregiões (Metropolitana de Belém, Nordeste Paraense, Sudeste Paraense, Sudoeste Paraense, Baixo Amazonas e Marajó) (IBGE) que levou em consideração as proporções e percentagens da composição final da população investigada, cuja fonte é o próprio TSE. Determinou-se a equação adequada para estimar a grandeza da amostra para populações com características de infinitude, cuja fração de amostragem (f) foi superior a 0,95. Levou-se em consideração que o erro amostral aceitável seria de (+/-)2,25%, levando em consideração o nível do Intervalo de Confiança o estimado foi de 95%. A grandeza obtida foi de 2.000 (Dois mil) entrevistados. Continuamente fez a repartição da amostra por conglomerado das mesorregiões paraenses. Em cada mesorregião estabeleceu-se pela amostragem casuística pela obrigatoriedade de serem pesquisados os municípios considerados como pólos da área pesquisada, devido a sua grandeza populacional com definição dos respectivos quantitativos e que serão agregados posteriormente os demais em rateio populacional. Tendo os municípios-pólo definidos e com a correspondente grandeza da amostra parcial, iniciou-se a etapa seguinte de repartição com o restante, sendo utilizada outra técnica de amostragem para os demais municípios, que consistiu na realização de sorteio aleatório dos municípios, onde as entrevistas serão também realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho). Em cada município foi novamente sorteado os bairros ou comunidades, onde cada pesquisador foi ao encontro das unidades amostrais, eleitores aptos, que foram abordados em seus domicílios. Para tal usou-se a técnica combinada de amostragem sistemática com intervalo entre os domicílios de 10 ou 20 unidades e estratificada até composição final da grandeza da amostra. Dentro dos bairros ou comunidades sorteados, os respondentes amostrados foram selecionados através de quotas amostrais proporcionais em função de variáveis significativas, nas seguintes proporções, a saber: IDADE 16-24 (9,7% masculino e 10,2% feminino); 25-34 (11,8% masculino e 12,3% feminino); 35-44 (10,4% masculino e 10,7% feminino); 45-59 (10,3% masculino e 10,4% feminino); mais de 59 anos (7,2% masculino e 7,0% feminino). Grau de Instrução: Até Ensino Médio (45,6% masculino e 44,8% feminino); Ensino Superior (3,8% masculino e 5,8% feminino). Nível Econômico: Economicamente ativo (masculino) 74% (feminino) 49%; Não Economicamente ativo (masculino) 26% (feminino) 51%. Em alguns casos, poderá haver ajustes nas ponderações para correção das variáveis sexo e idade, levando em conta a proporcionalidade dos percentuais supracitados, em no máximo em situações cujas diferenças sejam superiores a 3% entre o previsto no plano amostral e a efetiva coleta dos dados que fora realizada. No caso das variáveis de grau de instrução e de nível econômico do entrevistado, o critério previsto para ponderação é 1% (resultados obtidos em campo). Fontes: IBGE/Censo 2010/PNADC 2016/TSE 2021.";"Para operacionalização da pesquisa, contou com uma equipe de entrevistadores e supervisores contratados pela DOXA que foram devidamente treinados para o trabalho de campo. Após os trabalhos de campo, os questionários foram submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros populacionais.";"#NULO#"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA023442022";"2022-07-16 19:49:26";"N";"22345021000181";"REAL TIME MIDIA LTDA";"REAL TIME BIG DATA";"Governador, Senador";"2022-07-20 00:00:00";"2022-07-21 00:00:00";1500;"10839";"Isabela Zara Cremoneze";"20000,00";"20000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do PARÁ.";"Representativo do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. 
+No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. 
+No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber:
+ IDADE:
+ 16-24 (masculino) 17% (feminino) 18%; 
+25-34 (masculino) 23% (feminino) 23%;
+ 35-44 (masculino) 21% (feminino) 21%;
+ 45-59 (masculino) 22% (feminino) 22%;
+ 60 e+ (masculino) 17% (feminino) 16%;
+INSTRUÇÃO: 
+Até Ensino Médio (masculino) 86% (feminino) 91%;
+ Ensino Superior (masculino) 14% (feminino) 9%; 
+NÍVEL ECONÔMICO: 
+Economicamente ativo (masculino) 71% (feminino) 45%;
+ Não Economicamente ativo (masculino) 29% (feminino) 55%.
+Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo).
+ O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3 (três) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNADC 2020 | TSE 2022.
+";"O trabalho de coleta de dados é acompanhado in loco por supervisores de campo. São selecionados aleatoriamente 15% (quinze por cento) dos questionários para uma verificação posterior com ligações telefônicas para os números indicados nos formulários, em caso de dúvida, o formulário é descartado e o entrevistador chamado para esclarecimentos.";"Em anexo."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA059992022";"2022-04-12 00:00:00";"N";"22345021000181";"REAL TIME MIDIA LTDA";"REAL TIME BIG DATA";"Governador, Senador";"2022-04-15 00:00:00";"2022-04-16 00:00:00";1200;"10839";"Isabela Zara Cremoneze";"20000,00";"20000,00";"A abordagem utilizada consiste na aplicação de uma amostragem aleatória representativa da população residente no Estado do Pará, com 16 anos ou mais de idade. A amostra é selecionada respeitando-se quotas proporcionais controladas por região geográfica, sexo e faixa etária, escolaridade e renda de acordo com distribuição da população eleitoral apresentada pelo TSE ( https://www.tse.jus.br/eleicoes/estatisticas/estatisticas-eleitorais) e do CENSO 2010";"O plano Amostral segundo os itens exigidos por lei seguem descritos: 
+Universo: Eleitorado do Estado do Pará, com 16 anos ou mais. 
+Amostragem: A pesquisa irá entrevistar 1200 eleitores aptos. 
+Coeficiente de confiança e margem de erro:  A margem de erro de 3,0% para um intervalo e confiança de 95%.
+
+As ponderações em relação a sexo, idade, grau de instrução e nível econômico, estão descritas no questionário refletindo estatisticamente a proporção do eleitorado consultado. 
+
+Sexo: Feminino 50,5% Masculino 49,5%   
+Faixa Etária: De 16 a 24 anos 17,3%; De 25 a 34 anos 23,7%; De 35 a 44 anos 21,6%; De 45 a 59 anos 21,6%; Mais de 60 anos 15,8%.
+Grau de Instrução: Até Fundamental Completo 49,1%; Ensino Médio incompleto ou Completo 39,3%; Ensino Superior Incompleto ou Completo 11,6%.
+Renda: Até 2 salários mínimos 89,8%; De 2 a 5 salários mínimos 6,9%; Acima de 5 salários mínimos 3,2%
+Fonte:  https://www.tse.jus.br/eleicoes/estatisticas/estatisticas-eleitorais e  https://cidades.ibge.gov.br/brasil/pa/pesquisa/23/22787?detalhes=true  (CENSO 2010)";"O trabalho de coleta de dados é acompanhado in loco por supervisores de campo. São selecionados aleatoriamente 15% (quinze por cento) dos questionários para uma verificação posterior com ligações telefônicas para os números indicados nos formulários, em caso de dúvida, o formulário é descartado e o entrevistador chamado para esclarecimentos.";"Em anexo"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA046912022";"2022-08-24 19:43:56";"N";"07317438000147";"DOXA ARTE & COMUNICAO S/S LTDA";"DOXA";"Governador, Senador, Deputado Federal, Deputado Estadual";"2022-08-24 00:00:00";"2022-08-29 00:00:00";2005;"8010";"JADSON FERNANDES CHAVES";"30000,00";"30000,00";"Pesquisa de opinião de cunho quantitativa. Universo da pesquisa são os eleitores do Estado do Pará. Todo o processo de delineamento amostral foi através das técnicas combinadas conhecidas da Amostragem mista da conglomerada, da casuísta, da estratificada e de ordem sistemática. Sendo realizada aplicação de questionário estruturado contendo perguntas fechadas e abertas junto aos eleitores aptos a votar e que sejam moradores da área selecionada, resultando na composição final da amostra representativa do eleitorado em estudo.";"Plano amostral e ponderação quanto a sexo, idade, grau de instrução e nível econômico do entrevistado; intervalo de confiança e margem de erro: Para definição do Plano Amostral, delimitou-se inicialmente a área geográfica da Pesquisa, sendo 70% na área urbana e 30% na rural, com as subdivisões das seis (6) mesorregiões (Metropolitana de Belém, Nordeste Paraense, Sudeste Paraense, Sudoeste Paraense, Baixo Amazonas e Marajó) (IBGE) que levou em consideração as proporções e percentagens da composição final da população investigada, cuja fonte é o próprio TSE. Determinou-se a equação adequada para estimar a grandeza da amostra para populações com características de infinitude, cuja fração de amostragem (f) foi superior a 0,95. Levou-se em consideração que o erro amostral aceitável seria de (+/-)2,25%, levando em consideração o nível do Intervalo de Confiança o estimado foi de 95%. A grandeza obtida foi de 2.005 (Dois mil e cinco) entrevistados. Continuamente fez a repartição da amostra por conglomerado das mesorregiões paraenses. Em cada mesorregião estabeleceu-se pela amostragem casuística pela obrigatoriedade de serem pesquisados os municípios considerados como pólos da área pesquisada, devido a sua grandeza populacional com definição dos respectivos quantitativos e que serão agregados posteriormente os demais em rateio populacional. Tendo os municípios-pólo definidos e com a correspondente grandeza da amostra parcial, iniciou-se a etapa seguinte de repartição com o restante, sendo utilizada outra técnica de amostragem para os demais municípios, que consistiu na realização de sorteio aleatório dos municípios, onde as entrevistas serão também realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho). Em cada município foi novamente sorteado os bairros ou comunidades, onde cada pesquisador foi ao encontro das unidades amostrais, eleitores aptos, que foram abordados em seus domicílios. Para tal usou-se a técnica combinada de amostragem sistemática com intervalo entre os domicílios de 10 ou 20 unidades e estratificada até composição final da grandeza da amostra. Dentro dos bairros ou comunidades sorteadas, os respondentes amostrados foram selecionados através de quotas amostrais proporcionais em função de variáveis significativas, nas seguintes proporções, a saber: IDADE 16-24 (9,7% masculino e 10,2% feminino); 25-34 (11,8% masculino e 12,3% feminino); 35- 44 (10,4% masculino e 10,7% feminino); 45-59 (10,3% masculino e 10,4% feminino); mais de 59 anos (7,2% masculino e 7,0% feminino). Grau de Instrução: Até Ensino Médio (45,6% masculino e 44,8% feminino); Ensino Superior (3,8% masculino e 5,8% feminino). Nível Econômico: Economicamente ativo (masculino) 74% (feminino) 49%; Não Economicamente ativo (masculino) 26% (feminino) 51%. Em alguns casos, poderá haver ajustes nas ponderações para correção das variáveis sexo e idade, levando em conta a proporcionalidade dos percentuais supracitados, em no máximo em situações cujas diferenças sejam superiores a 3% entre o previsto no plano amostral e a efetiva coleta dos dados que fora realizada. No caso das variáveis de grau de instrução e de nível econômico do entrevistado, o critério previsto para ponderação é 1% (resultados obtidos em campo). Fontes: IBGE/Censo 2010/PNADC 2016/TSE 2022.";"Para operacionalização da pesquisa, contou com uma equipe de entrevistadores e supervisores contratados
+pela DOXA que foram devidamente treinados para o trabalho de campo. Após os trabalhos de campo, os
+questionários foram submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários
+aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos
+parâmetros populacionais.
+";"Em anexo as informações referente a delimitação e área da pesquisa."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA044942022";"2022-05-24 22:37:07";"S";"07317438000147";"DOXA ARTE & COMUNICAO S/S LTDA";"DOXA";"Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital";"2022-05-24 00:00:00";"2022-05-27 00:00:00";800;"8010";"JADSON FERNANDES CHAVES";"5000,00";"5000,00";"A pesquisa é de cunho quantitativo, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado do municipio de Belém. O levantamento será realizado pela equipe DOXA ARTE & COMUNICAO S/S LTDA. Para realização dessa pesquisa será destinado recursos do próprio caixa da empresa, DOXA ARTE & COMUNICAO S/S LTDA, com o intuito de divulgação da marca e do trabalho da empresa na área de pesquisa eleitoral e de mercado.";"A seleção obterá o quantitativo representativo do eleitorado municipal em Belém-PA, que está apto a participar das eleições/2022, elaborada respeitando o conglomerado urbano em único estágio. O estágio faz-se um sorteio probabilístico dos Distritos/bairros reconhecidamente no município e que não possui bairros definidos em Lei Municipal ou órgão oficial municipal/estadual, onde as entrevistas serão realizadas, com sub amostragem pelo método PPT (Probabilidade Proporcional ao Tamanho) se possível com respaldo de fonte secundária municipal para tal procedimento ou embasamento pelo IBGE, tomando como referência a população de 16 anos ou mais residente nos setores como base para tal seleção prevista no TSE. Os respondentes serão selecionados através de quotas amostrais proporcionais dos estratos reconhecidos pelo TSE 2022 em função de variáveis, agrupando-as conforme a natureza do levantamento: Sexo masculino: 46%, feminino 54%; Sem escolaridade: 0,73%, Fundamental Completo: 6,05%, Fundamental Incompleto: 17,87%; Médio Completo: 35,46%; Médio Incompleto: 13,07%; Le e Escreve: 1,93%; Superior Completo: 17,04%; Superior Incompleto: 7,85%; Faixa Etária: 16 a 24 anos: 13,24%, 25 a 34 anos: 21,2%, 35 a 44 anos: 22,11%, 45 a 59 anos: 25,84%, acima de 59 anos: 17,61%; Nível de Renda: Até 1 SM, 40,21%; De 01 a 02 SM, 28,19%; De 02 a 03 SM, 9,29%; De 03 a 05 SM, 8,16%; acima de 5 SM 11,83%; Sem rendimento: 2,32%. A margem de erro amostral: respeitando o intervalo de confiança estimada foi de 95% e significância de 5%, tendo a margem de erro amostral de 3,5 pontos percentuais para mais ou para menos na amostra.
+";"Os pesquisadores contratados para aplicação dos formulários desta pesquisa foram treinados pela equipe técnica da DOXA ARTE & COMUNICAO S/S LTDA com instruções adequadas para atingir a meta e o objetivo do estudo. Quanto aos supervisores de campo, possuem a meta de atingir no mínimo 20% dos questionários dos pesquisadores indo ao local indicado ou por telefone. A validação do formulário somente será confirmada com o colhimento da ponderação previsto pela legislação eleitoral e todo o material após codificação e processamento dos dados das variáveis contidas no questionário. Sendo dever do supervisor de campos: a)zelar pelo cumprimento correto das entrevistas; b) anular questionários preenchidos incorretamente; c) anular questionários que não cumpram a amostra determinada; d) zelar pelo andamento do trabalho de campo dentro do tempo especificado; ) inspecionar os questionários aplicados e sua validade; f) conferir ao final do trabalho o preenchimento e zelo da amostra.";"ÁREAS	ELEITORES	%	AMOSTRA
+CIDADE NOVA	91448	27,9	56
+COQUEIRO	28438	8,7	17
+DISTRITO INDUSTRIAL	26362	8,1	16
+CENTRO	26008	7,9	16
+ÁGUAS LINDAS	23572	7,2	14
+PAAR	19466	5,9	12
+GUANABARA	18160	5,5	11
+QUARENTA HORAS	17488	5,3	11
+JADERLÂNDIA	17364	5,3	11
+ICUÍ-GUAJARÁ	13578	4,1	8
+CURUÇAMBÁ	11216	3,4	7
+GUAJARÁ	7543	2,3	5
+MAGUARI	7532	2,3	5
+AURÁ	6471	2,0	4
+LEVILÂNDIA	5798	1,8	4
+ATALAIA	6397	2,0	4
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA025372022";"2022-05-12 20:28:54";"S";"25158765000185";"MOREIRA & NOLETO LTDA - ME";"INSTITUTO SKALA";"Governador";"2022-05-10 00:00:00";"2022-05-11 00:00:00";365;"8954";"GALTTIERI FERREIRA TAVARES";"4000,00";"4000,00";"Os trabalhos foram realizados através da técnica de entrevistar pessoas junto a uma amostra representativa do universo considerado. Considera-se o universo da pesquisa o conjunto da população adulta (com 16 anos ou mais) de ambos os sexos e de diferentes níveis sócio-econômico. 
+";"Foi adotado sistema de amostragem  de probabilidade proporcional ao tamanho, como a seleção de eleitores a serem entrevistados utilizando-se quotas proporcionais em função das seguintes variáveis: Sexo/Faixa Etária/Nível de Instrução/Renda Familiar e o número de eleitores para cada município tomando como referência  para  tal  sel eção   dados   do  TRE- PA  .  Obs.: (As proporções para 16 e 17 anos foram ajustados de acordo com dados do TSE 2022). Foram	realizadas	365 (Trezentos e Sessenta e cinco)   entrevistas.  Esta amostra definida pela estatística, apresenta grau de confiabilidade de 95% de acerto e pode apresentar até 3,0% de margem de erro para mais ou para menos. 
+
+Plano Amostral por Sexo
+Masculino	200	55,0%
+Feminino	165	45,0%
+TOTAL OBS.	365	100%
+
+Plano Amostral por Faixa Etária
+16 a 24	67	18,4%
+25 a 34	92	25,3%
+35 a 50	131	35,7%
+51 a 60	46	12,6%
+Acima de 60 anos	29	8,0%
+TOTAL OBS.	365	100%
+
+Plano Amostral por Escolaridade
+Analfabeto	16	4,4%
+Lê e escreve	14	3,7%
+Ens. Fundamental	97	26,6%
+Ens. Médio	184	50,6%
+Superior	54	14,7%
+TOTAL OBS.	365	100%
+
+Plano Amostral por Nível de renda familiar
+Até 1 salário	159	43,6%
+1 a 3	168	46,2%
+De 3 a 5	33	9,0%
+5 a 10	4	1,0%
+Acima de 10 salários	1	0,2%
+TOTAL OBS.	365	100%
+
+Plano Amostral por Religião
+Católica	188	51,6%
+Evangélico	137	37,5%
+Espírita	3	0,8%
+Não tem religião	36	9,9%
+Outros	1	0,2%
+TOTAL OBS.	365	100%
+
+";"Os trabalhos de campo foram realizada nos dias 10 e 11 do mês  de Maio de 2022 por entrevistadores selecionados e treinados pela supervisão de campo do Instituto SKALA . 
+Relatórios:	Depois de considerados completos, coerentes e verdadeiros pela supervisão de campo,   os dados colhidos, tabulados e apresentados em forma de tabelas com índice percentuais e descrição de metodologia adotada nos trabalhos.
+";"Centro	70	19,1%
+São Luiz I e II	50	13,6%
+Cruzeiro	25	6,9%
+Emerêncio e Vila dos pescadores	20	5,5%
+Jardim Araguaia	20	5,5%
+Setor Universitário	20	5,5%
+Canudinho e Capelinha	20	5,5%
+Novo Araguaia e Jardim Amizade I e II	20	5,5%
+Vila Nova	20	5,5%
+Tancredo Neves	15	4,1%
+Morada do Sol	15	4,1%
+Vila Real I e II	15	4,1%
+Pov. Lote 08	15	4,1%
+Pov. Alacilândia	15	4,1%
+Pov. Chapéu de Palha	15	4,1%
+Pov. São Jacinto	10	2,8%
+TOTAL OBS.	365	100%
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA067542022";"2022-07-30 19:49:47";"S";"25158765000185";"MOREIRA & NOLETO LTDA - ME";"INSTITUTO SKALA";"Governador";"2022-07-28 00:00:00";"2022-07-29 00:00:00";380;"8954";"Galttiere Ferreira Tavares";"3000,00";"3000,00";"Os trabalhos foram realizados através da técnica de entrevistar pessoas junto a uma amostra representativa do universo considerado.
+Considera-se o universo da pesquisa o conjunto da população adulta (com 16 anos ou mais) de ambos os sexos e de diferentes níveis sócio-econômicos residentes no município.
+
+
+";"Amostra: Foram realizadas 380 (Trezentos e oitenta) entrevistas.  Esta amostra definida pela estatística, apresenta grau de confiabilidade de 95% de acerto e pode apresentar até 3,0% de margem de erro para mais ou para menos. Plano Amostral por Sexo
+Masculino	215	56,6%
+Feminino	165	43,4%
+TOTAL OBS.	380	100%
+
+Plano Amostral por Faixa Etária
+16 anos	1	0,3%
+17 anos	7	1,8%
+18 a 20 anos	21	5,5%
+21 a 24 anos	45	11,8%
+25 a 34 anos	92	24,2%
+35 a 44 anos	82	21,7%
+45 a 59 anos	95	25,0%
+60 a 69 anos	29	7,6%
+70 a 79 anos	8	2,1%
+Acima 79 anos  0,0%
+TOTAL OBS.	380	100%
+
+Plano Amostral por Grau de Instrução (Escolaridade)
+Analfabeto	13	3,4%
+Lê e escreve	14	3,7%
+Ens. Fundamental Incompleto	75	19,7%
+Ens. Fundamental Completo	21	5,5%
+Ens. Médio Incompleto	36	9,5%
+Ens. Médio Completo	158	41,6%
+Superior Incompleto	21	5,5%
+Superior Completo	42	11,1%
+TOTAL OBS.	380	100%
+
+Plano Amostral por Nível de renda Familiar
+Até 1 salário	166	43,6%
+1 a 3	174	45,8%
+De 3 a 5	31	8,2%
+5 a 10	5	1,3%
+Acima de 10 salários 4  1,1%
+TOTAL OBS.	380	100%
+
+Plano Amostral por Religião
+Católica	190	50,0%
+Evangélico	148	38,9%
+Espírita	6	1,6%
+Não tem religião	35	9,2%
+Outros	1	0,3%
+TOTAL OBS.	380	100%
+
+
+
+";"Amostragem: Foi adotado sistema de amostragem  de probabilidade proporcional ao tamanho, como a seleção de eleitores a serem entrevistados utilizando-se quotas proporcionais em função das seguintes variáveis: Sexo/Faixa Etária/Nível de Instrução/Renda Familiar e o número de eleitores para cada bairro ou povoado,  tomando como referência  para  tal  seleção   dados   do  TRE- PA  .  Obs.: (As proporções para 16 e 17 anos foram ajustados de acordo com dados do TSE 2022). 
+Coleta de Dados: Os trabalhos de campo foram realizada nos dias 28 e 29 de Julho de 2022 por entrevistadores selecionados e treinados pela supervisão de campo do Instituto SKALA, com a checagem de  aproximadamente 15%  dos entrevistados. 
+Relatórios:	Depois de considerados completos, coerentes e verdadeiros os dados colhidos, tabulados e apresentados em forma de tabelas com índice percentuais e descrição de metodologia adotada nos trabalhos.
+
+
+";"CIDADE DE CONCEIÇÃO DO ARAGUAIA
+PLANO AMOSTRAL POR SETORES E POVOADOS
+Centro	70	18,5%
+São Luís I e II	50	13,2%
+Universitário	19	5,0%
+Nova Araguaia e Vila Amizade I e II	22	5,8%
+JD. Araguaia	18	4,7%
+Canudinho e Capelinha	20	5,3%
+Emerêncio e Vila dos Pescadores	20	5,3%
+Vila Nova	20	5,3%
+Vila Cruzeiro	25	6,6%
+Tancredo Neves	16	4,2%
+Vila Real I e II	13	3,4%
+Morada do Sol	17	4,5%
+Pov. Alacilândia	15	3,9%
+Pov. São Jacinto	10	2,6%
+Pov. Lote 8	15	3,9%
+Pov. Bradesco	15	3,9%
+Pov. Chapéu de Palha	15	3,9%
+TOTAL OBS.	380	100%
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA011602022";"2022-08-12 15:34:54";"S";"26114657000173";"M DO S DA SILVA CARDOSO";"DESTAK PUBLICIDADE MARKETING E PESQUISA";"Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital";"2022-08-12 00:00:00";"2022-08-15 00:00:00";400;"9477";"LUIZ CARLOS FERREIRA FEITOSA";"5000,00";"5000,00";"A pesquisa é de cunho quantitativo, que consiste na realização de entrevistas pessoais in loco, com a aplicação de questionário estruturado na amostra representativa do eleitorado do ITAITUBA conforme fonte de dados do TRE.";"A seleção obterá o quantitativo representativo do eleitorado municipal que está apto a participar das eleições/2022, elaborada respeitando os conglomerados urbano e rural em único estágio. O estágio faz-se um sorteio probabilístico dos bairros/áreas/comunidades reconhecidamente no município e que não possui bairros definidos em Lei Municipal ou órgão oficial municipal/estadual, onde as entrevistas serão realizadas, com sub amostragem pelo método PPT (Probabilidade Proporcional ao Tamanho) se possível com respaldo de fonte secundária municipal para tal procedimento ou embasamento pelo IBGE, tomando como referência a população de 16 anos ou mais residente nos setores como base para tal seleção prevista no TRE. Os respondentes serão selecionados através de quotas amostrais proporcionais dos estratos reconhecidos pelo TRE em função de variáveis, agrupando-as conforme a natureza do levantamento: 
+
+A margem de erro amostral: respeitando o intervalo de confiança estimada foi de 96% e significância de 5%, tendo a margem de erro amostral total 5% com 2,5% pontos percentuais para mais ou para menos na amostra de 400 respondentes.
+Bairros	 		Quantidade		%
+Bela Vista			57		14%
+Boa Esperanca			13	3%
+Bom Jardim			7	2%
+Bom Remédio			40	10%
+Centro				20	5%
+Miritituba			23	6%
+Floresta			43	11%
+Jardim Aeroporto		10	3%
+Jardim das Araras		30	8%
+Liberdade			30	8%
+Paz				10	3%
+Piracana			20	5%
+Santo Antônio			43	11%
+São Francisco			7	2%
+São José			7	2%
+Sao Tome			7	2%
+Wirland Freire			13	3%
+Vale do Piracanã		13	3%
+Viva Itaituba			7	2%
+Total				400	100
+
+";"Os pesquisadores contratados para aplicação dos formulários desta pesquisa foram treinados pela equipe técnica da DESTAK com instruções adequadas para atingir a meta e o objetivo da pesquisa. Quanto aos supervisores de campo, possuem a meta de atingir no mínimo 20% dos questionários dos pesquisadores indo ao local indicado ou por telefone. A validação do formulário somente será confirmada com o colhimento da ponderação previsto pela legislação eleitoral e todo o material após codificação e processamento dos dados das variáveis contidas no questionário";"Bairros	 		Quantidade		%
+Bela Vista			57		14%
+Boa Esperanca			13	3%
+Bom Jardim			7	2%
+Bom Remédio			40	10%
+Centro				20	5%
+Miritituba			23	6%
+Floresta			43	11%
+Jardim Aeroporto		10	3%
+Jardim das Araras		30	8%
+Liberdade			30	8%
+Paz				10	3%
+Piracana			20	5%
+Santo Antônio			43	11%
+São Francisco			7	2%
+São José			7	2%
+Sao Tome			7	2%
+Wirland Freire			13	3%
+Vale do Piracanã		13	3%
+Viva Itaituba			7	2%
+Total				400	100"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA007532022";"2022-08-08 18:21:20";"S";"26114657000173";"M DO S DA SILVA CARDOSO";"DESTAK PUBLICIDADE MARKETING E PESQUISA";"Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital";"2022-08-09 00:00:00";"2022-08-12 00:00:00";1100;"9477";"LUIZ CARLOS FERREIRA FEITOSA";"8000,00";"8000,00";"A pesquisa é de cunho quantitativo, que consiste na realização de entrevistas pessoais in loco, com a aplicação de questionário estruturado na amostra representativa do eleitorado do Oeste do Pará conforme fonte de dados do TRE.";"A seleção obterá o quantitativo representativo do eleitorado dos municípios que está apto a participar das eleições/2022, elaborada respeitando os conglomerados urbano e rural em único estágio. O estágio faz-se um sorteio probabilístico dos bairros/áreas/comunidades reconhecidamente nos municípios do Oeste do Pará e que não possui bairros definidos em Lei Municipal ou órgão oficial municipal/estadual, onde as entrevistas serão realizadas, com sub amostragem pelo método PPT (Probabilidade Proporcional ao Tamanho) se possível com respaldo de fonte secundária municipal para tal procedimento ou embasamento pelo IBGE, tomando como referência a população de 16 anos ou mais residente nos setores como base para tal seleção prevista no TRE. Os respondentes serão selecionados através de quotas amostrais proporcionais dos estratos reconhecidos pelo TRE em função de variáveis, agrupando-as conforme a natureza do levantamento: 
+
+Seq	Município	Eleitores	%	Amostra	Mesorregião
+6	ALENQUER	40.975	5,02%	55	Baixo Amazonas
+7	ALMEIRIM	23.689	2,90%	32	Baixo Amazonas
+14	AVEIRO	11.645	1,43%	16	Sudoeste
+20	BELTERRA	15.087	1,85%	20	Baixo Amazonas
+25	BRASIL NOVO	15.183	1,86%	20	Sudoeste
+44	CURUÁ	10.441	1,28%	14	Baixo Amazonas
+48	FARO	6.892	0,84%	9	Baixo Amazonas
+58	ITAITUBA	87.717	10,74%	118	Sudoeste
+60	JACAREACANGA	13.285	1,63%	18	Sudoeste
+62	JURUTI	36.904	4,52%	50	Baixo Amazonas
+70	MEDICILÂNDIA	19.943	2,44%	27	Sudoeste
+74	MOJUÍ DOS CAMPOS	20.289	2,48%	27	Baixo Amazonas
+75	MONTE ALEGRE	50.376	6,17%	68	Baixo Amazonas
+80	NOVO PROGRESSO	23.927	2,93%	32	Sudoeste
+82	ÓBIDOS	38.364	4,70%	52	Baixo Amazonas
+84	ORIXIMINÁ	48.950	5,99%	66	Baixo Amazonas
+94	PLACAS	13.670	1,67%	18	Baixo Amazonas
+98	PRAINHA	25.762	3,15%	35	Baixo Amazonas
+104	RURÓPOLIS	19.498	2,39%	26	Sudoeste
+114	SANTARÉM	237.661	29,10%	320	Baixo Amazonas
+133	TERRA SANTA	14.678	1,80%	20	Baixo Amazonas
+136	TRAIRÃO	11.909	1,46%	16	Sudoeste
+140	URUARÁ	29.948	3,67%	40	Sudoeste
+	TOTAL	816.793	100,00%	1100	
+
+A margem de erro amostral: respeitando o intervalo de confiança estimada foi de 96% e significância de 5%, tendo a margem de erro amostral total 3% com 1,5% pontos percentuais para mais ou para menos na amostra de 1.100 respondentes.
+";"Os pesquisadores contratados para aplicação dos formulários desta pesquisa foram treinados pela equipe técnica da DESTAK com instruções adequadas para atingir a meta e o objetivo do cliente. Quanto aos supervisores de campo, possuem a meta de atingir no mínimo 20% dos questionários dos pesquisadores indo ao local indicado ou por telefone. A validação do formulário somente será confirmada com o colhimento da ponderação previsto pela legislação eleitoral e todo o material após codificação e processamento dos dados das variáveis contidas no questionário.";"Seq	Município	Eleitores	%	Amostra	Mesorregião
+6	ALENQUER	40.975	5,02%	55	Baixo Amazonas
+7	ALMEIRIM	23.689	2,90%	32	Baixo Amazonas
+14	AVEIRO	11.645	1,43%	16	Sudoeste
+20	BELTERRA	15.087	1,85%	20	Baixo Amazonas
+25	BRASIL NOVO	15.183	1,86%	20	Sudoeste
+44	CURUÁ	10.441	1,28%	14	Baixo Amazonas
+48	FARO	6.892	0,84%	9	Baixo Amazonas
+58	ITAITUBA	87.717	10,74%	118	Sudoeste
+60	JACAREACANGA	13.285	1,63%	18	Sudoeste
+62	JURUTI	36.904	4,52%	50	Baixo Amazonas
+70	MEDICILÂNDIA	19.943	2,44%	27	Sudoeste
+74	MOJUÍ DOS CAMPOS	20.289	2,48%	27	Baixo Amazonas
+75	MONTE ALEGRE	50.376	6,17%	68	Baixo Amazonas
+80	NOVO PROGRESSO	23.927	2,93%	32	Sudoeste
+82	ÓBIDOS	38.364	4,70%	52	Baixo Amazonas
+84	ORIXIMINÁ	48.950	5,99%	66	Baixo Amazonas
+94	PLACAS	13.670	1,67%	18	Baixo Amazonas
+98	PRAINHA	25.762	3,15%	35	Baixo Amazonas
+104	RURÓPOLIS	19.498	2,39%	26	Sudoeste
+114	SANTARÉM	237.661	29,10%	320	Baixo Amazonas
+133	TERRA SANTA	14.678	1,80%	20	Baixo Amazonas
+136	TRAIRÃO	11.909	1,46%	16	Sudoeste
+140	URUARÁ	29.948	3,67%	40	Sudoeste
+	TOTAL	816.793	100,00%	1100	
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA006352022";"2022-08-23 18:15:34";"S";"26114657000173";"M DO S DA SILVA CARDOSO";"DESTAK PUBLICIDADE MARKETING E PESQUISA";"Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital";"2022-08-23 00:00:00";"2022-08-26 00:00:00";692;"9477";"LUIZ CARLOS FERREIRA FEITOSA";"6000,00";"6000,00";"A pesquisa é de cunho quantitativo, que consiste na realização de entrevistas pessoais in loco, com a aplicação de questionário estruturado na amostra representativa do eleitorado da Região da PA 279 conforme fonte de dados do TRE.";"A seleção obterá o quantitativo representativo do eleitorado dos municípios que está apto a participar das eleições/2022, elaborada respeitando os conglomerados urbano e rural em único estágio. O estágio faz-se um sorteio probabilístico dos bairros/áreas/comunidades reconhecidamente nos municípios da PA 279 e que não possui bairros definidos em Lei Municipal ou órgão oficial municipal/estadual, onde as entrevistas serão realizadas, com sub amostragem pelo método PPT (Probabilidade Proporcional ao Tamanho) se possível com respaldo de fonte secundária municipal para tal procedimento ou embasamento pelo IBGE, tomando como referência a população de 16 anos ou mais residente nos setores como base para tal seleção prevista no TRE. Os respondentes serão selecionados através de quotas amostrais proporcionais dos estratos reconhecidos pelo TRE em função de variáveis, agrupando-as conforme a natureza do levantamento: 
+PROPORÇÃO DA AMOSTRA						
+AMOSTRA	Fundamental	61%	Médio	32%	Superior 	7%
+		420		224		47
+Faixa Etária	Masculino(M)	Feminino(F)	Masculino(M)	Feminino(F)	Masculino(M)	Feminino(F)
+	51%	49%	51%	49%	51%	49%
+	214	206	114	110	24	23
+16 a 20 anos	15	14	8	8	2	2
+21 a 24 anos	20	19	11	10	2	2
+25 a 34 anos	50	48	27	26	6	5
+35 a 44 anos	47	45	25	24	5	5
+45 a 59 anos	48	46	26	25	5	5
+60+ anos	35	33	18	18	4	4
+TOTAL(TT)	214	206	114	110	24	23
+						
+MUNICIPIO	POPULAÇÃO	AMOSTRA	PORCENTUAIS			
+AGUA ZUL DO NORTE	9798	47	7%			
+XINGUARA	37269	180	26%			
+TUCUMÃ	28566	138	20%			
+SÃO FELIX	42869	207	30%			
+OURILANDIA DO NORTE	25010	121	17%			
+TOTAL		692	100%			
+A margem de erro amostral: respeitando o intervalo de confiança estimada foi de 96% e significância de 5%, tendo a margem de erro amostral total 3,8% com 1,9% pontos percentuais para mais ou para menos na amostra de 692 respondentes.";"Os pesquisadores contratados para aplicação dos formulários desta pesquisa foram treinados pela equipe técnica da DESTAK com instruções adequadas para atingir a meta e o objetivo do cliente. Quanto aos supervisores de campo, possuem a meta de atingir no mínimo 20% dos questionários dos pesquisadores indo ao local indicado ou por telefone. A validação do formulário somente será confirmada com o colhimento da ponderação previsto pela legislação eleitoral e todo o material após codificação e processamento dos dados das variáveis contidas no questionário.";"PROPORÇÃO DA AMOSTRA						
+AMOSTRA	Fundamental	61%	Médio	32%	Superior 	7%
+		420		224		47
+Faixa Etária	Masculino(M)	Feminino(F)	Masculino(M)	Feminino(F)	Masculino(M)	Feminino(F)
+	51%	49%	51%	49%	51%	49%
+	214	206	114	110	24	23
+16 a 20 anos	15	14	8	8	2	2
+21 a 24 anos	20	19	11	10	2	2
+25 a 34 anos	50	48	27	26	6	5
+35 a 44 anos	47	45	25	24	5	5
+45 a 59 anos	48	46	26	25	5	5
+60+ anos	35	33	18	18	4	4
+TOTAL(TT)	214	206	114	110	24	23
+						
+MUNICIPIO	POPULAÇÃO	AMOSTRA	PORCENTUAIS			
+AGUA ZUL DO NORTE	9798	47	7%			
+XINGUARA	37269	180	26%			
+TUCUMÃ	28566	138	20%			
+SÃO FELIX	42869	207	30%			
+OURILANDIA DO NORTE	25010	121	17%			
+TOTAL		692	100%			
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA072332022";"2022-08-22 22:40:05";"S";"26114657000173";"M DO S DA SILVA CARDOSO";"DESTAK PUBLICIDADE MARKETING E PESQUISA";"Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital";"2022-08-22 00:00:00";"2022-08-24 00:00:00";400;"9477";"LUIZ CARLOS FERREIRA FEITOSA";"6000,00";"6000,00";"A pesquisa é de cunho quantitativo, que consiste na realização de entrevistas pessoais in loco, com a aplicação de questionário estruturado na amostra representativa do eleitorado do munícipio de São Felix do Xingu conforme fonte de dados do TRE.";"A seleção obterá o quantitativo representativo do eleitorado do município pesquisado que está apto a participar das eleições/2022. A elaboração foi feita respeitando os conglomerados urbano e rural em único estágio. O estágio faz-se um sorteio probabilístico dos bairros/áreas/comunidades reconhecidamente no município e que não possui bairros definidos em Lei Municipal ou órgão oficial municipal/estadual, onde as entrevistas serão realizadas, com sub amostragem pelo método PPT (Probabilidade Proporcional ao Tamanho) se possível com respaldo de fonte secundária municipal para tal procedimento ou embasamento pelo IBGE, tomando como referência a população de 16 anos ou mais residente nos setores como base para tal seleção prevista no TRE. Os respondentes serão selecionados através de quotas amostrais proporcionais dos estratos reconhecidos pelo TRE em função de variáveis, agrupando-as conforme a natureza do levantamento: 
+PROPORÇÃO DA AMOSTRA						
+AMOSTRA	Fundamental	61%	Médio	32%	Superior 	7%
+		420		224		47
+Faixa Etária	Masculino(M)	Feminino(F)	Masculino(M)	Feminino(F)	Masculino(M)	Feminino(F)
+	51%	49%	51%	49%	51%	49%
+	214	206	114	110	24	23
+16 a 20 anos	15	14	8	8	2	2
+21 a 24 anos	20	19	11	10	2	2
+25 a 34 anos	50	48	27	26	6	5
+35 a 44 anos	47	45	25	24	5	5
+45 a 59 anos	48	46	26	25	5	5
+60+ anos	35	33	18	18	4	4
+TOTAL(TT)	214	206	114	110	24	23
+A margem de erro amostral: respeitando o intervalo de confiança estimada foi de 96% e significância de 5%, tendo a margem de erro amostral total 5% com 2,5% pontos percentuais para mais ou para menos na amostra de 400 respondentes.";"Os pesquisadores contratados para aplicação dos formulários desta pesquisa foram treinados pela equipe técnica da DESTAK com instruções adequadas para atingir a meta e o objetivo do cliente. Quanto aos supervisores de campo, possuem a meta de atingir no mínimo 20% dos questionários dos pesquisadores indo ao local indicado ou por telefone. A validação do formulário somente será confirmada com o colhimento da ponderação previsto pela legislação eleitoral e todo o material após codificação e processamento dos dados das variáveis contidas no questionário.";"PLANO AMOSTRAL S. FÉLIX DO XINGU			
+	ELEITORES	%	AMOSTRA
+ZONA URBANA	22635	52,8	211
+ZONA RURAL	20235	47,2	189
+TOTAL	42870	100,0	400
+			
+ZONA URBANA			
+Alecrin	3214	14,2	30
+Centro	3056	13,5	29
+Triunfo	2422	10,7	23
+Solar das Águas	2422	10,7	23
+São José	1109	4,9	10
+União	1109	4,9	10
+Vitória	1109	4,9	10
+JD Novo Planalto	407	1,8	4
+Aeroporto	1154	5,1	11
+Novo Horizonte	2784	12,3	26
+Rodoviário	3825	16,9	36
+TOTAL	22635	100,0	211
+			
+ZONA RURAL			
+Ladeira	2529	12,5	24
+Sudoeste	2833	14,0	26
+Lindoeste	2064	10,2	19
+Teilândia	1093	5,4	10
+Nereu	3015	14,9	28
+Tancredo	1416	7,0	13
+Taboca	7305	36,1	68
+TOTAL	20235	100,0	189
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA051012022";"2022-05-25 00:00:00";"N";"05255333000185";"V. C. H. A. SERVICOS LTDA.";"VERITATE";"Governador, Senador";"2022-05-23 00:00:00";"2022-05-30 00:00:00";1500;"7883";"Demétrio Alcone Peres";"48000,00";"48000,00";"Pesquisa do tipo quantitativa, por amostragem aleatória estratificada por cotas, realizando entrevistas pessoais, domiciliares e em fluxo, aplicando questionários estruturados junto a uma amostra representativa da população do Estado do Pará com idade igual ou maior que 16 anos, no momento da realização das entrevistas. ";"Universo: População do Estado do Pará com idade a partir de 16 anos. Tamanho da amostra: 1.500 entrevistas, a amostra é representativa da população em estudo. Técnica de amostragem: Na primeira etapa, usando o modelo IBGE de divisão do Estado em mesorregiões geográficas, dentro de cada mesorregião, faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: Sexo: Masculino, 49%; Feminino 51%. Faixa etária: Entre 16 a 24 anos, 18%; 25 a 44 anos, 45%; 45 ou mais anos, 37%; Escolaridade: Até Ensino Fundamental Completo, 46%; Ensino Médio completo ou mais, 54%. Nível econômico:  Renda: Até 2 salários mínimos 90%; De 2 a 5 salários mínimos 7%; Acima de 5 salários mínimos 3%. Está prevista eventual ponderação para correção das variáveis, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a margem de erro da pesquisa de 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada é de 3 pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. Fonte: IBGE Censo 2010 | PNAD 2019 | TSE abril de 2022.";"Para a realização da pesquisa, se utiliza uma equipe de entrevistadores e supervisores contratados pelo VCHA Serviços Ltda. - VERITATE PESQUISA DE OPINIÃO E MERCADO, devidamente treinados para a função. Após os trabalhos de campo, são escolhidos por amostragem aleatória simples 20% (vinte por cento) dos questionários aplicados pelos entrevistadores para verificação das respostas e da adequação dos entrevistadores aos parâmetros amostrais. Posteriormente todos os dados obtidos no campo são validados, codificados, digitados e analisados visando a consistência das informações.";"Mesorregião/Município/entrevistas 
+Baixo Amazonas	ORIXIMINÁ	 24 	entrevistas
+Baixo Amazonas	SANTARÉM	 126 	entrevistas
+Sudoeste Paraense	ITAITUBA	 46 	entrevistas
+Sudoeste Paraense	ALTAMIRA	 48 	entrevistas
+Marajó	BREVES	 60 	entrevistas
+Marajó	SOURE	 18 	entrevistas
+Marajó	SALVATERRA	 16 	entrevistas
+Metropolitana de Belém	BELÉM	 285 	entrevistas
+Metropolitana de Belém	ANANINDEUA	 93 	entrevistas
+Metropolitana de Belém	MARITUBA	 22 	entrevistas
+Nordeste Paraense	CAMETÁ	 44 	entrevistas
+Sudeste Paraense	REDENÇÃO	 24 	entrevistas
+Sudeste Paraense	XINGUARA	 14 	entrevistas
+Nordeste Paraense	BRAGANÇA	 42 	entrevistas
+Nordeste Paraense	TRACUATEUA	 11 	entrevistas
+Nordeste Paraense	CAPANEMA	 24 	entrevistas
+Nordeste Paraense	SANTA LUZIA DO PARÁ	 8 	entrevistas
+Nordeste Paraense	NOVA TIMBOTEUA	 8 	entrevistas
+Nordeste Paraense	IGARAPÉ-AÇU	 13 	entrevistas
+Nordeste Paraense	SÃO FRANCISCO DO PARÁ	 8 	entrevistas
+Metropolitana de Belém	CASTANHAL	 37 	entrevistas
+Nordeste Paraense	SANTA MARIA DO PARÁ	 10 	entrevistas
+Metropolitana de Belém	SANTA ISABEL DO PARÁ	 12 	entrevistas
+Metropolitana de Belém	BENEVIDES	 11 	entrevistas
+Sudeste Paraense	TUCURUÍ	 28 	entrevistas
+Sudeste Paraense	BREU BRANCO	 12 	entrevistas
+Sudeste Paraense	GOIANÉSIA DO PARÁ	 8 	entrevistas
+Nordeste Paraense	TAILÂNDIA	 23 	entrevistas
+Nordeste Paraense	MOJU	 23 	entrevistas
+Nordeste Paraense	IGARAPÉ-MIRI	 22 	entrevistas
+Nordeste Paraense	ABAETETUBA	 52 	entrevistas
+Metropolitana de Belém	BARCARENA	 25 	entrevistas
+Nordeste Paraense	MARAPANIM	 11 	entrevistas
+Nordeste Paraense	CURUÇÁ	 15 	entrevistas
+Nordeste Paraense	TERRA ALTA	 8 	entrevistas
+Sudeste Paraense	PARAUAPEBAS	 75 	entrevistas
+Sudeste Paraense	CURIONÓPOLIS	 8 	entrevistas
+Sudeste Paraense	ELDORADO DOS CARAJÁS	 8 	entrevistas
+Sudeste Paraense	MARABÁ	 70 	entrevistas
+Sudeste Paraense	RONDON DO PARÁ	 11 	entrevistas
+Sudeste Paraense	DOM ELISEU	 12 	entrevistas
+Sudeste Paraense	ULIANÓPOLIS	 8 	entrevistas
+Sudeste Paraense	PARAGOMINAS	 31 	entrevistas
+Nordeste Paraense	IPIXUNA DO PARÁ	 10 	entrevistas
+Nordeste Paraense	AURORA DO PARÁ	 8 	entrevistas
+Nordeste Paraense	MÃE DO RIO	 11 	entrevistas
+Nordeste Paraense	SÃO MIGUEL DO GUAMÁ	 17 	entrevistas
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA003432022";"2022-05-25 00:00:00";"N";"05255333000185";"V. C. H. A. SERVICOS LTDA.";"VERITATE";"Governador, Senador";"2022-05-23 00:00:00";"2022-05-30 00:00:00";1500;"7883";"Demétrio Alcone Peres";"48000,00";"48000,00";"Pesquisa do tipo quantitativa, por amostragem aleatória estratificada por cotas, realizando entrevistas pessoais, domiciliares e em fluxo, aplicando questionários estruturados junto a uma amostra representativa da população do Estado do Pará com idade igual ou maior que 16 anos, no momento da realização das entrevistas. ";"Universo: População do Estado do Pará com idade a partir de 16 anos. Tamanho da amostra: 1.500 entrevistas, a amostra é representativa da população em estudo. Técnica de amostragem: Na primeira etapa, usando o modelo IBGE de divisão do Estado em mesorregiões geográficas, dentro de cada mesorregião, faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: Sexo: Masculino, 49%; Feminino 51%. Faixa etária: Entre 16 a 24 anos, 18%; 25 a 44 anos, 45%; 45 ou mais anos, 37%; Escolaridade: Até Ensino Fundamental Completo, 46%; Ensino Médio completo ou mais, 54%. Nível econômico:  Renda: Até 2 salários mínimos 90%; De 2 a 5 salários mínimos 7%; Acima de 5 salários mínimos 3%. Está prevista eventual ponderação para correção das variáveis, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a margem de erro da pesquisa de 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada é de 3 pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. Fonte: IBGE Censo 2010 | PNAD 2019 | TSE abril de 2022.";"Para a realização da pesquisa, se utiliza uma equipe de entrevistadores e supervisores contratados pelo VCHA Serviços Ltda. - VERITATE PESQUISA DE OPINIÃO E MERCADO, devidamente treinados para a função. Após os trabalhos de campo, são escolhidos por amostragem aleatória simples 20% (vinte por cento) dos questionários aplicados pelos entrevistadores para verificação das respostas e da adequação dos entrevistadores aos parâmetros amostrais. Posteriormente todos os dados obtidos no campo são validados, codificados, digitados e analisados visando a consistência das informações.";"Mesorregião/Município/entrevistas 
+Baixo Amazonas	ORIXIMINÁ	 24 	entrevistas
+Baixo Amazonas	SANTARÉM	 126 	entrevistas
+Sudoeste Paraense	ITAITUBA	 46 	entrevistas
+Sudoeste Paraense	ALTAMIRA	 48 	entrevistas
+Marajó	BREVES	 60 	entrevistas
+Marajó	SOURE	 18 	entrevistas
+Marajó	SALVATERRA	 16 	entrevistas
+Metropolitana de Belém	BELÉM	 285 	entrevistas
+Metropolitana de Belém	ANANINDEUA	 93 	entrevistas
+Metropolitana de Belém	MARITUBA	 22 	entrevistas
+Nordeste Paraense	CAMETÁ	 44 	entrevistas
+Sudeste Paraense	REDENÇÃO	 24 	entrevistas
+Sudeste Paraense	XINGUARA	 14 	entrevistas
+Nordeste Paraense	BRAGANÇA	 42 	entrevistas
+Nordeste Paraense	TRACUATEUA	 11 	entrevistas
+Nordeste Paraense	CAPANEMA	 24 	entrevistas
+Nordeste Paraense	SANTA LUZIA DO PARÁ	 8 	entrevistas
+Nordeste Paraense	NOVA TIMBOTEUA	 8 	entrevistas
+Nordeste Paraense	IGARAPÉ-AÇU	 13 	entrevistas
+Nordeste Paraense	SÃO FRANCISCO DO PARÁ	 8 	entrevistas
+Metropolitana de Belém	CASTANHAL	 37 	entrevistas
+Nordeste Paraense	SANTA MARIA DO PARÁ	 10 	entrevistas
+Metropolitana de Belém	SANTA ISABEL DO PARÁ	 12 	entrevistas
+Metropolitana de Belém	BENEVIDES	 11 	entrevistas
+Sudeste Paraense	TUCURUÍ	 28 	entrevistas
+Sudeste Paraense	BREU BRANCO	 12 	entrevistas
+Sudeste Paraense	GOIANÉSIA DO PARÁ	 8 	entrevistas
+Nordeste Paraense	TAILÂNDIA	 23 	entrevistas
+Nordeste Paraense	MOJU	 23 	entrevistas
+Nordeste Paraense	IGARAPÉ-MIRI	 22 	entrevistas
+Nordeste Paraense	ABAETETUBA	 52 	entrevistas
+Metropolitana de Belém	BARCARENA	 25 	entrevistas
+Nordeste Paraense	MARAPANIM	 11 	entrevistas
+Nordeste Paraense	CURUÇÁ	 15 	entrevistas
+Nordeste Paraense	TERRA ALTA	 8 	entrevistas
+Sudeste Paraense	PARAUAPEBAS	 75 	entrevistas
+Sudeste Paraense	CURIONÓPOLIS	 8 	entrevistas
+Sudeste Paraense	ELDORADO DOS CARAJÁS	 8 	entrevistas
+Sudeste Paraense	MARABÁ	 70 	entrevistas
+Sudeste Paraense	RONDON DO PARÁ	 11 	entrevistas
+Sudeste Paraense	DOM ELISEU	 12 	entrevistas
+Sudeste Paraense	ULIANÓPOLIS	 8 	entrevistas
+Sudeste Paraense	PARAGOMINAS	 31 	entrevistas
+Nordeste Paraense	IPIXUNA DO PARÁ	 10 	entrevistas
+Nordeste Paraense	AURORA DO PARÁ	 8 	entrevistas
+Nordeste Paraense	MÃE DO RIO	 11 	entrevistas
+Nordeste Paraense	SÃO MIGUEL DO GUAMÁ	 17 	entrevistas
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA016392022";"2022-08-01 16:02:49";"N";"05255333000185";"V. C. H. A. SERVICOS LTDA.";"VERITATE";"Governador, Senador";"2022-08-01 00:00:00";"2022-08-05 00:00:00";1500;"7883";"Demétrio Alcone Peres";"48000,00";"48000,00";"Pesquisa do tipo quantitativa, por amostragem aleatória, estratificada por cotas, realizando entrevistas pessoais, domiciliares e em fluxo, aplicando questionários estruturados junto a uma amostra representativa da população do Estado do Pará com idade igual ou maior que 16 anos, no momento da realização das entrevistas. ";"Universo: População do Estado do Pará com idade a partir de 16 anos. Tamanho da amostra: 1.500 entrevistas, a amostra é representativa da população em estudo. Técnica de amostragem: Na primeira etapa, usando o modelo IBGE de divisão do Estado em mesorregiões geográficas, dentro de cada mesorregião, faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: Sexo: Masculino, 49%; Feminino 51%. Faixa etária: Entre 16 a 24 anos, 18%; 25 a 44 anos, 45%; 45 ou mais anos, 37%; Escolaridade: Até Ensino Fundamental Completo, 46%; Ensino Médio completo ou mais, 54%. Nível econômico: População economicamente ativa 63%; População economicamente inativa 37%. Está prevista eventual ponderação para correção das variáveis, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a margem de erro da pesquisa de 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. O nível de confiança estimado é de 95% e a margem de erro máxima estimada é de 3 pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. Fonte: IBGE Censo 2010 | PNAD 2019 | TSE abril de 2022.";"Dados relativPara a realização da pesquisa, se utiliza uma equipe de entrevistadores e supervisores contratados pelo VCHA Serviços Ltda. - VERITATE PESQUISA DE OPINIÃO E MERCADO, devidamente treinados para a função. Após os trabalhos de campo, são escolhidos por amostragem aleatória simples 20% (vinte por cento) dos questionários aplicados pelos entrevistadores para verificação das respostas e da adequação dos entrevistadores aos parâmetros amostrais. Posteriormente todos os dados obtidos no campo são validados, codificados, digitados e analisados visando a consistência das informações.";"Dados relativos aos municípios e bairros abrangidos pela pesquisa. 
+Mesorregião/Município/entrevistas 
+Baixo Amazonas	ALENQUER	 24 	entrevistas
+Baixo Amazonas	SANTARÉM	 126 	entrevistas
+Sudoeste Paraense	ITAITUBA	 46 	entrevistas
+Sudoeste Paraense	ALTAMIRA	 48 	entrevistas
+Marajó	BREVES	 60 	entrevistas
+Marajó	SOURE	 18 	entrevistas
+Marajó	SALVATERRA	 16 	entrevistas
+Metropolitana de Belém	BELÉM	 285 	entrevistas
+Metropolitana de Belém	ANANINDEUA	 93 	entrevistas
+Metropolitana de Belém	MARITUBA	 22 	entrevistas
+Nordeste Paraense	CAMETÁ	 44 	entrevistas
+Sudeste Paraense	REDENÇÃO	 24 	entrevistas
+Sudeste Paraense	XINGUARA	 14 	entrevistas
+Nordeste Paraense	BRAGANÇA	 42 	entrevistas
+Nordeste Paraense	TRACUATEUA	 11 	entrevistas
+Nordeste Paraense	CAPANEMA	 24 	entrevistas
+Nordeste Paraense	SANTA LUZIA DO PARÁ	 8 	entrevistas
+Nordeste Paraense	NOVA TIMBOTEUA	 8 	entrevistas
+Nordeste Paraense	IGARAPÉ-AÇU	 13 	entrevistas
+Nordeste Paraense	SÃO FRANCISCO DO PARÁ	 8 	entrevistas
+Metropolitana de Belém	CASTANHAL	 37 	entrevistas
+Nordeste Paraense	SANTA MARIA DO PARÁ	 10 	entrevistas
+Metropolitana de Belém	SANTA ISABEL DO PARÁ	 12 	entrevistas
+Metropolitana de Belém	BENEVIDES	 11 	entrevistas
+Sudeste Paraense	TUCURUÍ	 28 	entrevistas
+Sudeste Paraense	BREU BRANCO	 12 	entrevistas
+Sudeste Paraense	GOIANÉSIA DO PARÁ	 8 	entrevistas
+Nordeste Paraense	TAILÂNDIA	 23 	entrevistas
+Nordeste Paraense	MOJU	 23 	entrevistas
+Nordeste Paraense	IGARAPÉ-MIRI	 22 	entrevistas
+Nordeste Paraense	ABAETETUBA	 52 	entrevistas
+Metropolitana de Belém	BARCARENA	 25 	entrevistas
+Nordeste Paraense	MARAPANIM	 11 	entrevistas
+Nordeste Paraense	CURUÇÁ	 15 	entrevistas
+Nordeste Paraense	TERRA ALTA	 8 	entrevistas
+Sudeste Paraense	PARAUAPEBAS	 75 	entrevistas
+Sudeste Paraense	CURIONÓPOLIS	 8 	entrevistas
+Sudeste Paraense	ELDORADO DOS CARAJÁS	 8 	entrevistas
+Sudeste Paraense	MARABÁ	 70 	entrevistas
+Sudeste Paraense	RONDON DO PARÁ	 11 	entrevistas
+Sudeste Paraense	DOM ELISEU	 12 	entrevistas
+Sudeste Paraense	ULIANÓPOLIS	 8 	entrevistas
+Sudeste Paraense	PARAGOMINAS	 31 	entrevistas
+Nordeste Paraense	IPIXUNA DO PARÁ	 10 	entrevistas
+Nordeste Paraense	AURORA DO PARÁ	 8 	entrevistas
+Nordeste Paraense	MÃE DO RIO	 11 	entrevistas
+Nordeste Paraense	SÃO MIGUEL DO GUAMÁ	 17 	entrevistas
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA089982022";"2022-02-18 00:00:00";"S";"18365789000140";"MENTOR INTELIGENCIA, PESQUISAS E TECNOLOGIA LTDA  - ME";"MENTOR INTELIGENCIA";"Governador, Senador, Deputado Federal";"2022-02-17 00:00:00";"2022-02-21 00:00:00";810;"7655";"AUGUSTO DA SILVA ROCHA";"9280,00";"9280,00";"Pesquisa em 3 municípios representativos do estado do Pará (Belém, Ananindeua e Marituba), do tipo quantitativa, com aplicação de questionário estruturado, com utilização de discos com as respostas, abordagem pessoal , face a face, em ponto de fluxo populacional e domiciliar. O conjunto da população eleitoral dos municípios com 16 anos ou mais foi tomado como universo da pesquisa.				
+";"O público alvo do estudo é a população dos três municípios citados, residente na área urbana e rural, com 16 anos ou mais.  O desenho da amostra será realizado de acordo com os dados populacionais disponibilizados pelo Instituto Brasileiro de Geografia e Estatística (IBGE) referentes ao Censo 2010 e TSE/TRE. Para um intervalo de confiança de 95% e um tamanho de amostra de 810 entrevistas, a margem de erro máxima estimada foi de 3,5 pontos percentuais, para mais ou para menos. Sexo: Masculino 48,9% Feminino 51,1%. Faixa Etária: De 16 a 24 anos 16,6%; De 25 a 34 anos 23,8%; De 35 a 44 anos 22,1%; De 45 a 59 anos 22,4%; 60 anos ou mais 15,1%. Grau de Instrução: Analfabeto/Lê e escreve 14,1%; Ensino Fundamental Incompleto ou Completo 32,6%; Ensino Médio incompleto ou Completo 41,3%; Ensino Superior e pós graduação Incompleto ou Completo 12,0%. Renda: Até meio Salário Mínimo: 14,5%; De meio até 01 Salário Mínimo: 21,0%; De 1 a 3 salários mínimos 36,7%; De 3 a 5 salários mínimos 15,7%; Acima de 5 salários mínimos 12,1%
+";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores credenciados devidamente treinados pela empresa para esse tipo de pesquisa. Após os trabalhos de campo, 100% dos questionários são criticados e passam por uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados por cada entrevistador; através de ligações telefônicas, para verificação da consistência das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"Belém representa 71% da população de eleitores desses 3 municípios somados, e teve amostra definida em 576 entrevistas. Ananindeua representa 23% do total e teve amostra definida em 189 entrevistas e Marituba representa 6% da somatória de eleitores desses 3 municípios e teve amostra definida em 45 entrevistas. Em cada município serão selecionados e pesquisados eleitores dos bairros na quantidade proporcional ao tamanho populacional (PPT)."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA097952022";"2022-08-01 22:15:40";"S";"00654576000172";"INSTITUTO VERITA LTDA - EPP";"VERITA";"Governador, Senador";"2022-08-02 00:00:00";"2022-08-06 00:00:00";2040;"10699";"Guilherme Alvarenga Laia";"57160,00";"57160,00";"Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.";"ESTUDO REPRESENTATIVO DO ELEITORADO DO ESTADO DO PARÁ - MÉTODO PPT (Probabilidade Proporcional ao Tamanho) - PLANO AMOSTRAL E PONDERAÇÃO QUANTO A SEXO, IDADE, GRAU DE INSTRUÇÃO E NÍVEL ECONÔMICO DO ENTREVISTADO; INTERVALO DE CONFIANÇA E MARGEM DE ERRO: Representativo do eleitorado da área em estudo, elaborada, em vários estágios, da seguinte forma: - 1. Divisão da UF em estratos de municípios de acordo com os códigos de área (DDD). 2. Ordenação dos municípios de cada estrato segundo o porte. 3. Sorteio dos municípios de cada estrato. 4. Os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber:- IDADE: FEMININO, 16 A 24 ANOS; 8,8%/ MASCULINO, 16 A 24 ANOS; 8,3% / FEMININO, 25 A 34 ANOS; 12,1% / MASCULINO, 25 A 34 ANOS; 11,5% /FEMININO, 35 A 44 ANOS; 11,2% / MASCULINO, 35 A 44 ANOS; 10,7% / FEMININO, 45 A 59 ANOS; 11,3%/ MASCULINO, 45 A 59 ANOS; 11% / FEMININO, 60 ANOS OU MAIS; 7,6%/ MASCULINO, 60 ANOS OU MAIS; 7,4%- GRAU DE INSTRUÇÃO: FEMININO Analfabeto até Ensino fundamental completo 38,9%, MASCULINO Analfabeto até Ensino fundamental completo 47,3%, FEMININO Ensino Médio completo ou incompleto 34,3%, MASCULINO Ensino Médio completo ou incompleto 31,5%, FEMININO Ensino superior completo ou incompleto 26,8%, MASCULINO Ensino superior completo ou incompleto 21,2%. - NÍVEL ECONÔMICO: FEMININO Não PEA 35,0%, FEMININO PEA 65,0%, MASCULINO Não PEA 21,0%, MASCULINO PEA 79,0% - Está prevista eventual ponderação para correção das variáveis, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a margem de erro da pesquisa previsto entre a amostra e a coleta de dados realizada. O fator previsto para ponderação é 1 (resultados obtidos na coleta de dados). O intervalo de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3,0 pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010, PNAD 2019, TSE 2022, dentre outras.";"Após os trabalhos de coleta de dados, os questionários são submetidos a uma fiscalização, conferência e checagem de cerca de 20% (vinte por cento) dos questionários aplicados.";"A partir do dia em que a pesquisa puder ser divulgada e até o dia seguinte, o registro deverá ser complementado, sob pena de ser a pesquisa considerada não registrada; na ausência de delimitação do bairro, será identificada a área em que foi realizada."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"PA";"PA";"PARÁ";"PA044242022";"2022-08-27 12:59:37";"N";"40735589000190";"INTELIGENCIA EM PESQUISA E CONSULTORIA LTDA";"IPEC";"Governador, Senador";"2022-08-27 00:00:00";"2022-09-02 00:00:00";800;"6208-A";"MARCIA CAVALLARI NUNES";"81477,67";"81477,67";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do PARÁ.";"Representativo do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: GENERO: Masculino (48%), Feminino (52%); IDADE: 16-24 (masculino) 22% (feminino) 19%; 25-34 (masculino) 22% (feminino) 23%; 35-44 (masculino) 22% (feminino) 23%; 45-59 (masculino) 22% (feminino) 22%; 60 e+ (masculino) 12% (feminino) 13%; INSTRUÇÃO: Até Ensino Médio (masculino) 86% (feminino) 79%; Ensino Superior (masculino) 14% (feminino) 21%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 70% (feminino) 43%; Não Economicamente ativo (masculino) 30% (feminino) 57%. Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 03 (três) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNADC 2020 | TSE 2022.";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo INTELIGENCIA EM PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o Estado do PARÁ. A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §7º da Resolução 23.600/2019 do TSE."

@@ -1,0 +1,1267 @@
+"DT_GERACAO";"HH_GERACAO";"AA_ELEICAO";"CD_ELEICAO";"NM_ELEICAO";"SG_UF";"SG_UE";"NM_UE";"NR_PROTOCOLO_REGISTRO";"DT_REGISTRO";"ST_PESQUISA_PROPRIA";"NR_CNPJ_EMPRESA";"NM_EMPRESA";"NM_EMPRESA_FANTASIA";"DS_CARGO";"DT_INICIO_PESQUISA";"DT_FIM_PESQUISA";"QT_ENTREVISTADO";"CD_CONRE";"NM_ESTATISTICO_RESP";"VR_PESQUISA";"VR_PESQUISA";"DS_METODOLOGIA_PESQUISA";"DS_PLANO_AMOSTRAL";"DS_SISTEMA_CONTROLE";"DS_DADO_MUNICIPIO"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP079392022";"2022-08-08 14:27:38";"S";"19976273000102";"MULTI MERCADO LTDA";"#NULO#";"Governador, Senador";"2022-08-10 00:00:00";"2022-08-12 00:00:00";1500;"11035";"Louise Barbosa dos Santos Machado";"25000,00";"25000,00";"Pesquisa quantitativa por amostragem. Aplicação de questionário estruturado por meio de ligações automatizadas para telefones fixos e celulares. A abordagem utilizada consiste na aplicação de uma amostragem aleatória representativa da população residente no Estado de São Paulo, com 16 anos ou mais de idade. A amostra é selecionada respeitando-se quotas proporcionais controladas por região geográfica, sexo e faixa etária, escolaridade e renda de acordo com distribuição da população eleitoral apresentada pelo TSE ( https://www.tse.jus.br/eleicoes/estatisticas/estatisticas-eleitorais).";"Universo: Eleitorado do Estado do São Paulo, com 16 anos ou mais. A margem de erro de aproximadamente 3% para um intervalo de confiança de 95%. As ponderações em relação a sexo, idade, grau de instrução e nível econômico, estão descritas no questionário refletindo estatisticamente a proporção do eleitorado consultado. Sexo: Masculino (47,5%); Feminino (52,5%). Faixa etária: 16-24 anos (12%); 25-34 anos (19%); 35-44 anos (22%); 45-59 anos (26%); 60 ou mais (21%). Renda: Até 2 salários-mínimos (25,5%); mais de 2 a 5 salários-mínimos (43,5%); acima de 5 salários-mínimos (31%). Escolaridade: Até Fundamental completo (29%); Ensino médio incompleto ou completo (43%); Ensino superior incompleto ou completo (28%). Está prevista eventual ponderação da amostra para correção das variáveis sexo, idade, renda familiar e escolaridade com base nos percentuais anteriormente mencionados, caso ocorram diferenças entre os percentuais previstos na amostra e a coleta de dados realizada. Fonte: https://www.tse.jus.br/eleicoes/estatisticas/estatisticas-eleitorais.";"São selecionados aleatoriamente 20% (quinze por cento) dos questionários para uma verificação posterior com ligações telefônicas para os números indicados nos formulários. Em caso de inconsistências, os questionários são descartados.";"Na ausência de delimitação do bairro, será identificada a área em que foi realizada a pesquisa(conforme §7º. do art. 2º. da Resolução-TSE nº. 23.600/2019, A partir do dia em que a pesquisa puder ser divulgada e até o dia seguinte, o registro deverá ser complementado, sob pena de ser a pesquisa considerada não registrada; na ausência de delimitação do bairro, será identificada a área em que foi realizada)."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP085422022";"2022-06-27 11:44:51";"S";"19976273000102";"MULTI MERCADO LTDA";"#NULO#";"Governador";"2022-06-13 00:00:00";"2022-06-20 00:00:00";1300;"9306";"Alfredo Moreira Salgado";"45000,00";"45000,00";"Pesquisa quantitativa por amostragem. Aplicação de questionário estruturado por meio de ligações automatizadas para telefones fixos e celulares. A abordagem utilizada consiste na aplicação de uma amostragem aleatória representativa da população residente no Estado de São Paulo, com 16 anos ou mais de idade. A amostra é selecionada respeitando-se quotas proporcionais controladas por região geográfica, sexo e faixa etária, escolaridade e renda de acordo com distribuição da população eleitoral apresentada pelo TSE ( https://www.tse.jus.br/eleicoes/estatisticas/estatisticas-eleitorais)";"Universo: Eleitorado do Estado do São Paulo, com 16 anos ou mais. Amostragem: A pesquisa irá coletar 1300 eleitores. Coeficiente de confiança e margem de erro: A margem de erro de aproximadamente 3% para um intervalo e confiança de 95%. As ponderações em relação a sexo, idade, grau de instrução e nível econômico, estão descritas no questionário refletindo estatisticamente a proporção do eleitorado consultado. Sexo: Feminino 52,9% Masculino 47,1% Faixa Etária: De 16 a 24 anos 12,0%; De 25 a 34 anos 19,7%; De 35 a 44 anos 21,0%; De 45 a 59 anos 25,4%; Mais de 60 anos 21,8%. Grau de Instrução: Até Fundamental Completo 34,7%; Ensino Médio incompleto ou Completo 45,4%; Ensino Superior Incompleto ou Completo 20,0%. Renda: Até 2 salários mínimos 72,8%; De 2 a 5 salários mínimos 18,2%; Acima de 5 salários mínimos 9,1% Fonte: https://www.tse.jus.br/eleicoes/estatisticas/estatisticas-eleitorais";"São selecionados aleatoriamente 20% (quinze por cento) dos questionários para uma verificação posterior com ligações telefônicas para os números indicados nos formulários. Em caso de inconsistências, os questionários são descartados.
+
+";"Dados relativos aos municípios e bairros abrangidos pela pesquisa. Na ausência de delimitação do bairro, será identificada a área em que foi realizada a pesquisa(conforme §7º. do art. 2º. da Resolução-TSE nº. 23.600/2019, A partir do dia em que a pesquisa puder ser divulgada e até o dia seguinte, o registro deverá ser complementado, sob pena de ser a pesquisa considerada não registrada; na ausência de delimitação do bairro, será identificada a área em que foi realizada)"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP094392022";"2022-03-22 00:00:00";"N";"22345021000181";"REAL TIME MIDIA LTDA";"REAL TIME BIG DATA";"Governador, Senador";"2022-03-21 00:00:00";"2022-03-22 00:00:00";1500;"10839";"Isabela Zara Cremoneze";"20000,00";"20000,00";"A abordagem utilizada consiste na aplicação de uma amostragem aleatória representativa da população residente no Estado de São Paulo, com 16 anos ou mais de idade. A amostra é selecionada respeitando-se quotas proporcionais controladas por região geográfica, sexo e faixa etária, escolaridade e renda de acordo com distribuição da população eleitoral apresentada pelo TSE ( https://www.tse.jus.br/eleicoes/estatisticas/estatisticas-eleitorais) e do CENSO 2010. ";"O plano Amostral segundo os itens exigidos por lei seguem descritos: 
+Universo: Eleitorado do Estado de São Paulo, com 16 anos ou mais. 
+Amostragem: A pesquisa irá entrevistar 1500 eleitores. 
+Coeficiente de confiança e margem de erro:  A margem de erro de 3,0% para um intervalo e confiança de 95%.
+
+As ponderações em relação a sexo, idade, grau de instrução e nível econômico, estão descritas no questionário refletindo estatisticamente a proporção do eleitorado consultado. 
+
+Sexo: Feminino 52,9% Masculino 47,1%   
+Faixa Etária: De 16 a 24 anos 12,0% ; De 25 a 34 anos 19,7%; De 35 a 44 anos 21,0%; De 45 a 59 anos 25,4%; Mais de 60 anos 21,8%.
+Grau de Instrução: Até Fundamental Completo 40,9%; Ensino Médio incompleto ou Completo 42,0%;  Ensino Superior Incompleto ou Completo 17,1%.
+Renda: Até 2 salários 26,6%; De 2 a 5 salários mínimos 38,0%;  Acima de 5 salários mínimos 35,4%
+Fonte:  https://www.tse.jus.br/eleicoes/estatisticas/estatisticas-eleitorais e  https://cidades.ibge.gov.br/brasil/sp/panorama (CENSO 2010)
+
+";"O trabalho de coleta de dados é acompanhado in loco por supervisores de campo. São selecionados aleatoriamente 15% (quinze por cento) dos questionários para uma verificação posterior com ligações telefônicas para os números indicados nos formulários, em caso de dúvida, o formulário é descartado e o entrevistador chamado para esclarecimentos.";"Em anexo"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP025232022";"2022-06-24 18:46:23";"N";"07630546000175";"DATAFOLHA INSTITUTO DE PESQUISAS LTDA.";"#NULO#";"Governador";"2022-06-28 00:00:00";"2022-06-30 00:00:00";1806;"72.49ª";"Renata Nunes César";"231902,00";"231902,00";"Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto dos eleitores do Estado de São Paulo com 16 anos ou mais foi tomado como universo da pesquisa.";"Universo: Eleitores do Estado de São Paulo 
+Tamanho da amostra: A amostra prevista é de 1806 entrevistas. 
+Técnica de amostragem: A amostra é estratificada por natureza dos municípios (capital, região metropolitana ou interior). Em cada estrato, num primeiro estágio, são sorteados com probabilidade proporcional ao tamanho (PPT) os municípios que farão parte do levantamento. Num segundo estágio, são sorteados os bairros e pontos de abordagem onde serão aplicadas as entrevistas.  Por fim, os entrevistados são selecionados aleatoriamente para responder ao questionário, de acordo com cotas de sexo e faixa etária. O estrato referente à capital foi desproporcionalizado para permitir detalhamento dos dados, com tamanho previsto de 826 entrevistas. Nos resultados finais as corretas proporções serão restabelecidas através de ponderação.
+
+Os dados utilizados para definição e seleção da amostra são baseados nos dados fornecidos pelo TSE (junho 2022), IBGE (PNAD 2019 e Estimativa 2021) e dados primários de outros levantamentos do instituto.  Os dados relativos a sexo e faixa etária são: Sexo masculino: 47%, feminino: 53%, 16 a 24 anos 14%, 25 a 34 anos 19%, 35 a 44 anos 21%, 45 a 59 anos 25% e 60 anos ou mais 21%.
+
+Para a variável grau de instrução os dados utilizados como referência são: até nível médio completo ou incompleto (inclui os sem escolaridade e analfabetos) =75% e nível superior =25%.
+
+Ponderação dos resultados: Está prevista eventual ponderação para correção nos tamanhos dos estratos, considerando as variáveis natureza do município, sexo, faixa etária e escolaridade, de acordo com os percentuais detalhados anteriormente.  Para o nível econômico do entrevistado (renda familiar mensal declarada), a distribuição observada em levantamentos anteriores do instituto e utilizada como referência foi: Até 2 S.M. (salários mínimos)=45%, mais de 2 S.M.=52%, não souberam ou recusaram a resposta=3%.  O fator previsto para ponderação é 1 (resultados obtidos em campo).
+
+Área física: Serão realizadas entrevistas em 61 municípios, localizados no Estado de São Paulo. A relação completa dos municípios e bairros pesquisados será encaminhada a esse tribunal posteriormente até o sétimo dia seguinte à data de registro da pesquisa, conforme Resolução 23.600/2019 do TSE, no art.2º §7º. 
+
+Margem de Erro: A margem de erro máxima prevista é de 2 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95% e baseada em uma amostra aleatória simples (AAS). Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%.
+";"Os entrevistadores envolvidos na realização desta pesquisa são treinados pelo Instituto e recebem instruções específicas para cada projeto realizado. A coleta será feita com a utilização de tablet e questionário eletrônico. São checados, no mínimo, 30% dos questionários de cada pesquisador, seja in loco por supervisores de campo ou, posteriormente, por telefone. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados. Os dados coletados e tratados nesta pesquisa atendem às exigências da LGPD, Lei Geral de Proteção de Dados, garantindo ao respondente o sigilo de sua identidade e o correto tratamento de suas respostas.";"#NULO#"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP031892022";"2022-04-01 00:00:00";"N";"07630546000175";"DATAFOLHA INSTITUTO DE PESQUISAS LTDA.";"#NULO#";"Governador";"2022-04-05 00:00:00";"2022-04-07 00:00:00";1806;"72.49A";"Renata Nunes César";"231902,00";"231902,00";"Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto da população do Estado de São Paulo com 16 anos ou mais foi tomado como universo da pesquisa.";"Universo: População do Estado de São Paulo, com 16 anos ou mais. 
+Tamanho da amostra: A amostra prevista é de 1806 entrevistas. 
+Técnica de amostragem: A amostra é estratificada por natureza dos municípios (capital, região metropolitana ou interior). Em cada estrato, num primeiro estágio, são sorteados com probabilidade proporcional ao tamanho (PPT) os municípios que farão parte do levantamento. Num segundo estágio, são sorteados os bairros e pontos de abordagem onde serão aplicadas as entrevistas.  Por fim, os entrevistados são selecionados aleatoriamente para responder ao questionário, de acordo com cotas de sexo e faixa etária. O estrato referente à capital foi desproporcionalizado para permitir detalhamento dos dados, com tamanho previsto de 840 entrevistas. Nos resultados finais as corretas proporções serão restabelecidas através de ponderação.
+
+
+Os dados utilizados para definição e seleção da amostra são baseados nos dados fornecidos pelo IBGE (PNAD 2019 e Estimativa 2021) e dados primários de outros levantamentos do instituto.  Os dados relativos a sexo e faixa etária são: Sexo masculino: 47%, feminino: 53%, 16 a 24 anos 16%, 25 a 34 anos 19%, 35 a 44 anos 20%, 45 a 59 anos 25% e 60 anos ou mais 20%.
+
+Para a variável grau de instrução os dados utilizados como referência são: até nível médio completo ou incompleto (inclui os sem escolaridade e analfabetos) =73% e nível superior =27%.
+
+Ponderação dos resultados: Está prevista eventual ponderação para correção nos tamanhos dos estratos, considerando as variáveis natureza do município, sexo, faixa etária e escolaridade, de acordo com os percentuais detalhados anteriormente.  Para o nível econômico do entrevistado (renda familiar mensal declarada), a distribuição observada em levantamentos anteriores do instituto e utilizada como referência foi: Até 2 S.M. (salários mínimos)=43%, mais de 2 S.M.=52%, não souberam ou recusaram a resposta=5%.  O fator previsto para ponderação é 1 (resultados obtidos em campo).
+
+
+Área física: Serão realizadas entrevistas em 62 municípios, localizados no Estado de São Paulo. A relação completa dos municípios e bairros pesquisados será encaminhada a esse tribunal posteriormente até o sétimo dia seguinte à data de registro da pesquisa, conforme Resolução 23.600/2019 do TSE, no art.2º §7º. 
+
+Margem de Erro: A margem de erro máxima prevista é de 2 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95% e baseada em uma amostra aleatória simples (AAS). Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%.
+";" Os entrevistadores envolvidos na realização desta pesquisa são treinados pelo Instituto e recebem instruções específicas para cada projeto realizado. A coleta será feita com a utilização de tablet e questionário eletrônico. São checados, no mínimo, 30% dos questionários de cada pesquisador, seja in loco por supervisores de campo ou, posteriormente, por telefone. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados. Os dados coletados e tratados nesta pesquisa atendem às exigências da LGPD, Lei Geral de Proteção de Dados, garantindo ao respondente o sigilo de sua identidade e o correto tratamento de suas respostas.";"#NULO#"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP065942022";"2022-08-09 17:33:33";"N";"11047803000118";"SINFOR - CONSULTORIA E PESQUISA RIO PRETO LTDA.";"SINFOR - CONSULTORIA E PESQUISA";"Governador";"2022-08-10 00:00:00";"2022-08-11 00:00:00";783;"9077";"Edmilson Antônio Pereira Junior";"21000,00";"21000,00";"A metodologia de pesquisa utilizada é quantitativa, do tipo survey, que consiste na aplicação domiciliar de questionários estruturados junto a uma amostra representativa de eleitores do município de São José do Rio Preto/SP.";"A amostra dos eleitores de São José do Rio Preto/SP é distribuída de forma a contemplar todas as regiões geográficas do município, a partir de quotas proporcionais ao universo, disponibilizadas pelo site do TSE e do IBGE, considerando as variáveis sexo, faixa etária, grau de instrução e nível econômico dos entrevistados. Distribuição da amostra: Sexo (Fonte: TSE-2022): Masculino - 45,9% e Feminino - 54,1%; Faixa etária (Fonte: TSE-2022): 16 e 17 anos - 0,8%; 18 a 24 anos - 9,9%; 25 a 34 anos - 18,2%; 35 a 44 anos - 20,4%; 45 a 59 anos - 25,6% e 60 anos ou mais - 25,1%; Grau de instrução (Fonte: TSE-2022): Analfabeto/Lê e escreve - 3,7%; Ensino fundamental incompleto - 20,5%; Ensino fundamental completo - 7,2%; Ensino médio incompleto - 17,2%; Ensino médio completo - 29,7%; Ensino superior incompleto - 5,8%; Ensino superior completo - 15,9%; Nível econômico (Fonte: Censo Demográfico IBGE-2010): Sem rendimento - 25,4%; Até 1 salário mínimo - 14,2%; Mais de 1 a 2 salários mínimo - 27,8%; Mais de 2 a 5 salários mínimo - 22,4%; Mais de 5 a 10 salários mínimo - 6,8% e Mais de 10 salários mínimo - 3,4%. O fator de ponderação utilizado é igual a 1, entretanto, está prevista eventual ponderação para correção das variáveis, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. A amostra utilizada de 783 eleitores do município de São José do Rio Preto/SP, ao nível de 95% de confiança, apresenta margem de erro estimada de 3,5 pontos percentuais, para mais ou para menos.";"A equipe de pesquisa é composta por entrevistadores e supervisores devidamente treinados para o tipo de trabalho. Serão checados 20% dos questionários realizados por cada entrevistador através de entrevistas pessoais e por telefone para verificação das respostas e de local de residência. ";"Área 1
+Cidadania
+Santo Antônio
+Santo Antônio I
+Arroyo
+Vetorazzo
+Alto das Andorinhas
+Dom Lafayete
+Marajé
+Juriti
+Simões
+Manoel Del Arco
+Zé Menino
+Planalto
+
+Área 2
+Solo Sagrado
+Ary Attab
+Antunes
+Maria Lucia
+José Felipe Antônio
+Jardim das Oliveiras
+Colorado
+Califórnia
+Bom Sucesso
+
+Área 3
+Floresta Park
+Mafalda
+Mafalda II
+Asturias
+Maria Zorita
+Universo
+Borghese I
+Borghese II
+Borghese III
+Gisete
+Etemp
+Bianco
+Aroeira I
+Aroeira II
+Nato Vetorazzo
+Perdizes
+Duas Vendas
+Caetano
+Gabriela
+Antonieta
+Palestra
+Jardim do Cedro
+Anna Angélica
+Alice
+Atlântica
+Anielli	Parque do Sol
+Belo Horizonte
+Núcleo Bela Vista
+Porto Segua
+Macedo Telles I
+Macedo Telles II
+Lauriano Tebar
+Santa Lúcia
+Henriqueta
+Santa Angela
+Renata Tarrefeamento
+ 
+Área 4
+Laranjeiras
+João da Silva
+Romana
+Los Angeles
+Santa Barbara
+Nossa Senhora da Penha
+Costa do Sol
+União
+Elizeu Carlos Pinto
+Mugnani
+Miguelzinho
+Ana Célia I
+Ana Célia II
+Braga
+Ipanema
+Santa Inês
+Paraíso
+Vale do Sol
+Tranquilidade
+
+Área 5
+Clementina
+Núcleo Santa Clara
+Jaguaré
+São João
+João Paulo
+Elmaz
+Jardim do Norte
+Garcia
+São José do Rio Preto
+Machado
+Amazonas
+Felicidade
+Bosque Verde
+Carlos Arnaldo Silva
+Auferville V
+Santa Rosa I
+Santa Rosa II
+Nazareth
+Sônia
+	Caparroz
+Suzana
+Bosque Jardim
+Castelinho
+Vale Verde II
+Bosque da Felicidade
+Jardim do Lago
+Flores
+Seyon
+Giuliane
+Urupês
+
+Área 6
+Novaes
+Vania M.
+Joaquim Nabuco
+Roselly
+Progresso
+Santa Izabel
+Glachetto
+Mangini
+Guararema
+São Luiz Gonzaga
+América
+Nossa Senhora do Carmo
+Bordon
+Vieira
+Alto Alegre
+Regina Maura
+Casa Branca
+Oasbarro
+Vila Flora
+São Deocleciano
+Santa Helena
+Maria Stella
+Terra Nova
+Liberdade
+Bosque Jardim
+Castelinho
+Vale Verde II
+Bosque da Felicidade
+Jardim do Lago
+Flores
+Seyon
+Giuliane
+Urupês
+Luz da Esperança
+Lealdade e Amizade 
+
+Área 7
+
+Anchieta
+Moná
+Angélica
+São Luiziamento
+Maceno
+Seixas
+
+Paulista
+São Vicente
+Americano
+São Paulo
+Ideal
+Bela Vista
+Goyos
+Primavera
+Fuscaldo
+Três Marias
+Yolanda
+Vista Alegre
+Dahma
+Gaivota
+São Miguel
+Maranbaia
+Jardins
+
+Área 8
+Centro
+Imperial
+Nossa Sra de Fátima
+São João
+Redentora
+Fiareze
+Santo Antônio
+Aurora
+Santa Cruz
+Ercília
+Cristina
+Elvira
+Doria
+Celeste
+Analice
+Caparroz
+Santa Tereza
+Estrela Gomes
+Soraia
+Zafra
+Mansou Daud
+
+Área 9
+Saúde
+São Pedro
+São Miguel
+Pinheiros
+Nova Redentora
+Morumbi
+Santa Cândida
+Francisco Fernandes
+Universitário
+Vivendas
+Aclimação
+Village
+Moisés Miguel	Débora Cristina
+Green Valle
+Eco Village
+Tarraf I
+ 
+Área 10
+Sinibaldi
+Braziluza
+Santa Luzia
+São Joaquim
+Santa Catarina
+Santa Maria
+Quinta das Paineiras
+Urano
+Bom Jardim
+Novo Mundo
+Redentor
+Cidade Nova
+Higienópolis
+Estoril
+Tangará
+Nosso Sr. do Bonfim
+São Francisco
+Viena
+Alba Residencial
+Bosque das Vivendas
+  
+Área 11
+Rio da Prata
+Conceição
+Boa Esperança
+João Gonçalves da Silva
+Moreira
+Explanada
+Zilda
+Industrial
+Luiz Pinto Moraes
+Córdula
+Boa Vista
+Tonello
+Diva
+
+Área 12
+Alvorada
+Alto Rio Preto
+Maria Cândida
+Herculano
+Vila Itália
+Maracanã
+Recanto Real
+Tarraf II
+Gonzaga de Campos
+São José Operário
+Jaime Castro
+São Jorge
+Roseira
+Maria
+Spínola Castroeamente
+Canaã
+Dorival de Carvalho
+Congonhas
+Nossa Senhora da Paz
+Santos Dummont
+ 
+Área 13
+Campo Grande
+Quinta da Mata
+Guiomar Assad
+Romano Calil
+São Judas
+Hipôdromo
+Núcleo Santa Catarina
+Núcleo Vila Azul
+Vitória Régia
+Tancredo Neves
+Cristo Rei
+Laureano Tebar
+Cambuí
+Vila Toninho
+São Marcos
+Cidade Jardim
+Dignidade
+
+
+
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP056242022";"2022-06-24 16:42:20";"N";"11047803000118";"SINFOR - CONSULTORIA E PESQUISA RIO PRETO LTDA.";"SINFOR - CONSULTORIA E PESQUISA";"Governador";"2022-06-25 00:00:00";"2022-06-26 00:00:00";783;"9077";"Edmilson Antônio Pereira Junior";"21000,00";"21000,00";"A metodologia de pesquisa utilizada é quantitativa, do tipo survey, que consiste na aplicação domiciliar de questionários estruturados junto a uma amostra representativa de eleitores do município de São José do Rio Preto/SP.";"A amostra dos eleitores de São José do Rio Preto é distribuída de forma a contemplar todas as regiões geográficas do município, a partir de quotas proporcionais ao universo, disponibilizadas pelo site do TSE e do IBGE, considerando as variáveis sexo, faixa etária, grau de instrução e nível econômico dos entrevistados. Distribuição da amostra: Sexo (Fonte: TSE-2022): Masculino - 45,93% e Feminino - 54,00%; Faixa etária (Fonte: TSE-2022): 16 e 17 anos - 1,08%; 18 a 24 anos - 10,2%; 25 a 34 anos - 18,35%; 35 a 44 anos - 20,32%; 45 a 59 anos - 25,44% e 60 anos ou mais - 24,54%; Grau de instrução (Fonte: TSE-2022): Analfabeto/Lê e escreve - 3,72%; Até ensino fundamental incompleto - 20,56%; Ensino fundamental completo - 7,15%; Ensino médio completo - 29,70%; Ensino médio incompleto - 17,19%; Ensino superior completo - 15,90%; Ensino superior incompleto - 5,74%; Nível econômico (Fonte: Censo Demográfico IBGE-2010): Sem rendimento - 32,8%; Até 1 salário mínimo - 26,6%; Mais de 1 a 2 salários mínimo - 21,3%; Mais de 2 a 5 salários mínimo -15,0%; Mais de 5 a 10 salários mínimo - 3,2% e Mais de 10 salários mínimo - 1,1%. O fator de ponderação utilizado é igual a 1, entretanto, está prevista eventual ponderação para correção das variáveis, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. A amostra utilizada de 783 eleitores do município de São José do Rio Preto/SP, ao nível de 95% de confiança, apresenta margem de erro estimada de 3,5 pontos percentuais, para mais ou para menos.";"A equipe de pesquisa é composta por entrevistadores e supervisores devidamente treinados para o tipo de trabalho. Serão checados 20% dos questionários realizados por cada entrevistador através de entrevistas pessoais e por telefone para verificação das respostas e de local de residência. ";"Área 1 = Cidadania; Santo Antonio; Santo Antonio I; Arroyo; Vetorazzo; Alto das Andorinhas; Dom Lafayete; Marajé; Juriti; Simões; Manoel Del Arco; Zé Menino; Planalto; Perdizes; Duas Venda e Caetano.
+
+Área 2 = Solo Sagrado; Ary Attab; Antunes; Maria Lucia; José Felipe Antonio; Jardim das Oliveiras; Colorado; Califórnia e Bom Sucesso.
+
+Área 3 = Floresta Park; Mafalda 2; Mafalda; Asturias;  Maria Zorita; Universo; Borghese I, II, III; Giset; Etemp; Bianco; Aroeiras I, II; Nato Vetorazzo; Gabriela; Antonieta; Palestra; Jardim do Cedro; Anna Agélica; Alice; Atlântica; Anielli; Parque do Sol; Belo Horizonte; Núcleo Bela Vista; Porto Seguro; Macedo Telles I, II; Lauriano Tebar;  Santa Lucia; Henriqueta; Santa Angela e RenataTarrafeamento.
+
+Área 4 = Laranjeiras; João da Silva; Romana; Los Angeles; Santa Barbara; nossa Senhora da Penha; Costa do Sol; união; Elizeu Carlos Pinto; Mugnaini; Miguelzinho; Ana Célia I, II; Braga; Ipanema; Santa Inês; Paraíso; Vale do Sol e Tranquilidade.
+
+Área 5 = Santa Rosa I,II; Nazareth; Sonia; Caparroz; Suzana; Bosque Jardim; Castelinho; Vale Verde II; Bosque da Felicidade; Jardim do Lago; Flores; Seyon; Giuliane; Urupês; Clementina; Núcleo Santa Clara; Jaguaré; São João; João Paulo; Elmaz; Jardim do Norte; Garcia;  São José do Rio Preto; Machado; Amazonas; Felicidade; Bosque Verde; Carlos Arnaldo Silva e Auferville V.
+
+Área 6 = Novaes; Vania M.; Joaquim Nabuco; Roselly; Progresso;  Santa Izabel; Glachetto; Mangini; Guararema; São Luiz Gonzaga; América; Nossa Senhora do Carmo; Bordon; Vieira; Alto Alegre; Regina Maura; Casa Blanca; Oasbarro; Vila Flora; São Deocleciano; Santa Helena; Maria Stella; Terra Nova e Liberdade.
+
+Área 7 = Anchieta; Moná; Angélica; São Luiziamento;  Maceno; Seixas;  Paulista; São Vicente; Americano; São Paulo; Ideal; Bela Vista; Goyos; Primavera; Fuscaldo; Três Marias; Yolanda; Vista Alegre; Dahma; Gaivota; São Miguel; Maranbaia e Jardins.
+
+Área 8 = Centro; Imperial; Nossa Senhora de Fátima; São João;	Redentora; Fiareze; Santo Antonio; Aurora; Santa Cruz; Diniz; Ercília; Cristina; Elvira; Dória; Celeste; Analice; Caparroz; Santa Tereza; Estrela; Gomes; Soraia; Zafra e Mansour Daud.
+
+Área 9 = Saúde; São Pedro; São Manoel; Pinheiros; Nova Redentora; Morumbi; Santa Cândida; Francisco Fernandes; Universitário; Vivendas; Aclimação; Village; Débora Cristina; Green Valle; Moisés Miguel; Eco Village e Tarraf I.
+
+Área 10 = Sinibalde; Braziluza; Santa Luzia; São Joaquim; Santa Catarina; Santa Maria; Quinta das Paineiras; Urano; Bom Jardim; Novo Mundo; Redentor; Cidade Nova; Higienópolis; Estoril; Tangará; Nosso Senhor do Bonfim; São Francisco; Vieria; Alba Residencial e Bosque das Vivendas.
+
+Área 11 = Rio da Prata; Conceição; Boa Esperança; João Gonçalves da Silva; Moreira; Explanada; Zilda; Industrial; Luiz Pinto Moraes; Córdula; Boa Vista; Tonello e Diva.
+
+Área 12 = Jaime Castro; São Jorge; Roseira; Maria; Spínola Castroeamente; Canaã; Dorival de Carvalho; Congonhas; Nossa Senhora da Paz; Santos Dumont; Alvorada; Alto Rio Preto; Maria Cândida; Herculando; Vila Itália; Maracanã; Recanto Real; Tarraf II; Conzaga de Campos e São José Operário.
+
+Área 13 = Campo Verde; Quinta da Mata; Guiomar Assad; Romano Calil; São Judas; Hipôdromo; Núcleo Santa Catarina; Núcleo Vila Azul; Vitória Régia; Tancredo Neves; Cristo Rei; Laureano Tebar; Cambuí, Vila Toninho, São Marcos e Cidade Jardim.
+
+
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP030362022";"2022-08-26 17:46:25";"N";"11047803000118";"SINFOR - CONSULTORIA E PESQUISA RIO PRETO LTDA.";"SINFOR - CONSULTORIA E PESQUISA";"Governador, Senador";"2022-08-26 00:00:00";"2022-08-28 00:00:00";902;"9077";"Edmilson Antônio Pereira Junior";"24500,00";"24500,00";"A metodologia de pesquisa utilizada é quantitativa, do tipo survey, que consiste na aplicação domiciliar de questionários estruturados junto a uma amostra representativa de eleitores do município de São José do Rio Preto/SP.";"A amostra dos eleitores de São José do Rio Preto/SP é distribuída de forma a contemplar todas as regiões geográficas do município, a partir de quotas proporcionais ao universo, disponibilizadas pelo site do TSE e do IBGE, considerando as variáveis sexo, faixa etária, grau de instrução e nível econômico dos entrevistados. Distribuição da amostra: Sexo (Fonte: TSE-2022): Masculino ¿ 45,9% e Feminino ¿ 54,1%; Faixa etária (Fonte: TSE-2022): 16 e 17 anos ¿ 0,8%; 18 a 24 anos ¿ 9,9%; 25 a 34 anos ¿ 18,2%; 35 a 44 anos ¿ 20,4%; 45 a 59 anos ¿ 25,6% e 60 anos ou mais ¿25,1%; Grau de instrução (Fonte: TSE-2022): Analfabeto/Lê e escreve ¿ 3,7%; Ensino fundamental incompleto ¿ 20,5%; Ensino fundamental completo ¿ 7,2%; Ensino médio incompleto ¿ 17,2%; Ensino médio completo ¿ 29,7%; Ensino superior incompleto ¿ 5,8%; Ensino superior completo ¿ 15,9%; Nível econômico (Fonte: Censo Demográfico IBGE-2010): Sem rendimento ¿ 25,4%; Até 1 salário mínimo ¿ 14,2%; Mais de 1 a 2 salários mínimo ¿ 27,8%; Mais de 2 a 5 salários mínimo ¿ 22,4%; Mais de 5 a 10 salários mínimo ¿ 6,8% e Mais de 10 salários mínimo ¿ 3,4%. O fator de ponderação utilizado é igual a 1, entretanto, está prevista eventual ponderação para correção das variáveis, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. A amostra utilizada de 902 eleitores do município de São José do Rio Preto/SP, ao nível de 95% de confiança, apresenta margem de erro estimada de 3,3 pontos percentuais, para mais ou para menos.";"A equipe de pesquisa é composta por entrevistadores e supervisores devidamente treinados para o tipo de trabalho. Serão checados 20% dos questionários realizados por cada entrevistador através de entrevistas pessoais e por telefone para verificação das respostas e de local de residência. ";"Área 1
+Cidadania
+Santo Antônio
+Santo Antônio I
+Arroyo
+Vetorazzo
+Alto das Andorinhas
+Dom Lafayete
+Marajé
+Juriti
+Simões
+Manoel Del Arco
+Zé Menino
+Planalto
+
+Área 2
+Solo Sagrado
+Ary Attab
+Antunes
+Maria Lucia
+José Felipe Antônio
+Jardim das Oliveiras
+Colorado
+Califórnia
+Bom Sucesso
+
+Área 3
+Floresta Park
+Mafalda
+Mafalda II
+Asturias
+Maria Zorita
+Universo
+Borghese I
+Borghese II
+Borghese III
+Gisete
+Etemp
+Bianco
+Aroeira I
+Aroeira II
+Nato Vetorazzo
+Perdizes
+Duas Vendas
+Caetano
+Gabriela
+Antonieta
+Palestra
+Jardim do Cedro
+Anna Angélica
+Alice
+Atlântica
+Anielli	Parque do Sol
+Belo Horizonte
+Núcleo Bela Vista
+Porto Segua
+Macedo Telles I
+Macedo Telles II
+Lauriano Tebar
+Santa Lúcia
+Henriqueta
+Santa Angela
+Renata Tarrefeamento
+ 
+Área 4
+Laranjeiras
+João da Silva
+Romana
+Los Angeles
+Santa Barbara
+Nossa Senhora da Penha
+Costa do Sol
+União
+Elizeu Carlos Pinto
+Mugnani
+Miguelzinho
+Ana Célia I
+Ana Célia II
+Braga
+Ipanema
+Santa Inês
+Paraíso
+Vale do Sol
+Tranquilidade
+
+Área 5
+Clementina
+Núcleo Santa Clara
+Jaguaré
+São João
+João Paulo
+Elmaz
+Jardim do Norte
+Garcia
+São José do Rio Preto
+Machado
+Amazonas
+Felicidade
+Bosque Verde
+Carlos Arnaldo Silva
+Auferville V
+Santa Rosa I
+Santa Rosa II
+Nazareth
+Sônia
+Caparroz
+Suzana
+Bosque Jardim
+Castelinho
+Vale Verde II
+Bosque da Felicidade
+Jardim do Lago
+Flores
+Seyon
+Giuliane
+Urupês
+
+Área 6
+Novaes
+Vania M.
+Joaquim Nabuco
+Roselly
+Progresso
+Santa Izabel
+Glachetto
+Mangini
+Guararema
+São Luiz Gonzaga
+América
+Nossa Senhora do Carmo
+Bordon
+Vieira
+Alto Alegre
+Regina Maura
+Casa Branca
+Oasbarro
+Vila Flora
+São Deocleciano
+Santa Helena
+Maria Stella
+Terra Nova
+Liberdade
+Bosque Jardim
+Castelinho
+Vale Verde II
+Bosque da Felicidade
+Jardim do Lago
+Flores
+Seyon
+Giuliane
+Urupês
+Luz da Esperança
+Lealdade e Amizade 
+
+Área 7
+
+Anchieta
+Moná
+Angélica
+São Luiziamento
+Maceno
+Seixas
+
+
+
+Paulista
+São Vicente
+Americano
+São Paulo
+Ideal
+Bela Vista
+Goyos
+Primavera
+Fuscaldo
+Três Marias
+Yolanda
+Vista Alegre
+Dahma
+Gaivota
+São Miguel
+Maranbaia
+Jardins
+
+Área 8
+Centro
+Imperial
+Nossa Sra de Fátima
+São João
+Redentora
+Fiareze
+Santo Antônio
+Aurora
+Santa Cruz
+Ercília
+Cristina
+Elvira
+Doria
+Celeste
+Analice
+Caparroz
+Santa Tereza
+Estrela Gomes
+Soraia
+Zafra
+Mansou Daud
+
+Área 9
+Saúde
+São Pedro
+São Miguel
+Pinheiros
+Nova Redentora
+Morumbi
+Santa Cândida
+Francisco Fernandes
+Universitário
+Vivendas
+Aclimação
+Village
+Moisés Miguel	Débora Cristina
+Green Valle
+Eco Village
+Tarraf I
+ 
+Área 10
+Sinibaldi
+Braziluza
+Santa Luzia
+São Joaquim
+Santa Catarina
+Santa Maria
+Quinta das Paineiras
+Urano
+Bom Jardim
+Novo Mundo
+Redentor
+Cidade Nova
+Higienópolis
+Estoril
+Tangará
+Nosso Sr. do Bonfim
+São Francisco
+Viena
+Alba Residencial
+Bosque das Vivendas
+  
+Área 11
+Rio da Prata
+Conceição
+Boa Esperança
+João Gonçalves da Silva
+Moreira
+Explanada
+Zilda
+Industrial
+Luiz Pinto Moraes
+Córdula
+Boa Vista
+Tonello
+Diva
+
+Área 12
+Alvorada
+Alto Rio Preto
+Maria Cândida
+Herculano
+Vila Itália
+Maracanã
+Recanto Real
+Tarraf II
+Gonzaga de Campos
+São José Operário
+Jaime Castro
+	São Jorge
+Roseira
+Maria
+Spínola Castroeamente
+Canaã
+Dorival de Carvalho
+Congonhas
+Nossa Senhora da Paz
+Santos Dummont
+ 
+Área 13
+Campo Grande
+Quinta da Mata
+Guiomar Assad
+Romano Calil
+São Judas
+Hipôdromo
+Núcleo Santa Catarina
+Núcleo Vila Azul
+Vitória Régia
+Tancredo Neves
+Cristo Rei
+Laureano Tebar
+Cambuí
+Vila Toninho
+São Marcos
+Cidade Jardim
+Dignidade
+
+
+
+
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP035742022";"2022-02-12 00:00:00";"N";"11849437000110";"IPESPE INST DE PESQUISAS SOCIAIS POLITICAS E ECONOMICAS";"#NULO#";"Governador";"2022-02-14 00:00:00";"2022-02-16 00:00:00";1000;"5255 da 5a Região";"Joaquim André Harmes Figueiredo";"42000,00";"42000,00";"Pesquisa quantitativa, telefônica, através de entrevistas a pessoas às quais é aplicado um questionário estruturado. Essas pessoas constituem uma amostra representativa dos eleitores do estado de São Paulo com acesso à rede telefônica fixa (na residência ou no trabalho) e a telefone celular. As entrevistas serão realizadas por equipes de pesquisadores, com bastante experiência nesse tipo de trabalho, e especialmente treinados para esta pesquisa.";"Serão realizadas 1000 entrevistas no estado de SP. Sendo 28% na capital, 20% na periferia e 52% no interior. No plano de amostragem utilizado para a estratificação são considerados os municípios, os sexos e as faixas etárias dos entrevistados. Inicialmente as unidades amostrais são os municípios e no estágio seguinte são as pessoas residentes nos municípios. Para a seleção dos entrevistados será utilizado o sistema de cotas amostrais segundo Sexo e Grupos de idade. O número de entrevistas foi estabelecido com base em uma amostragem aleatória simples com um nível estimado de 95,45 % de confiança e uma margem de erro estimada de 3,2 pontos percentuais sobre os resultados encontrados no total da amostra. A distribuição amostral esperada é masculino 47 %, feminino 53 %; 16 a 24 anos 12%, 25 a 44 anos 41% ,45 a 59 anos 26% e 60 anos e mais 21%; até ensino fundamental 28%, ensino médio 42% e ensino superior 30%; renda familiar de até 2 salários mínimos 37%, de mais de 2 a 5 salários mínimos 41% e de mais de 5 mínimos 22%. Está prevista eventual ponderação para correção das variáveis demográficas e econômicas, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Fontes dos Dados: Censo 2010/ PNAD, da Fundação IBGE/ TSE.";"Após as entrevistas, os questionários serão submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores, para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área física de realização da pesquisa é o Estado de São Paulo . Os municípios nos quais serão realizadas as entrevistas serão informados após a conclusão do levantamento de campo."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP053182022";"2022-07-01 17:29:11";"N";"22445600000104";"QUAEST PESQUISAS, CONSULTORIA E PROJETOS LTDA.";"#NULO#";"Governador, Senador";"2022-07-01 00:00:00";"2022-07-04 00:00:00";1640;"6731";"Margarida Maria de Mendonça";"141300,00";"141300,00";"Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais no estado de São Paulo. ";"O público pesquisado é composto por eleitores de 16 anos ou mais residentes no estado de São Paulo. Para produzir uma amostra representativa desse público-alvo, utilizamos um desenho amostral por conglomerados que prevê três estágios. No primeiro estágio, é feito um sorteio probabilístico de municípios para comporem a amostra por meio do método PPT (Probabilidade Proporcional ao Tamanho) a partir de suas populações votantes acima de 16 anos. Dentro da lista de municípios sorteados, no segundo estágio, é realizado um sorteio probabilístico por meio do método PPT (Probabilidade Proporcional ao Tamanho) de setores censitários a serem visitados pelos entrevistadores, sorteio que tem como base o total de habitantes acima de 16 anos residentes nos setores. Por fim, no terceiro estágio, são selecionados domicílios e pessoas a serem entrevistadas utilizando-se cotas amostrais para as seguintes variáveis: sexo, idade, renda familiar e escolaridade. O perfil da amostra, definido pelas cotas previstas, é o seguinte:
+
+SEXO: Masculino (47%); Feminino (53%). IDADE: 16-24 anos (12,3%); 25-34 anos (19,3%); 35-44 anos (21%); 45-59 anos (26%); 60 ou mais (21,4%). RENDA FAMILIAR: Até 2 salários-mínimos (25%); mais de 2 a 5 salários-mínimos (44%); acima de 5 salários-mínimos (31%). ESCOLARIDADE/INSTRUÇÃO: Até Fundamental completo (29%); Ensino médio incompleto ou completo (43%); Ensino superior incompleto ou completo (28%). Fonte dos dados: TSE-Tribunal Superior Eleitoral - 2022; IBGE-Censo 2010; IBGE-PNADC 2021.
+
+Está prevista eventual ponderação da amostra para correção das variáveis sexo, idade, renda familiar e escolaridade com base nos percentuais anteriormente mencionados, caso ocorram diferenças entre os percentuais previstos na amostra e a coleta de dados realizada. 
+
+Dentro do público-alvo, serão realizadas 1640 entrevistas. O nível de confiança estimado é de 95% e a margem de erro máxima prevista, baseada em uma amostra aleatória simples (AAS), é de cerca de 2,4 pontos percentuais para mais ou para menos em relação aos totais da amostra.
+";"As entrevistas serão realizadas por uma equipe de entrevistadores devidamente qualificada, com experiência e treinamento em pesquisa de opinião pública. Todo trabalho é feito em tablets ou outros dispositivos eletrônicos. Após a realização da coleta de dados, as entrevistas junto aos respondentes são checadas por meio de procedimentos de consistência. Adicionalmente, ao longo e após os trabalhos de campo, é realizada uma fiscalização que consiste na checagem de uma amostra de 20% dos questionários aplicados para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o estado de São Paulo. A relação dos municípios e áreas selecionadas para a pesquisa constará em anexo a ser apresentado até o dia seguinte à data a partir da qual a pesquisa puder ser divulgada, conforme §7º do art. 2º da Resolução-TSE nº. 23.600/2019.
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP021352022";"2022-08-05 18:52:32";"N";"22445600000104";"QUAEST PESQUISAS, CONSULTORIA E PROJETOS LTDA.";"#NULO#";"Governador, Senador";"2022-08-05 00:00:00";"2022-08-08 00:00:00";2000;"6731";"Margarida Maria de Mendonça";"131100,00";"131100,00";"Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais no estado de São Paulo. ";"O público pesquisado é composto por eleitores de 16 anos ou mais residentes no estado de São Paulo. Para produzir uma amostra representativa desse público-alvo, utilizamos um desenho amostral por conglomerados que prevê três estágios. No primeiro estágio, é feito um sorteio probabilístico de municípios para comporem a amostra por meio do método PPT (Probabilidade Proporcional ao Tamanho) a partir de suas populações votantes acima de 16 anos. Dentro da lista de municípios sorteados, no segundo estágio, é realizado um sorteio probabilístico por meio do método PPT (Probabilidade Proporcional ao Tamanho) de setores censitários a serem visitados pelos entrevistadores, sorteio que tem como base o total de habitantes acima de 16 anos residentes nos setores. Por fim, no terceiro estágio, são selecionados domicílios e pessoas a serem entrevistadas utilizando-se cotas amostrais para as seguintes variáveis: sexo, idade, renda familiar e escolaridade. O perfil da amostra, definido pelas cotas previstas, é o seguinte:
+
+SEXO: Masculino (47%); Feminino (53%). IDADE: 16-24 anos (12,3%); 25-34 anos (19,3%); 35-44 anos (21%); 45-59 anos (26%); 60 ou mais (21,4%). RENDA FAMILIAR: Até 2 salários-mínimos (25%); mais de 2 a 5 salários-mínimos (44%); acima de 5 salários-mínimos (31%). ESCOLARIDADE/INSTRUÇÃO: Até Fundamental completo (29%); Ensino médio incompleto ou completo (43%); Ensino superior incompleto ou completo (28%). Fonte dos dados: TSE-Tribunal Superior Eleitoral - 2022; IBGE-Censo 2010; IBGE-PNADC 2021;IBGE-PNADC-1/2022.
+
+Está prevista eventual ponderação da amostra para correção das variáveis sexo, idade, renda familiar e escolaridade com base nos percentuais anteriormente mencionados, caso ocorram diferenças entre os percentuais previstos na amostra e a coleta de dados realizada. 
+
+Dentro do público-alvo, serão realizadas 2000 entrevistas. O nível de confiança estimado é de 95% e a margem de erro máxima prevista, baseada em uma amostra aleatória simples (AAS), é de cerca de 2 pontos percentuais para mais ou para menos em relação aos totais da amostra.
+";"As entrevistas serão realizadas por uma equipe de entrevistadores devidamente qualificada, com experiência e treinamento em pesquisa de opinião pública. Todo trabalho é feito em tablets ou outros dispositivos eletrônicos. Após a realização da coleta de dados, as entrevistas junto aos respondentes são checadas por meio de procedimentos de consistência. Adicionalmente, ao longo e após os trabalhos de campo, é realizada uma fiscalização que consiste na checagem de uma amostra de 20% dos questionários aplicados para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o estado de São Paulo. A relação dos municípios e áreas selecionadas para a pesquisa constará em anexo a ser apresentado até o dia seguinte à data a partir da qual a pesquisa puder ser divulgada, conforme §7º do art. 2º da Resolução-TSE nº. 23.600/2019."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP010452022";"2022-04-09 00:00:00";"S";"25348249000113";"ALEXANDRE SOCRATES NAVISKAS - ME";"#NULO#";"Governador, Deputado Federal, Deputado Estadual";"2022-04-11 00:00:00";"2022-04-20 00:00:00";1000;"9443-A";"Marcelo Hidemi Uemura";"12000,00";"12000,00";"Pesquisa do tipo quantitativa, com amostragem por quotas representativas do eleitorado (Sexo, Faixa Etária, Escolaridade, Renda e Municípios) da Região do Alto Tietê, abrangendo os municípios de Arujá-SP, Bertioga-SP, Biritiba Mirim-SP, Ferraz de Vasconcelos-SP, Guararema-SP, Itaquaquecetuba-SP, Mogi das Cruzes-SP, Poá-SP, Salesópolis-SP, Santa Isabel-SP, Suzano-SP  (Fonte de Dados: TSE e IBGE), para intenção de votos para Presidente, Governador, e Deputados, através de questionário estruturado, com questões abertas e fechadas, e abrangência presencial, sendo entrevistada no máximo uma pessoa por família, de forma que se possa determinar as verdadeiras intenções do eleitor com relação ao pleito que se aproxima.";"Amostra composta por 1.000 eleitores. Cada Estrato proporcional ao tamanho do Universo de eleitores da Região. Foram divididos da seguinte maneira: Gênero: Feminino: 52,90%; Masculino: 47,10%. Faixa Etária: 16 a 24 anos: 14,90%; 25 a 34 anos: 20,70%; 35 a 44 anos: 21,10%; 45 a 59 anos: 25,30%; Mais de 60 anos: 18,00%. Grau de Instrução: Analfabeto / Lê e escreve: 6,40%; Ensino Fundamental Incompleto / Completo: 26,10%; Ensino Médio Incompleto / Completo: 52,40%; Ensino Superior Incompleto / Completo: 15,10%. Renda Mensal Individual: Sem Rendimentos até 2 Salário Mínimos: 76,80%; De 2 a 5 Salários Mínimos: 17,50%; Mais de 5 Salários Mínimos: 5,70%. Fonte de dados: TSE: Março/2022 e IBGE: Censo Demográfico 2010. Margem de erro 3,1% para mais ou para menos, considerando um nível de confiança de 95,0%. Há a previsão para eventual ponderação para correção nos tamanhos dos estratos, considerando as variáveis do plano amostral.";"Para a coleta de dados, utiliza-se uma equipe de entrevistadores contratados, devidamente treinados para o trabalho, além de contarem com apoio de supervisor para eventuais dúvidas. Após a realização das entrevistas, os questionários passam por uma codificação e crítica, e depois disso, são fiscalizados entre 10% a 20%.";"A Região foi dividida em 11 municípios: Arujá-SP: 4,80%, Bertioga-SP: 4,00%, Biritiba Mirim-SP: 2,00%, Ferraz de Vasconcelos-SP: 8,90%, Guararema-SP: 2,10%, Itaquaquecetuba-SP: 20,90%, Mogi das Cruzes-SP: 27,70%, Poá-SP: 6,30%, Salesópolis-SP: 1,10%, Santa Isabel-SP: 3,20%, Suzano-SP: 19,00%."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP062732022";"2022-07-28 21:43:45";"N";"22345021000181";"REAL TIME MIDIA LTDA";"REAL TIME BIG DATA";"Governador, Senador";"2022-08-01 00:00:00";"2022-08-02 00:00:00";2000;"10839";"ISABELA ZARA CREMONEZE";"20000,00";"20000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado de SÃO PAULO.
+
+";"Representativo do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. 
+No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. 
+No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber:
+ IDADE:
+ 16-24 (masculino) 13% (feminino) 12%; 
+25-34 (masculino) 20% (feminino) 18%;
+ 35-44 (masculino) 21% (feminino) 21%;
+ 45-59 (masculino) 25% (feminino) 25%;
+ 60 e+ (masculino) 21% (feminino) 24%;
+INSTRUÇÃO: 
+Até Ensino Médio (masculino) 82% (feminino) 78%;
+ Ensino Superior (masculino) 18% (feminino) 22%; 
+NÍVEL ECONÔMICO: 
+Economicamente ativo (masculino) 75% (feminino) 56%;
+ Não Economicamente ativo (masculino) 25% (feminino) 44%.
+Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo).
+ O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3 (três) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNADC 2020 | TSE 2022.
+";"O trabalho de coleta de dados é acompanhado in loco por supervisores de campo. São selecionados aleatoriamente 15% (quinze por cento) dos questionários para uma verificação posterior com ligações telefônicas para os números indicados nos formulários, em caso de dúvida, o formulário é descartado e o entrevistador chamado para esclarecimentos.";"O documento com os bairros autodeclarados será anexado de acordo com a resolução."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP056932022";"2022-05-17 20:32:00";"N";"22345021000181";"REAL TIME MIDIA LTDA";"REAL TIME BIG DATA";"Governador, Senador";"2022-05-20 00:00:00";"2022-05-21 00:00:00";1500;"10839";"Isabela Zara Cremoneze";"20000,00";"20000,00";"A abordagem utilizada consiste na aplicação de uma amostragem aleatória representativa da população residente no Estado de São Paulo, com 16 anos ou mais de idade. A amostra é selecionada respeitando-se quotas proporcionais controladas por região geográfica, sexo e faixa etária, escolaridade e renda de acordo com distribuição da população eleitoral apresentada pelo TSE ( https://www.tse.jus.br/eleicoes/estatisticas/estatisticas-eleitorais) e do CENSO 2010. ";"O plano Amostral segundo os itens exigidos por lei seguem descritos: 
+Universo: Eleitorado do Estado do São Paulo, com 16 anos ou mais. 
+Amostragem: A pesquisa irá entrevistar 1500 eleitores aptos. 
+Coeficiente de confiança e margem de erro:  A margem de erro de aproximadamente 3% para um intervalo e confiança de 95%.
+
+
+As ponderações em relação a sexo, idade, grau de instrução e nível econômico, estão descritas no questionário refletindo estatisticamente a proporção do eleitorado consultado. 
+
+
+Sexo: Feminino 52,9% Masculino 47,1%   
+Faixa Etária: De 16 a 24 anos 12,0%; De 25 a 34 anos 19,7%; De 35 a 44 anos 21,0%; De 45 a 59 anos 25,4%; Mais de 60 anos 21,8%.
+Grau de Instrução: Até Fundamental Completo 34,7%; Ensino Médio incompleto ou Completo 45,4%; Ensino Superior Incompleto ou Completo 20,0%.
+Renda: Até 2 salários mínimos 72,8%; De 2 a 5 salários mínimos 18,2%; Acima de 5 salários mínimos 9,1%
+Fonte:  https://www.tse.jus.br/eleicoes/estatisticas/estatisticas-eleitorais e https://cidades.ibge.gov.br/brasil/sp/panorama (CENSO 2010)
+
+";"O trabalho de coleta de dados é acompanhado in loco por supervisores de campo. São selecionados aleatoriamente 15% (quinze por cento) dos questionários para uma verificação posterior com ligações telefônicas para os números indicados nos formulários, em caso de dúvida, o formulário é descartado e o entrevistador chamado para esclarecimentos.
+";"Em anexo"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP006042022";"2022-08-16 21:36:35";"N";"22345021000181";"REAL TIME MIDIA LTDA";"REAL TIME BIG DATA";"Governador, Senador";"2022-08-19 00:00:00";"2022-08-20 00:00:00";2000;"10839";"ISABELA ZARA CREMONEZE";"20000,00";"20000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado de SÃO PAULO.";"Representativo do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. 
+No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. 
+No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber:
+ IDADE:
+ 16-24 (masculino) 13% (feminino) 12%; 
+25-34 (masculino) 20% (feminino) 18%;
+ 35-44 (masculino) 21% (feminino) 21%;
+ 45-59 (masculino) 25% (feminino) 25%;
+ 60 e+ (masculino) 21% (feminino) 24%;
+INSTRUÇÃO: 
+Até Ensino Médio (masculino) 82% (feminino) 78%;
+ Ensino Superior (masculino) 18% (feminino) 22%; 
+NÍVEL ECONÔMICO: 
+Economicamente ativo (masculino) 75% (feminino) 56%;
+ Não Economicamente ativo (masculino) 25% (feminino) 44%.
+Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo).
+ O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3 (três) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNADC 2020 | TSE 2022.";"O trabalho de coleta de dados é acompanhado in loco por supervisores de campo. São selecionados aleatoriamente 15% (quinze por cento) dos questionários para uma verificação posterior com ligações telefônicas para os números indicados nos formulários, em caso de dúvida, o formulário é descartado e o entrevistador chamado para esclarecimentos.
+";"Será anexado de acordo com a resolução."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP058042022";"2022-07-05 22:06:57";"N";"22345021000181";"REAL TIME MIDIA LTDA";"REAL TIME BIG DATA";"Governador, Senador";"2022-07-08 00:00:00";"2022-07-09 00:00:00";1500;"10839";"Isabela Zara Cremoneze";"20000,00";"20000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado de SÃO PAULO.";"Representativo do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. 
+No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. 
+No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber:
+ IDADE:  16-24 (masculino) 14% (feminino) 13%; 25-34 (masculino) 20% (feminino) 19%; 35-44 (masculino) 21% (feminino) 20%;
+ 45-59 (masculino) 25% (feminino) 26%;  60 e+ (masculino) 20% (feminino) 22%; INSTRUÇÃO:  Até Ensino Médio (masculino) 87% (feminino) 81%;
+ Ensino Superior (masculino) 13% (feminino) 19%;  NÍVEL ECONÔMICO: Economicamente ativo (masculino) 75% (feminino) 56%;
+ Não Economicamente ativo (masculino) 25% (feminino) 44%.
+Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo).
+ O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3 (três) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNADC 2020 | TSE 2022.
+
+";"O trabalho de coleta de dados é acompanhado in loco por supervisores de campo. São selecionados aleatoriamente 15% (quinze por cento) dos questionários para uma verificação posterior com ligações telefônicas para os números indicados nos formulários, em caso de dúvida, o formulário é descartado e o entrevistador chamado para esclarecimentos.
+";"Em anexo."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP080962022";"2022-06-03 18:15:44";"N";"41938632000188";"MM IDEIA INSTITUTO DE PESQUISA LTDA.";"INSTITUTO IDEIA";"Governador, Senador";"2022-06-03 00:00:00";"2022-06-08 00:00:00";1200;"10524";"Adriana Aparecida Marçal";"22876,00";"22876,00";"Pesquisa quantitativa com aplicação de questionário estruturado, através de inquérito telefônico, junto a uma parcela representativa do eleitorado do estado de São Paulo.";"Representativo do eleitorado da área em estudo selecionado por amostragem através do método de probabilidade proporcional ao tamanho (PPT), considerando a população com 16 anos ou mais residente na localidade pesquisada em função das seguintes variáveis: Gênero: Masculino:47%; Feminino: 53%; Grupos de idade: 16-24: 12%; 25-34: 19%; 35-44: 21%; 45-59: 26%; 60 anos e mais: 21%; Nível de escolaridade: Sem instrução: 5%; Fundamental: 27%; Médio: 47% e Superior: 21%.. Ponderação dos resultados: Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). Margem de Erro: A margem de erro máxima estimada é de 3% para mais ou para menos, considerando um nível de confiança de 95%. Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%. FONTEDOS DADOS: As proporções das variáveis são definidas a partir das pesquisas PNAD 2021 e Censo2010/IBGE, TSE 2021.";"Os pesquisadores envolvidos na realização desta pesquisa são devidamente treinados para aplicação da técnica e deste tipo de questionário, recebendo instruções específicas para cada projeto. A coleta será feita por telefone. São checados 30% dos questionários de cada pesquisador, posteriormente, por telefone. Há monitoramento, ao vivo, de contatos telefônicos. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados.";"A área de abrangência da coleta é o estado de São Paulo. A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §6º da Resolução 23.600/2019 do TSE."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP083452022";"2022-06-27 17:13:53";"N";"81908345000140";"INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA";"#NULO#";"Governador, Senador";"2022-06-27 00:00:00";"2022-06-30 00:00:00";1820;"10245 - 4ª Região";"Tatiani Cristina Ara";"96000,00";"96000,00";"Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de São Paulo.
+
+
+";"""A amostra será representativa do eleitorado da área pesquisada e será selecionada em três etapas. Na primeira etapa realiza-se um sorteio probabilístico dos municípios onde as entrevistas serão realizadas através do método PPT (Probabilidade Proporcional ao Tamanho), considerando a população eleitora com 16 anos ou mais residente nos municípios como base para essa seleção. Na segunda etapa, faz-se um sorteio probabilístico das localidades, onde as entrevistas serão realizadas, através do método PPT (Probabilidade Proporcional ao Tamanho), tomando a população eleitora de 16 anos ou mais residente nas localidades como base para essa seleção. Na terceira etapa, a seleção do entrevistado dentro da localidade, será feita utilizando-se quotas amostrais proporcionais, em função das seguintes variáveis:
+GÊNERO:
+Masculino - 47%;
+Feminino - 53% |
+FAIXA ETÁRIA:
+Entre 16 e 24 anos: 14%;
+Entre 25 e 34 anos: 19%;
+Entre 35 e 44 anos: 21%;
+Entre 45 e 59 anos: 25%;
+Com 60 anos ou mais: 21% |
+ESCOLARIDADE:
+De analfabeto até ensino fundamental completo: 31%;
+Ensino médio incompleto ou completo: 48%
+Ensino superior incompleto ou completo: 21% |
+RENDA DOMICILIAR MENSAL:
+Sem rendimentos até 2 salários mínimos: 31%
+Mais de 2 a 5 salários mínimos: 39%
+Mais de 5 salários mínimos: 30%
+Está prevista eventual ponderação para correção das variáveis gênero e faixa etária, com base nos percentuais acima apresentados, caso ocorram diferenças superiores a 3,0 (três) pontos percentuais entre o previsto na amostra e a coleta realizada, para as variáveis escolaridade e renda domiciliar mensal, o fator de ponderação é igual a 1, (resultados obtidos no campo). O nível de confiança estimado é de 95% (noventa e cinco por cento) para uma margem de erro estimada, considerando uma técnica de amostragem aleatória simples, de 2,3 (dois vírgula três) pontos percentuais para mais ou para menos sobre os resultados obtidos. Fonte de Dados: IBGE Censo 2010 e TSE - Maio 2022.""
+
+
+
+
+
+";"As entrevistas serão realizadas por uma equipe de entrevistadores e supervisores devidamente qualificada pelo Instituto Paraná Pesquisas, com experiência e treinamento em pesquisas de opinião pública. No decorrer do trabalho de coleta de dados, os questionários aplicados, serão auditados em no mínimo 20% (vinte por cento) para verificação quanto ao cuidado na sua aplicação, bem como a adequação do entrevistado às variáveis das quotas amostrais.
+
+
+
+
+
+";" ""A pesquisa será realizada no Estado de São Paulo, a relação dos municípios  selecionados para a pesquisa será apresentado até o dia seguinte à data a partir da qual a pesquisa puder ser divulgada, conforme §7º do art. 2º da Resolução-TSE nº. 23.600/2019""
+
+
+
+
+
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP019442022";"2022-08-19 23:26:55";"N";"19259002000128";"NERVERA SERVICOS DE INFORMATICA LTDA";"NERVERA";"Governador, Senador";"2022-08-20 00:00:00";"2022-08-24 00:00:00";1600;"11.037";"Gabrielle Alves Palermo Cavalcante";"35000,00";"35000,00";"Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de São Paulo.
+";"Amostra aleatória pós-estratificada via algoritmo iterativo utilizando-se quotas amostrais proporcionais representativas, em função das características do eleitorado de SP: SEXO: Masculino - 47%; Feminino - 53%. FAIXA ETÁRIA: Entre 16 e 24 anos: 13%; Entre 25 e 34 anos: 19%; Entre 35 e 44 anos: 21%; Entre 45 e 59 anos: 25%; 60 anos ou mais: 22%. ESCOLARIDADE: Ensino Fundamental completo ou incompleto e eleitores sem educação formal: 30%; Ensino Médio completo ou incompleto: 39%; Ensino Superior completo ou incompleto: 31%. NÍVEL ECONÔMICO: Renda familiar mensal até R$2000: 26%; Mais de R$2.000 a R$3.000: 20%; Mais de R$3.000 a R$5.000: 24%; Mais de R$5.000 a R$10.000: 20%; Mais de R$10.000: 12%. OBS.: devido ao arredondamento, a soma dos percentuais pode variar de 99% a 101%. Na agregação final, para cada variável de ponderação serão admissíveis desvios de até 2 pontos percentuais em relação as quotas estipuladas. O nível de confiança estimado é de 95% para uma margem de erro de +/- 2 ponto percentual. FONTE DOS DADOS: PNADC 2021 para as cotas de escolaridade e nível econômico | TSE 2022 para as cotas de sexo e faixa etária.
+";"Coleta feita com a utilização de questionário eletrônico com procedimentos específicos para o armazenamento seguro dos dados. São checados manualmente no mínimo 15% dos questionários para detectar possíveis anomalias. Pesquisadores especializados realizam internamente uma verificação exaustiva da consistência dos dados antes da divulgação dos resultados finais.
+";"Conforme previsto no art. 2º, da Resolução 23.600, de 12 de dezembro de 2019, o registro da pesquisa é complementado com os dados relativos aos municípios e bairros abrangidos pela pesquisa."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP069622022";"2022-04-05 00:00:00";"N";"11849437000110";"IPESPE INST DE PESQUISAS SOCIAIS POLITICAS E ECONOMICAS";"#NULO#";"Governador";"2022-04-06 00:00:00";"2022-04-09 00:00:00";1000;"5255 da 5a Região";"Joaquim André Harmes Figueiredo";"42000,00";"42000,00";"Pesquisa quantitativa, telefônica, através de entrevistas a pessoas às quais é aplicado um questionário estruturado. Essas pessoas constituem uma amostra representativa dos eleitores do estado de São Paulo com acesso à rede telefônica fixa (na residência ou no trabalho) e a telefone celular. As entrevistas serão realizadas por equipes de pesquisadores, com bastante experiência nesse tipo de trabalho, e especialmente treinados para esta pesquisa.";"Serão realizadas 1000 entrevistas no estado de SP. Sendo 28% na capital, 20% na periferia e 52% no interior. No plano de amostragem utilizado para a estratificação são considerados os municípios, os sexos e as faixas etárias dos entrevistados. Inicialmente as unidades amostrais são os municípios e no estágio seguinte são as pessoas residentes nos municípios. Para a seleção dos entrevistados será utilizado o sistema de cotas amostrais segundo Sexo e Grupos de idade. O número de entrevistas foi estabelecido com base em uma amostragem aleatória simples com um nível estimado de 95,45 % de confiança e uma margem de erro estimada de 3,2 pontos percentuais sobre os resultados encontrados no total da amostra. A distribuição amostral esperada é masculino 47 %, feminino 53 %; 16 a 24 anos 12%, 25 a 44 anos 41% ,45 a 59 anos 26% e 60 anos e mais 21%; até ensino fundamental 28%, ensino médio 42% e ensino superior 30%; renda familiar de até 2 salários mínimos 37%, de mais de 2 a 5 salários mínimos 41% e de mais de 5 mínimos 22%. Está prevista eventual ponderação para correção das variáveis demográficas e econômicas, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Fontes dos Dados: Censo 2010/ PNAD, da Fundação IBGE/ TSE.";"Após as entrevistas, os questionários serão submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores, para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área física de realização da pesquisa é o Estado de São Paulo . Os municípios nos quais serão realizadas as entrevistas serão informados após a conclusão do levantamento de campo."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP069192022";"2022-04-21 19:21:16";"N";"09415165000107";"GOVNET PESQUISA E TECNOLOGIA DA INFORMACAO LTDA";"#NULO#";"Governador, Deputado Federal, Deputado Estadual";"2022-04-20 00:00:00";"2022-04-25 00:00:00";800;"9261-A";"HELOISA RODRIGUES BARBOSA";"12000,00";"12000,00";"Pesquisa quantitativa com aplicação de questionários estruturados através de entrevistas pessoais domiciliares e abordagem telefônica, junto a uma amostra aleatória, proporcional e representativa do eleitorado do Estado de São Paulo, com 16 anos ou mais. Amostra estratificada por sexo, faixa etária e conglomerados regionais, cujos municípios foram definidos por meio de sorteio probabilístico. Entrevistas aplicadas através de sistema de cotas pré-definidas de sexo, faixa etária e município, tomando-se como base dados oriundos do Tribunal Superior Eleitoral, Censo IBGE 2010 e PNADC 2020.";"Serão realizadas 800 entrevistas junto ao eleitorado do Estado de São Paulo, com 16 anos ou mais. Os percentuais para ponderação de possíveis desvios em relação às cotas estabelecidas são os seguintes: quanto a sexo - feminino, 53%; masculino, 47%. Quanto a faixa etária - 16 a 24 anos, 13%; 25 a 34 anos, 21%; 35 a 44 anos, 22%; 45 a 54 anos, 19%; 55 anos ou mais, 25%. Quanto ao nível econômico: até 2 salários mínimos, 35%; mais de 2 a 5 salários mínimos, 43%; mais de 5 salários mínimos, 22%. Quanto ao grau de instrução - até fundamental completo, 30%; médio incompleto e completo, 42%; superior incompleto ou mais, 28%. A margem de erro para o total da amostra é de 3,5% (três ponto cinco pontos percentuais), para mais ou para menos, calculada considerando-se um coeficiente de confiança de 95% (noventa e cinco por cento).";"As equipes de campo têm em seus quadros supervisores que acompanham e checam a aplicação dos questionários no local como também a obediência às cotas pré-definidas; sua função é atestar a fidelidade das respostas obtidas pelos pesquisadores e garantir o rigor metodológico na aplicação dos formulários.  Sistema Interno de verificação: através da utilização de software específico, são aplicados testes para averiguar a consistência dos resultados obtidos. Após os testes de consistência, é verificada, por meio telefônico, no mínimo, 20% da amostra coletada.";"#NULO#"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP033442022";"2022-08-01 22:22:23";"S";"00654576000172";"INSTITUTO VERITA LTDA - EPP";"VERITA";"Governador, Senador";"2022-08-02 00:00:00";"2022-08-06 00:00:00";4060;"10699";"Guilherme Alvarenga Laia";"117740,00";"117740,00";"Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.";"ESTUDO REPRESENTATIVO DO ELEITORADO DO ESTADO DE SÃO PAULO - MÉTODO PPT (Probabilidade Proporcional ao Tamanho) - PLANO AMOSTRAL E PONDERAÇÃO QUANTO A SEXO, IDADE, GRAU DE INSTRUÇÃO E NÍVEL ECONÔMICO DO ENTREVISTADO; INTERVALO DE CONFIANÇA E MARGEM DE ERRO: Representativo do eleitorado da área em estudo, elaborada, em vários estágios, da seguinte forma: - 1. Divisão da UF em estratos de municípios de acordo com os códigos de área (DDD). 2. Ordenação dos municípios de cada estrato segundo o porte. 3. Sorteio dos municípios de cada estrato. 4. Os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber:- IDADE: FEMININO, 16 A 24 ANOS; 6,4%/ MASCULINO, 16 A 24 ANOS; 6,1% / FEMININO, 25 A 34 ANOS; 10% / MASCULINO, 25 A 34 ANOS; 9,3% /FEMININO, 35 A 44 ANOS; 11,1% / MASCULINO, 35 A 44 ANOS; 9,9% / FEMININO, 45 A 59 ANOS; 13,9%/ MASCULINO, 45 A 59 ANOS; 12,1% / FEMININO, 60 ANOS OU MAIS; 12%/ MASCULINO, 60 ANOS OU MAIS; 9,4%- GRAU DE INSTRUÇÃO: FEMININO Analfabeto até Ensino fundamental completo 29,7%, MASCULINO Analfabeto até Ensino fundamental completo 30,5%, FEMININO Ensino Médio completo ou incompleto 30,9%, MASCULINO Ensino Médio completo ou incompleto 33%, FEMININO Ensino superior completo ou incompleto 39,4%, MASCULINO Ensino superior completo ou incompleto 36,5%. - NÍVEL ECONÔMICO: FEMININO Não PEA 35,0%, FEMININO PEA 65,0%, MASCULINO Não PEA 21,0%, MASCULINO PEA 79,0% - Está prevista eventual ponderação para correção das variáveis, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a margem de erro da pesquisa previsto entre a amostra e a coleta de dados realizada. O fator previsto para ponderação é 1 (resultados obtidos na coleta de dados). O intervalo de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 2,0 pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010, PNAD 2019, TSE 2022, dentre outras.";"Após os trabalhos de coleta de dados, os questionários são submetidos a uma fiscalização, conferência e checagem de cerca de 20% (vinte por cento) dos questionários aplicados.";"A partir do dia em que a pesquisa puder ser divulgada e até o dia seguinte, o registro deverá ser complementado, sob pena de ser a pesquisa considerada não registrada; na ausência de delimitação do bairro, será identificada a área em que foi realizada."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP040352022";"2022-08-09 19:08:28";"N";"40735589000190";"INTELIGENCIA EM PESQUISA E CONSULTORIA LTDA";"IPEC";"Governador, Senador";"2022-08-09 00:00:00";"2022-08-15 00:00:00";1200;"6208-A";"MARCIA CAVALLARI NUNES";"93398,65";"93398,65";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado de SÃO PAULO.";"Representativo do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: IDADE: 16-24 (masculino) 16% (feminino) 14%; 25-34 (masculino) 19% (feminino) 18%; 35-44 (masculino) 21% (feminino) 21%; 45-59 (masculino) 27% (feminino) 27%; 60 e+ (masculino) 18% (feminino) 19%; INSTRUÇÃO: Até Ensino Médio (masculino) 70% (feminino) 67%; Ensino Superior (masculino) 30% (feminino) 33%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 70% (feminino) 51%; Não Economicamente ativo (masculino) 30% (feminino) 49%. Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 03 (TRÊS) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNADC 2020 | TSE 2022.";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo INTELIGENCIA EM PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o Estado de SÃO PAULO. A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §7º da Resolução 23.600/2019 do TSE."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP047602022";"2022-08-15 18:00:20";"N";"28343797000149";"INSTITUTO TRAVESSIA DIAGNOSTICO LTDA";"#NULO#";"Governador, Senador";"2022-08-17 00:00:00";"2022-08-19 00:00:00";800;"10831";"Ana Paula da Silva Prado";"15000,00";"15000,00";"Pesquisa do tipo quantitativa telefônica, com aplicação de questionário estruturado no município de São Paulo. O conjunto da população eleitoral deste município, com 16 anos ou mais, foi tomado como universo da pesquisa.";"O público-alvo do estudo é a população do município de São Paulo residente na área urbana com 16 anos ou mais. O desenho da amostra será realizado de acordo com os dados populacionais disponibilizados pelo Instituto Brasileiro de Geografia e Estatística (IBGE) referentes ao Censo 2010 e TSE/TRE. Para um intervalo de confiança de 95% e um tamanho de amostra de 800 entrevistas, a margem de erro máxima estimada foi de 3.5 pontos percentuais, para mais ou para menos. 
+O perfil da amostra, definido por cotas previstas é: SEXO: Masculino (46%); Feminino (54%). IDADE: 16-24 anos (12%); 25-34 anos (19%); 35-44 anos (21%); 45-59 anos (25%); 60 ou mais (23%). RENDA FAMILIAR: Até 2 salários-mínimos (29%); mais de 2 a 5 salários-mínimos (34%); acima de 5 salários-mínimos (37%). ESCOLARIDADE/INSTRUÇÃO: Até Fundamental completo (30%); Ensino médio incompleto ou completo (47%); Ensino superior incompleto ou completo (23%).";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores credenciados devidamente treinados pela empresa para esse tipo de pesquisa. Após os trabalhos de coleta, 100% dos questionários são criticados e passam por uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados por cada entrevistador; para verificação da consistência das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"ÁGUA RASA; ALTO DE PINHEIROS; ANHANGUERA; ARICANDUVA; ARTUR ALVIM; BARRA FUNDA; BELA VISTA; BELÉM; BOM RETIRO; BRÁS; BRASILÂNDIA; BUTANTÃ; CACHOEIRINHA; CAMBUCI; CAMPO BELO; CAMPO GRANDE; CAMPO LIMPO; CANGAIBA; CAPÃO REDONDO; CARRÃO; CASA VERDE; CIDADE ADEMAR; CIDADE DUTRA; CIDADE LIDER; CIDADE TIRADENTES; CONSOLAÇÃO; CURSINO; ERMELINO MATARAZZO; FREGUESIA DO Ó; GRAJAÚ; GUAIANASES; IGUATEMI; IPIRANGA; ITAIM BIBI; ITAIM PAULISTA; ITAQUERA; JABAQUARA; JAÇANÃ; JAGUARA; JAGUARÉ; JARAGUÁ; JARDIM ÂNGELA; JARDIM HELENA; JARDIM PAULISTA; JARDIM SÃO LUÍS; JOSÉ BONIFÁCIO; LAJEADO; LAPA; LIBERDADE; LIMÃO; MANDAQUI; MARSILAC; MOEMA; MOOCA; MORUMBI; PARELHEIROS; PARI; PARQUE DO CARMO; PEDREIRA; PENHA; PERDIZES; PERUS; PINHEIROS; PIRITUBA; PONTE RASA; RAPOSO TAVARES; REPÚBLICA; RIO PEQUENO; SACOMÃ; SANTA CECÍLIA; SANTANA; SANTO AMARO; SÃO DOMINGOS; SÃO LUCAS; SÃO MATEUS; SÃO MIGUEL; SÃO RAFAEL; SAPOPEMBA; SAÚDE; SÉ; SOCORRO; TATUAPÉ; TREMEMBÉ; TUCURUVI; VILA ANDRADE; VILA CURUÇÁ; VILA FORMOSA; VILA GUILHERME; VILA JACUÍ; VILA LEOPOLDINA; VILA MARIA; VILA MARIANA; VILA MATILDE; VILA MEDEIROS; VILA PRUDENTE; VILA SÔNIA."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP049542022";"2022-08-26 18:15:39";"N";"07630546000175";"DATAFOLHA INSTITUTO DE PESQUISAS LTDA.";"#NULO#";"Governador, Senador";"2022-08-30 00:00:00";"2022-09-01 00:00:00";1808;"72.49A";"Renata Nunes César";"231902,00";"231902,00";"Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto dos eleitores do Estado de São Paulo com 16 anos ou mais foi tomado como universo da pesquisa.";"Universo: Eleitores do Estado de São Paulo 
+Tamanho da amostra: A amostra prevista é de 1808 entrevistas. 
+Técnica de amostragem: A amostra é estratificada por natureza dos municípios (capital, região metropolitana ou interior). Em cada estrato, num primeiro estágio, são sorteados com probabilidade proporcional ao tamanho (PPT) os municípios que farão parte do levantamento. Num segundo estágio, são sorteados os bairros e pontos de abordagem onde serão aplicadas as entrevistas.  Por fim, os entrevistados são selecionados aleatoriamente para responder ao questionário, de acordo com cotas de sexo e faixa etária. O estrato referente à capital foi desproporcionalizado para permitir detalhamento dos dados, com tamanho previsto de 812 entrevistas. Nos resultados finais as corretas proporções serão restabelecidas através de ponderação.
+
+
+Os dados utilizados para definição e seleção da amostra são baseados nos dados fornecidos pelo TSE (agosto2022), IBGE (PNAD 2019 e Estimativa 2021) e dados primários de outros levantamentos do instituto.  Os dados relativos a sexo e faixa etária são: Sexo masculino: 47%, feminino: 53%, 16 a 24 anos 13%, 25 a 34 anos 19%, 35 a 44 anos 21%, 45 a 59 anos 25% e 60 anos ou mais 22%.
+
+Para a variável grau de instrução os dados utilizados como referência são: até nível médio completo ou incompleto (inclui os sem escolaridade e analfabetos) =74% e nível superior (completo ou incompleto) =26%.
+
+Ponderação dos resultados: Está prevista eventual ponderação para correção nos tamanhos dos estratos, considerando as variáveis natureza do município, sexo, faixa etária e escolaridade, de acordo com os percentuais detalhados anteriormente.  Para o nível econômico do entrevistado (renda familiar mensal declarada), a distribuição observada em levantamentos anteriores do instituto e utilizada como referência foi: Até 2 S.M. (salários mínimos)=41%, mais de 2 S.M.=56%, não souberam ou recusaram a resposta=3%.  O fator previsto para ponderação é 1 (resultados obtidos em campo).
+
+
+Área física: Serão realizadas entrevistas em 74 municípios, localizados no Estado de São Paulo. A relação completa dos municípios e bairros pesquisados será encaminhada a esse tribunal posteriormente até o sétimo dia seguinte à data de registro da pesquisa, conforme Resolução 23.600/2019 do TSE, no art.2º §7º. 
+
+Margem de Erro: A margem de erro máxima prevista é de 2 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95% e baseada em uma amostra aleatória simples (AAS). Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%.
+";"Os entrevistadores envolvidos na realização desta pesquisa são treinados pelo Instituto e recebem instruções específicas para cada projeto realizado. A coleta será feita com a utilização de tablet e questionário eletrônico. São checados, no mínimo, 30% dos questionários de cada pesquisador, seja in loco por supervisores de campo ou, posteriormente, por telefone. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados. Os dados coletados e tratados nesta pesquisa atendem às exigências da LGPD, Lei Geral de Proteção de Dados, garantindo ao respondente o sigilo de sua identidade e o correto tratamento de suas respostas.";"#NULO#"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP021702022";"2022-08-12 17:57:20";"N";"07630546000175";"DATAFOLHA INSTITUTO DE PESQUISAS LTDA.";"#NULO#";"Governador, Senador";"2022-08-16 00:00:00";"2022-08-18 00:00:00";1812;"72.49A";"Renata Nunes César";"231902,00";"231902,00";"Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto dos eleitores do Estado de São Paulo com 16 anos ou mais foi tomado como universo da pesquisa.";"Universo: Eleitores do Estado de São Paulo 
+Tamanho da amostra: A amostra prevista é de 1812 entrevistas. 
+Técnica de amostragem: A amostra é estratificada por natureza dos municípios (capital, região metropolitana ou interior). Em cada estrato, num primeiro estágio, são sorteados com probabilidade proporcional ao tamanho (PPT) os municípios que farão parte do levantamento. Num segundo estágio, são sorteados os bairros e pontos de abordagem onde serão aplicadas as entrevistas.  Por fim, os entrevistados são selecionados aleatoriamente para responder ao questionário, de acordo com cotas de sexo e faixa etária. O estrato referente à capital foi desproporcionalizado para permitir detalhamento dos dados, com tamanho previsto de 840 entrevistas. Nos resultados finais as corretas proporções serão restabelecidas através de ponderação.
+
+
+Os dados utilizados para definição e seleção da amostra são baseados nos dados fornecidos pelo TSE (julho 2022), IBGE (PNAD 2019 e Estimativa 2021) e dados primários de outros levantamentos do instituto.  Os dados relativos a sexo e faixa etária são: Sexo masculino: 47%, feminino: 53%, 16 a 24 anos 13%, 25 a 34 anos 19%, 35 a 44 anos 21%, 45 a 59 anos 25% e 60 anos ou mais 22%.
+
+Para a variável grau de instrução os dados utilizados como referência são: até nível médio completo ou incompleto (inclui os sem escolaridade e analfabetos) =75% e nível superior =25%.
+
+Ponderação dos resultados: Está prevista eventual ponderação para correção nos tamanhos dos estratos, considerando as variáveis natureza do município, sexo, faixa etária e escolaridade, de acordo com os percentuais detalhados anteriormente.  Para o nível econômico do entrevistado (renda familiar mensal declarada), a distribuição observada em levantamentos anteriores do instituto e utilizada como referência foi: Até 2 S.M. (salários mínimos)=45%, mais de 2 S.M.=52%, não souberam ou recusaram a resposta=3%.  O fator previsto para ponderação é 1 (resultados obtidos em campo).
+
+
+Área física: Serão realizadas entrevistas em 72 municípios, localizados no Estado de São Paulo. A relação completa dos municípios e bairros pesquisados será encaminhada a esse tribunal posteriormente até o sétimo dia seguinte à data de registro da pesquisa, conforme Resolução 23.600/2019 do TSE, no art.2º §7º. 
+
+Margem de Erro: A margem de erro máxima prevista é de 2 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95% e baseada em uma amostra aleatória simples (AAS). Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%.
+";"Os entrevistadores envolvidos na realização desta pesquisa são treinados pelo Instituto e recebem instruções específicas para cada projeto realizado. A coleta será feita com a utilização de tablet e questionário eletrônico. São checados, no mínimo, 30% dos questionários de cada pesquisador, seja in loco por supervisores de campo ou, posteriormente, por telefone. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados. Os dados coletados e tratados nesta pesquisa atendem às exigências da LGPD, Lei Geral de Proteção de Dados, garantindo ao respondente o sigilo de sua identidade e o correto tratamento de suas respostas.
+
+";"#NULO#"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP049382022";"2022-04-25 20:05:17";"S";"32208779000121";"GERP EMPRESA BRASILEIRA DE PESQUISA LTDA.";"INSTITUTO DE PESQUISA GERP E GERP PESQUISA ESTRATEGICA";"Governador";"2022-04-25 00:00:00";"2022-04-29 00:00:00";1600;"8153 - 2ª REGIÃO";"CLENILSON SANTOS DE OLIVEIRA";"15000,00";"15000,00";"A população pesquisada é definida como pessoas maiores de 16 anos, eleitoras e residentes nos municípios do estado de São Paulo. A pesquisa é do tipo QUANTITATIVA e os entrevistados serão selecionados por cotas em função das variáveis sexo, faixa etária, renda do chefe do domicílio e área de residência. Os dados para definição das cotas foram obtidos de publicações do IBGE e da Estatística do Eleitorado do TSE. Os dados serão tabulados em função das variáveis sócio-econômicas e agregados segundo as diversas áreas de residência de interesse.";"Com a realização de 1600 (mil e seiscentas) entrevistas, dentro de um universo considerado infinito e um nível de confiança de 95,55%, a margem de erro para projeções dos dados é estimada em 2,50 pontos percentuais, nos casos limites em que as variáveis assumam o percentual de 50%. O resultado projetado para a população pesquisada vai de um mínimo de 47,50% a um máximo de 52,50%. Para o mesmo número de entrevistas, a margem de erro tende a se estreitar quando os percentuais se aproximam de 0% ou de 100%. Se a variável incidir em 10%, por exemplo, a margem de erro é estimada em 1,50 pontos percentuais. E o resultado projetado vai de um mínimo de 8,50% a um máximo de 91,50%. O Instituto Gerp utiliza dois desvios padrões para o cálculo da margem de erro em todos os seus projetos de pesquisa, o que representa um nível de confiança de 95,55%, confiando ao trabalho uma segurança ainda maior do que o normalmente utilizado pelo mercado. Está prevista eventual ponderação para correção das variáveis área de residência, sexo, faixa etária e renda do chefe do domicílio, caso ocorram diferenças superiores a 2 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. O plano amostral a ser cumprido, pelo entrevistador, é o definido a seguir: IDADE/SEXO: 16-17/masculino (0,53%), 16-17/feminino (0,60%), 18-24/ masculino (12,48%), 18-24/feminino (11,44%), 25-34/masculino (19,84%), 25-34/feminino (18,77%), 35-44/masculino (21,17%), 35-44/feminino (20,77%), 45-59/masculino (25,83%), 45-59/feminino (25,97%), 60 ou +/masculino (20,16%), 60 ou +/feminino (22,45%) RENDA DO CHEFE DO DOMICÍLIO: Até 01 SM (29,98%), De 01 a 02 SM (29,73%), De 02 a 05 SM (26,59%), De 05 a 10 SM (8,97%), De 10 a 20 SM (3,35%), De 20 a 30 SM (0,85%), Mais de 30 SM (0,53%)";"Como de praxe em pesquisas realizadas pelo INSTITUTO DE PESQUISA GERP, todas as entrevistas são criticadas e 20%, no mínimo, são verificados junto ao próprio entrevistado. O trabalho de entrevistas é permanentemente acompanhado por um supervisor local, que controla e fiscaliza a aplicação dos questionários (por telefone). Além disso, há um controle de qualidade do trabalho nos sistemas de processamento das informações. Para melhor explicitar os mecanismos de controle e verificação, segue o abaixo escrito: Todas as equipes de entrevistadores possuem também um supervisor interno, em caráter permanente, que é responsável pela fiscalização da coleta de dados e verificação das respostas junto aos próprios entrevistados; Cada questionário enviado ao sistema é objeto de uma checagem do seu correto preenchimento e pelo menos 20% das entrevistas são verificadas junto ao entrevistado pelo supervisor interno. Ou seja, em 20% das entrevistas, o supervisor interno liga para o entrevistado e refaz as perguntas, verificando, assim, a veracidade das respostas. As entrevistas objeto da verificação são escolhidas por critério de sorteio aleatório. Ex.: a cada 05 entrevistas enviadas ao sistema, 01 é verificada pelo supervisor interno. Ao término da pesquisa, o INSTITUTO DE PESQUISA GERP, faz uma rigorosa crítica a todos os questionários enviados, onde são checadas inconsistências nas respostas. Caso seja constatada alguma inconsistência, o entrevistado é contatado, a dúvida é solucionada ou a entrevista é descartada.
+";"A pesquisa englobará os municípios do estado de São Paulo."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP006202022";"2022-05-06 00:00:00";"N";"22445600000104";"QUAEST PESQUISAS, CONSULTORIA E PROJETOS LTDA.";"#NULO#";"Governador, Senador";"2022-05-06 00:00:00";"2022-05-09 00:00:00";1640;"6731";"Margarida Maria de Mendonça";"141300,00";"141300,00";"Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais no estado de São Paulo. ";"O público pesquisado é composto por eleitores de 16 anos ou mais residentes no estado de São Paulo. Para produzir uma amostra representativa desse público-alvo, utilizamos um desenho amostral por conglomerados que prevê três estágios. No primeiro estágio, é feito um sorteio probabilístico de municípios para comporem a amostra por meio do método PPT (Probabilidade Proporcional ao Tamanho) a partir de suas populações votantes acima de 16 anos. Dentro da lista de municípios sorteados, no segundo estágio, é realizado um sorteio probabilístico por meio do método PPT (Probabilidade Proporcional ao Tamanho) de setores censitários a serem visitados pelos entrevistadores, sorteio que tem como base o total de habitantes acima de 16 anos residentes nos setores. Por fim, no terceiro estágio, são selecionados domicílios e pessoas a serem entrevistadas utilizando-se cotas amostrais para as seguintes variáveis: sexo, idade, renda familiar e escolaridade. O perfil da amostra, definido pelas cotas previstas, é o seguinte:
+
+SEXO: Masculino (47%); Feminino (53%). IDADE: 16-24 anos (12,3%); 25-34 anos (19,3%); 35-44 anos (21%); 45-59 anos (26%); 60 ou mais (21,4%). RENDA FAMILIAR: Até 2 salários-mínimos (22%); mais de 2 a 5 salários-mínimos (44%); acima de 5 salários-mínimos (34%). ESCOLARIDADE/INSTRUÇÃO: Até Fundamental completo (30%); Ensino médio incompleto ou completo (42%); Ensino superior incompleto ou completo (28%). Fonte dos dados: TSE-Tribunal Superior Eleitoral - 2022; IBGE-Censo 2010; IBGE-PNADC 2020.
+
+Está prevista eventual ponderação da amostra para correção das variáveis sexo, idade, renda familiar e escolaridade com base nos percentuais anteriormente mencionados, caso ocorram diferenças entre os percentuais previstos na amostra e a coleta de dados realizada. 
+
+Dentro do público-alvo, serão realizadas 1640 entrevistas. O nível de confiança estimado é de 95% e a margem de erro máxima prevista, baseada em uma amostra aleatória simples (AAS), é de cerca de 2,4 pontos percentuais para mais ou para menos em relação aos totais da amostra.";"As entrevistas serão realizadas por uma equipe de entrevistadores devidamente qualificada, com experiência e treinamento em pesquisa de opinião pública. Todo trabalho é feito em tablets ou outros dispositivos eletrônicos. Após a realização da coleta de dados, as entrevistas junto aos respondentes são checadas por meio de procedimentos de consistência. Adicionalmente, ao longo e após os trabalhos de campo, é realizada uma fiscalização que consiste na checagem de uma amostra de 20% dos questionários aplicados para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o estado de São Paulo. A relação dos municípios e áreas selecionadas para a pesquisa constará em anexo a ser apresentado até o dia seguinte à data a partir da qual a pesquisa puder ser divulgada, conforme §7º do art. 2º da Resolução-TSE nº. 23.600/2019."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP036342022";"2022-03-11 00:00:00";"N";"22445600000104";"QUAEST PESQUISAS, CONSULTORIA E PROJETOS LTDA.";"#NULO#";"Governador, Senador";"2022-03-11 00:00:00";"2022-03-14 00:00:00";1640;"6731";"Margarida Maria de Mendonça";"141300,00";"141300,00";"Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais no estado de São Paulo. ";"O público pesquisado é composto por eleitores de 16 anos ou mais residentes no estado de São Paulo. Para produzir uma amostra representativa desse público-alvo, utilizamos um desenho amostral por conglomerados que prevê três estágios. No primeiro estágio, é feito um sorteio probabilístico de municípios para comporem a amostra por meio do método PPT (Probabilidade Proporcional ao Tamanho) a partir de suas populações votantes acima de 16 anos. Dentro da lista de municípios sorteados, no segundo estágio, é realizado um sorteio probabilístico por meio do método PPT (Probabilidade Proporcional ao Tamanho) de setores censitários a serem visitados pelos entrevistadores, sorteio que tem como base o total de habitantes acima de 16 anos residentes nos setores. Por fim, no terceiro estágio, são selecionados domicílios e pessoas a serem entrevistadas utilizando-se cotas amostrais para as seguintes variáveis: sexo, idade, renda familiar e escolaridade. O perfil da amostra, definido pelas cotas previstas, é o seguinte:
+
+SEXO: Masculino (47%); Feminino (53%). IDADE: 16-24 anos (12,3%); 25-34 anos (19,3%); 35-44 anos (21%); 45-59 anos (26%); 60 ou mais (21,4%). RENDA FAMILIAR: Até 2 salários-mínimos (22%); mais de 2 a 5 salários-mínimos (44%); acima de 5 salários-mínimos (34%). ESCOLARIDADE/INSTRUÇÃO: Até Fundamental completo (30%); Ensino médio incompleto ou completo (42%); Ensino superior incompleto ou completo (28%). Fonte dos dados: TSE-Tribunal Superior Eleitoral - 2022; IBGE-Censo 2010; IBGE-PNADC 2020.
+
+Está prevista eventual ponderação da amostra para correção das variáveis sexo, idade, renda familiar e escolaridade com base nos percentuais anteriormente mencionados, caso ocorram diferenças entre os percentuais previstos na amostra e a coleta de dados realizada. 
+
+Dentro do público-alvo, serão realizadas 1640 entrevistas. O nível de confiança estimado é de 95% e a margem de erro máxima prevista, baseada em uma amostra aleatória simples (AAS), é de cerca de 2,4 pontos percentuais para mais ou para menos em relação aos totais da amostra.
+";"As entrevistas serão realizadas por uma equipe de entrevistadores devidamente qualificada, com experiência e treinamento em pesquisa de opinião pública. Todo trabalho é feito em tablets ou outros dispositivos eletrônicos. Após a realização da coleta de dados, as entrevistas junto aos respondentes são checadas por meio de procedimentos de consistência. Adicionalmente, ao longo e após os trabalhos de campo, é realizada uma fiscalização que consiste na checagem de uma amostra de 20% dos questionários aplicados para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o estado de São Paulo. A relação dos municípios e áreas selecionadas para a pesquisa constará em anexo a ser apresentado até o dia seguinte à data a partir da qual a pesquisa puder ser divulgada, conforme §7º do art. 2º da Resolução-TSE nº. 23.600/2019."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP087602022";"2022-08-09 16:19:09";"N";"03622028000159";"FUTURA CONSULTORIA E ASSESSORIA LTDA";"FUTURA";"Governador, Senador";"2022-08-08 00:00:00";"2022-08-10 00:00:00";1000;"10.756";"Priscila Pagung de Aquino Lapa Campos";"46720,00";"46720,00";"Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado de São Paulo com 16 anos ou mais.";"O universo é composto pelo eleitorado do Estado de São Paulo com idade de 16 anos ou mais. O tamanho da amostra previsto é de 1000 entrevistas. A estratificação da amostra é feita com base na proporção dos segmentos sexo e faixa etária. A distribuição amostral é definida em função de variáveis significativas, a saber: Sexo: masculino 46,9%; feminino 53,1%; Idade: 16 a 24 anos,12,5%; 25 a 34 anos, 19,1%;  35 a 44 anos, 20,7%; 45 a 59 anos, 25,3%; 60 anos ou mais 22,4%.  Para a variável grau de instrução, os dados são: até o ensino fundamental, 32,6%; ensino médio, 47,3% e ensino superior 20,1%. Para a variável nível econômico, a renda familiar: até 2 salários-mínimos 30,8%; mais de 2 a 5 salários-mínimos 38,7%; mais de 5 salários-mínimos 30,5%. Está prevista eventual ponderação para correção das variáveis sexo e idade com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3,1 pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%. FONTE DOS DADOS: Censo (2010) | TSE (eleitorado de julho/ 2022).";"Após os trabalhos de campo, serão selecionados aproximadamente 20% dos questionários aplicados individualmente pelos entrevistadores, para a verificação das respostas e adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o Estado de São Paulo. A relação dos municípios e áreas selecionadas para a pesquisa constará em anexo a ser apresentado até o dia seguinte, a partir do dia em que a pesquisa puder ser divulgada, conforme expresso no art. 2º, §7º da Resolução 23.600/2019 do TSE."
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP033242022";"2022-06-08 15:30:32";"S";"04209958000148";"CELIO RICARDO SILVA DA COSTA COMUNICACAO";"BADRA COMUNICACAO";"Governador, Senador, Deputado Federal, Deputado Estadual";"2022-06-11 00:00:00";"2022-06-13 00:00:00";1056;"10744";"MARCOS ROGERIO SIMONETTI";"8000,00";"8000,00";"Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo.
+ 
+";"A amostra será representativa do universo, ou seja, o eleitorado das cidades do Alto Tietê.
+Tamanho da amostra: 1056 entrevistas. Técnica de amostragem: por cotas, segundo combinação das variáveis sexo e faixa etária, proporcionais ao eleitorado de cada região, conforme estatística do eleitorado do Tribunal Superior Eleitoral (TSE mar-2022): SEXO: Masculino (47,0%) e Feminino (53,0%). FAIXA ETÁRIA: 16-24 anos (7,5% masculino e 7,9% feminino); 25-44 anos (19,8% masculino e 21,9% feminino); 45-59 anos (11,7% masculino e 13,5% feminino); e mais de 60 anos (8,1% masculino e 9,7% feminino). Total Masculino: 47,0% - Feminino: 53,0%.
+Eventual ponderação para correção das variáveis de escolaridade e status econômico caso aconteçam diferenças superiores a 3% entre o previsto na amostra e a coleta de dados, no que pese serem estas variáveis de seleção e abordagem dos entrevistados. Para as variáveis escolaridade e status econômico: ESCOLARIDADE: Até ensino médio (75,8% - masculino e 75,5% - feminino); Superior (24,2% - masculino e 24,5% feminino). NÍVEL ECONÔMICO (FONTE: Censo 2010 e PNADC 2018): Economicamente ativo (70,5% - masculino e 53,2% - feminino). Não economicamente ativo (29,5% - masculino e 46,8% - feminino). Para as variáveis de sexo e idade, o fator de ponderação é 1 (resultados obtidos em campo). A margem de erro é de 3,1 pontos percentuais para mais ou para menos, sobre o resultado encontrado no total da amostra. Nível de confiança estimado de 95%, o que quer dizer que há uma probabilidade de 95% de os resultados retratarem a realidade, se repetido nas mesmas condições de execução. Fonte de dados: Censo IBGE 2010; PNADC 2018; TSE mar-2022.
+
+";"Para a realização do levantamento estatístico de dados, a Badra Comunicação se utiliza de equipe de entrevistadores e supervisores de campo experientes e treinados para o trabalho. No mínimo 20% das entrevistas realizadas são auditadas, parte delas ainda em campo, por coordenadores e supervisores. A outra parte via contato telefônico com os entrevistados que fornecem seu primeiro nome e/ou telefone de contato para o devido controle e verificação, conferência e fiscalização da coleta de dados, seja em relação às respostas, seja em confirmação da adequação aos parâmetros amostrais.";"A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa. 
+
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP061392022";"2022-06-05 09:53:48";"S";"04209958000148";"CELIO RICARDO SILVA DA COSTA COMUNICACAO";"BADRA COMUNICACAO";"Governador, Senador, Deputado Federal, Deputado Estadual";"2022-06-09 00:00:00";"2022-06-11 00:00:00";1056;"10744";"MARCOS ROGERIO SIMONETTI";"8000,00";"8000,00";"Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo. ";"A amostra será representativa do universo, ou seja, o eleitorado das cidades do Grande ABC. 
+
+Tamanho da amostra: 1056 entrevistas. Técnica de amostragem: por cotas, segundo combinação das variáveis sexo e faixa etária, proporcionais ao eleitorado de cada região, conforme estatística do eleitorado do Tribunal Superior Eleitoral (TSE mar-2022): SEXO: Masculino (46,61%) e Feminino (53,39%). FAIXA ETÁRIA: 16-24 anos (5,9% masculino e 6,1% feminino); 25-44 anos (19,2% masculino e 21,0% feminino); 45-59 anos (12,1% masculino e 14,0% feminino); e mais de 60 anos (9,4% masculino e 12,3% feminino). Total Masculino: 46,61% - Feminino: 53,39%. 
+
+Eventual ponderação para correção das variáveis de escolaridade e status econômico caso aconteçam diferenças superiores a 3% entre o previsto na amostra e a coleta de dados, no que pese serem estas variáveis de seleção e abordagem dos entrevistados. Para as variáveis escolaridade e status econômico: ESCOLARIDADE: Até ensino médio (75,8% - masculino e 75,5% - feminino); Superior (24,2% - masculino e 24,5% feminino). NÍVEL ECONÔMICO (FONTE: Censo 2010 e PNADC 2018): Economicamente ativo (70,5% - masculino e 53,2% - feminino). Não economicamente ativo (29,5% - masculino e 46,8% - feminino). Para as variáveis de sexo e idade, o fator de ponderação é 1 (resultados obtidos em campo). A margem de erro é de 3,1 pontos percentuais para mais ou para menos, sobre o resultado encontrado no total da amostra. Nível de confiança estimado de 95%, o que quer dizer que há uma probabilidade de 95% de os resultados retratarem a realidade, se repetido nas mesmas condições de execução. Fonte de dados: Censo IBGE 2010; PNADC 2018; TSE mar-2022. ";"Para a realização do levantamento estatístico de dados, a Badra Comunicação se utiliza de equipe de entrevistadores e supervisores de campo experientes e treinados para o trabalho. No mínimo 20% das entrevistas realizadas são auditadas, parte delas ainda em campo, por coordenadores e supervisores. A outra parte via contato telefônico com os entrevistados que fornecem seu primeiro nome e/ou telefone de contato para o devido controle e verificação, conferência e fiscalização da coleta de dados, seja em relação às respostas, seja em confirmação da adequação aos parâmetros amostrais. ";"A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa.  
+
+ "
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP049202022";"2022-08-22 16:30:21";"S";"04209958000148";"CELIO RICARDO SILVA DA COSTA COMUNICACAO";"BADRA COMUNICACAO";"Governador, Senador, Deputado Federal, Deputado Estadual";"2022-08-25 00:00:00";"2022-08-27 00:00:00";2665;"10744";"MARCOS ROGERIO SIMONETTI";"9000,00";"9000,00";"Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo, no caso o eleitorado das cidades do Interior Paulista e da Grande São Paulo, com 16 anos ou mais. ";"A amostra será representativa do universo, ou seja, a soma do eleitorado das cidades do Interior Paulista e da Grande São Paulo. 
+ 
+Tamanho da amostra: 2665 entrevistas. Técnica de amostragem: por cotas, segundo combinação das variáveis sexo e faixa etária, proporcionais ao eleitorado de cada região, conforme estatística do eleitorado do Tribunal Superior Eleitoral (TSE jun-21): SEXO: Masculino (46,6%) e Feminino (53,3%). FAIXA ETÁRIA: 16-24 anos (5,9% masculino e 6,2% feminino); 25-44 anos (19,3% masculino e 21,4% feminino); 45-59 anos (12,2% masculino e 14,0% feminino); e mais de 60 anos (9,3% masculino e 11,8% feminino). Total Masculino: 46,6% - Feminino: 53,3%. 
+Eventual ponderação para correção das variáveis de escolaridade e status econômico caso aconteçam diferenças superiores a 3% entre o previsto na amostra e a coleta de dados, no que pese serem estas variáveis de seleção e abordagem dos entrevistados. Para as variáveis escolaridade e nível econômico: ESCOLARIDADE: Até ensino médio (81,0% - masculino e 79,8% - feminino); Superior (19% - masculino e 20,2% feminino). NÍVEL ECONÔMICO (FONTE: Censo 2010 e PNADC 2018): Economicamente ativo (70,8% - masculino e 53,1% - feminino). Não economicamente ativo (29,2 % - masculino e 46,9% - feminino). Para as variáveis de sexo e idade, o fator de ponderação é 1 (resultados obtidos em campo). A margem de erro é de 2,5 pontos percentuais para mais ou para menos, sobre o resultado encontrado no total da amostra. Nível de confiança estimado de 95%, o que quer dizer que há uma probabilidade de 95% de os resultados retratarem a realidade, se repetido nas mesmas condições de execução. Fonte de dados: Censo IBGE 2010; PNADC 2018; TSE jun-21. 
+";"Para a realização do levantamento estatístico de dados, a Badra Comunicação se utiliza de equipe de entrevistadores e supervisores de campo experientes e treinados para o trabalho. No mínimo 20% das entrevistas realizadas são auditadas, parte delas ainda em campo, por coordenadores e supervisores. A outra parte via contato telefônico com os entrevistados que fornecem seu primeiro nome e/ou telefone de contato para o devido controle e verificação, conferência e fiscalização da coleta de dados, seja em relação às respostas, seja em confirmação da adequação aos parâmetros amostrais. 
+ 
+";"A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa. 
+
+
+
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP053862022";"2022-08-17 18:41:31";"S";"81908345000140";"INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA";"#NULO#";"Governador, Senador";"2022-08-18 00:00:00";"2022-08-22 00:00:00";1880;"10245 - 4ª Região";"Tatiani Cristina Ara";"30000,00";"30000,00";"Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de São Paulo.
+
+
+";"""A amostra será representativa do eleitorado da área pesquisada e será selecionada em três etapas. Na primeira etapa realiza-se um sorteio probabilístico dos municípios onde as entrevistas serão realizadas através do método PPT (Probabilidade Proporcional ao Tamanho), considerando a população eleitora com 16 anos ou mais residente nos municípios como base para essa seleção. Na segunda etapa, faz-se um sorteio probabilístico das localidades, onde as entrevistas serão realizadas, através do método PPT (Probabilidade Proporcional ao Tamanho), tomando a população eleitora de 16 anos ou mais residente nas localidades como base para essa seleção. Na terceira etapa, a seleção do entrevistado dentro da localidade, será feita utilizando-se quotas amostrais proporcionais, em função das seguintes variáveis:
+GÊNERO:
+Masculino - 47%;
+Feminino - 53% |
+FAIXA ETÁRIA:
+Entre 16 e 24 anos: 13%;
+Entre 25 e 34 anos: 19%;
+Entre 35 e 44 anos: 21%;
+Entre 45 e 59 anos: 25%;
+Com 60 anos ou mais: 22% |
+ESCOLARIDADE:
+De analfabeto até ensino fundamental completo: 33%;
+Ensino médio incompleto ou completo: 47%
+Ensino superior incompleto ou completo: 20% |
+RENDA DOMICILIAR MENSAL:
+Sem rendimentos até 2 salários mínimos: 31%
+Mais de 2 a 5 salários mínimos: 39%
+Mais de 5 salários mínimos: 30%
+Está prevista eventual ponderação para correção das variáveis gênero e faixa etária, com base nos percentuais acima apresentados, caso ocorram diferenças superiores a 3,0 (três) pontos percentuais entre o previsto na amostra e a coleta realizada, para as variáveis escolaridade e  renda domiciliar mensal, o fator de ponderação é igual a 1, (resultados obtidos no campo). O nível de confiança estimado é de 95% (noventa e cinco por cento) para uma margem de erro estimada, considerando uma técnica de amostragem aleatória simples de  2,3 (dois vírgula três) pontos percentuais para mais ou para menos sobre os resultados obtidos. Fonte de Dados: IBGE Censo 2010 e TSE - Julho 2022.""
+
+
+
+
+
+";"As entrevistas serão realizadas por uma equipe de entrevistadores e supervisores devidamente qualificada pelo Instituto Paraná Pesquisas, com experiência e treinamento em pesquisas de opinião pública. No decorrer do trabalho de coleta de dados, os questionários aplicados, serão auditados em no mínimo 20% (vinte por cento) para verificação quanto ao cuidado na sua aplicação, bem como a adequação do entrevistado às variáveis das quotas amostrais.
+
+
+
+
+
+";" ""A pesquisa será realizada no Estado de São Paulo, a relação dos municípios  selecionados para a pesquisa será apresentado até o dia seguinte à data a partir da qual a pesquisa puder ser divulgada, conforme §7º do art. 2º da Resolução-TSE nº. 23.600/2019""
+
+
+
+
+
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP056502022";"2022-04-24 16:52:31";"N";"81908345000140";"INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA";"#NULO#";"Governador, Senador";"2022-04-24 00:00:00";"2022-04-29 00:00:00";1820;"10245 - 4ª Região";"Tatiani Cristina Ara";"96000,00";"96000,00";"Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, face a face, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de São Paulo.
+
+
+";"""A amostra será representativa do eleitorado da área pesquisada e será selecionada em três etapas. Na primeira etapa realiza-se um sorteio probabilístico dos municípios onde as entrevistas serão realizadas através do método PPT (Probabilidade Proporcional ao Tamanho), considerando a população eleitora com 16 anos ou mais residente nos municípios como base para essa seleção. Na segunda etapa, faz-se um sorteio probabilístico das localidades, onde as entrevistas serão realizadas, através do método PPT (Probabilidade Proporcional ao Tamanho), tomando a população eleitora de 16 anos ou mais residente nas localidades como base para essa seleção. Na terceira etapa, a seleção do entrevistado dentro da localidade, será feita utilizando-se quotas amostrais proporcionais, em função das seguintes variáveis:
+GÊNERO:
+Masculino - 47%;
+Feminino - 53% |
+FAIXA ETÁRIA:
+Entre 16 e 24 anos: 13%;
+Entre 25 e 34 anos: 19%;
+Entre 35 e 44 anos: 21%;
+Entre 45 e 59 anos: 26%;
+Com 60 anos ou mais: 21% |
+ESCOLARIDADE:
+De analfabeto até ensino fundamental completo: 32%;
+Ensino médio incompleto ou completo: 47%
+Ensino superior incompleto ou completo: 21% |
+RENDA DOMICILIAR MENSAL:
+Sem rendimentos até 2 salários mínimos: 31%
+Mais de 2 a 5 salários mínimos: 39%
+Mais de 5 salários mínimos: 30%
+Está prevista eventual ponderação para correção das variáveis gênero e faixa etária, com base nos percentuais acima apresentados, caso ocorram diferenças superiores a 3,0 (três) pontos percentuais entre o previsto na amostra e a coleta realizada, para as variáveis escolaridade e  renda domiciliar mensal, o fator de ponderação é igual a 1, (resultados obtidos no campo). O nível de confiança estimado é de 95% (noventa e cinco por cento) para uma margem de erro estimada, considerando uma técnica de amostragem aleatória simples, de aproximadamente 2,3 (dois vírgula três) pontos percentuais para mais ou para menos sobre os resultados obtidos. Fonte de Dados: IBGE Censo 2010 e TSE - Março 2022.""
+
+
+
+
+
+";"As entrevistas serão realizadas por uma equipe de entrevistadores e supervisores devidamente qualificada pelo Instituto Paraná Pesquisas, com experiência e treinamento em pesquisas de opinião pública. No decorrer do trabalho de coleta de dados, os questionários aplicados, serão auditados em no mínimo 20% (vinte por cento) para verificação quanto ao cuidado na sua aplicação, bem como a adequação do entrevistado às variáveis das quotas amostrais.
+
+
+
+
+
+";" ""A pesquisa será realizada no Estado de São Paulo, a relação dos municípios  selecionados para a pesquisa será apresentado até o dia seguinte à data a partir da qual a pesquisa puder ser divulgada, conforme §7º do art. 2º da Resolução-TSE nº. 23.600/2019""
+
+
+
+
+
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP017352022";"2022-05-22 11:29:09";"N";"81908345000140";"INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA";"#NULO#";"Governador, Senador";"2022-05-22 00:00:00";"2022-05-26 00:00:00";1880;"10245 - 4ª Região";"Tatiani Cristina Ara";"96000,00";"96000,00";"Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de São Paulo.
+
+
+";"""A amostra será representativa do eleitorado da área pesquisada e será selecionada em três etapas. Na primeira etapa realiza-se um sorteio probabilístico dos municípios onde as entrevistas serão realizadas através do método PPT (Probabilidade Proporcional ao Tamanho), considerando a população eleitora com 16 anos ou mais residente nos municípios como base para essa seleção. Na segunda etapa, faz-se um sorteio probabilístico das localidades, onde as entrevistas serão realizadas, através do método PPT (Probabilidade Proporcional ao Tamanho), tomando a população eleitora de 16 anos ou mais residente nas localidades como base para essa seleção. Na terceira etapa, a seleção do entrevistado dentro da localidade, será feita utilizando-se quotas amostrais proporcionais, em função das seguintes variáveis:
+GÊNERO:
+Masculino - 47%;
+Feminino - 53% |
+FAIXA ETÁRIA:
+Entre 16 e 24 anos: 13%;
+Entre 25 e 34 anos: 19%;
+Entre 35 e 44 anos: 21%;
+Entre 45 e 59 anos: 26%;
+Com 60 anos ou mais: 21% |
+ESCOLARIDADE:
+De analfabeto até ensino fundamental completo: 32%;
+Ensino médio incompleto ou completo: 47%
+Ensino superior incompleto ou completo: 21% |
+RENDA DOMICILIAR MENSAL:
+Sem rendimentos até 2 salários mínimos: 31%
+Mais de 2 a 5 salários mínimos: 39%
+Mais de 5 salários mínimos: 30%
+Está prevista eventual ponderação para correção das variáveis gênero e faixa etária, com base nos percentuais acima apresentados, caso ocorram diferenças superiores a 3,0 (três) pontos percentuais entre o previsto na amostra e a coleta realizada, para as variáveis escolaridade e  renda domiciliar mensal, o fator de ponderação é igual a 1, (resultados obtidos no campo). O nível de confiança estimado é de 95% (noventa e cinco por cento) para uma margem de erro estimada, considerando uma técnica de amostragem aleatória simples, de aproximadamente 2,3 (dois vírgula três) pontos percentuais para mais ou para menos sobre os resultados obtidos. Fonte de Dados: IBGE Censo 2010 e TSE - Abril 2022.""
+
+
+
+
+
+";"As entrevistas serão realizadas por uma equipe de entrevistadores e supervisores devidamente qualificada pelo Instituto Paraná Pesquisas, com experiência e treinamento em pesquisas de opinião pública. No decorrer do trabalho de coleta de dados, os questionários aplicados, serão auditados em no mínimo 20% (vinte por cento) para verificação quanto ao cuidado na sua aplicação, bem como a adequação do entrevistado às variáveis das quotas amostrais.
+
+
+
+
+
+";" ""A pesquisa será realizada no Estado de São Paulo, a relação dos municípios  selecionados para a pesquisa será apresentado até o dia seguinte à data a partir da qual a pesquisa puder ser divulgada, conforme §7º do art. 2º da Resolução-TSE nº. 23.600/2019""
+
+
+
+
+
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP070952022";"2022-03-27 00:00:00";"N";"81908345000140";"INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA";"#NULO#";"Governador, Senador";"2022-03-27 00:00:00";"2022-03-31 00:00:00";1820;"10245 - 4ª Região";"Tatiani Cristina Ara";"120000,00";"120000,00";"Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, face a face, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de São Paulo.
+
+
+";"""A amostra será representativa do eleitorado da área pesquisada e será selecionada em três etapas. Na primeira etapa realiza-se um sorteio probabilístico dos municípios onde as entrevistas serão realizadas através do método PPT (Probabilidade Proporcional ao Tamanho), considerando a população eleitora com 16 anos ou mais residente nos municípios como base para essa seleção. Na segunda etapa, faz-se um sorteio probabilístico das localidades, onde as entrevistas serão realizadas, através do método PPT (Probabilidade Proporcional ao Tamanho), tomando a população eleitora de 16 anos ou mais residente nas localidades como base para essa seleção. Na terceira etapa, a seleção do entrevistado dentro da localidade, será feita utilizando-se quotas amostrais proporcionais, em função das seguintes variáveis:
+GÊNERO:
+Masculino - 47%;
+Feminino - 53% |
+FAIXA ETÁRIA:
+Entre 16 e 24 anos: 12%;
+Entre 25 e 34 anos: 19%;
+Entre 35 e 44 anos: 21%;
+Entre 45 e 59 anos: 26%;
+Com 60 anos ou mais: 22% |
+ESCOLARIDADE:
+De analfabeto até ensino fundamental completo: 32%;
+Ensino médio incompleto ou completo: 47%
+Ensino superior incompleto ou completo: 21% |
+RENDA DOMICILIAR MENSAL:
+Sem rendimentos até 2 salários mínimos: 31%
+Mais de 2 a 5 salários mínimos: 39%
+Mais de 5 salários mínimos: 30%
+Está prevista eventual ponderação para correção das variáveis gênero e faixa etária, com base nos percentuais acima apresentados, caso ocorram diferenças superiores a 3,0 (três) pontos percentuais entre o previsto na amostra e a coleta realizada, para as variáveis escolaridade e  renda domiciliar mensal, o fator de ponderação é igual a 1, (resultados obtidos no campo). O nível de confiança estimado é de 95% (noventa e cinco por cento) para uma margem de erro estimada, considerando uma técnica de amostragem aleatória simples, de aproximadamente 2,3 (dois vírgula três) pontos percentuais para mais ou para menos sobre os resultados obtidos. Fonte de Dados: IBGE Censo 2010 e TSE - Fevereiro 2022.""
+
+
+
+
+
+";"As entrevistas serão realizadas por uma equipe de entrevistadores e supervisores devidamente qualificada pelo Instituto Paraná Pesquisas, com experiência e treinamento em pesquisas de opinião pública. No decorrer do trabalho de coleta de dados, os questionários aplicados, serão auditados em no mínimo 20% (vinte por cento) para verificação quanto ao cuidado na sua aplicação, bem como a adequação do entrevistado às variáveis das quotas amostrais.
+
+
+
+
+
+";" ""A pesquisa será realizada no Estado de São Paulo, a relação dos municípios  selecionados para a pesquisa será apresentado até o dia seguinte à data a partir da qual a pesquisa puder ser divulgada, conforme §7º do art. 2º da Resolução-TSE nº. 23.600/2019""
+
+
+
+
+
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP012202022";"2022-04-14 00:00:00";"S";"04209958000148";"CELIO RICARDO SILVA DA COSTA COMUNICACAO";"BADRA COMUNICACAO";"Governador, Deputado Federal, Deputado Estadual";"2022-04-19 00:00:00";"2022-04-20 00:00:00";1504;"10744";"MARCOS ROGÉRIO SIMONETTI";"8500,00";"8500,00";"Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo, no caso o eleitorado das cidades do Grande ABC, com 16 anos ou mais.";"A amostra será representativa do universo, ou seja, a soma do eleitorado das cidades do Grande ABC.
+
+Tamanho da amostra: 1504 entrevistas. Técnica de amostragem: por cotas, segundo combinação das variáveis sexo e faixa etária, proporcionais ao eleitorado de cada região, conforme estatística do eleitorado do Tribunal Superior Eleitoral (TSE mar-2022): SEXO: Masculino (46,6%) e Feminino (53,4%). FAIXA ETÁRIA: 16-24 anos (5,9% masculino e 6,1% feminino); 25-44 anos (19,2% masculino e 21,0% feminino); 45-59 anos (12,1% masculino e 14,0% feminino); e mais de 60 anos (9,4% masculino e 12,3% feminino). Total Masculino: 46,6% - Feminino: 53,4%.
+Eventual ponderação para correção das variáveis de escolaridade e status econômico caso aconteçam diferenças superiores a 3% entre o previsto na amostra e a coleta de dados, no que pese serem estas variáveis de seleção e abordagem dos entrevistados. Para as variáveis escolaridade e nível econômico: ESCOLARIDADE: Até ensino médio (75,8% - masculino e 75,5% - feminino); Superior (24,2% - masculino e 24,5% feminino). NÍVEL ECONÔMICO (FONTE: Censo 2010 e PNADC 2018): Economicamente ativo (70,5% - masculino e 53,2% - feminino). Não economicamente ativo (29,5 % - masculino e 46,8% - feminino). Para as variáveis de sexo e idade, o fator de ponderação é 1 (resultados obtidos em campo). A margem de erro é de 2,5 pontos percentuais para mais ou para menos, sobre o resultado encontrado no total da amostra. Nível de confiança estimado de 95%, o que quer dizer que há uma probabilidade de 95% de os resultados retratarem a realidade, se repetido nas mesmas condições de execução. Fonte de dados: Censo IBGE 2010; PNADC 2018; TSE mar-2022.
+";"Para a realização do levantamento estatístico de dados, a Badra Comunicação se utiliza de equipe de entrevistadores e supervisores de campo experientes e treinados para o trabalho. No mínimo 20% das entrevistas realizadas são auditadas, parte delas ainda em campo, por coordenadores e supervisores. A outra parte via contato telefônico com os entrevistados que fornecem seu primeiro nome e/ou telefone de contato para o devido controle e verificação, conferência e fiscalização da coleta de dados, seja em relação às respostas, seja em confirmação da adequação aos parâmetros amostrais.
+
+";"Santo André, São Bernardo, São Caetano, Diadema, Mauá, Ribeirão Pires, Rio Grande da Serra.
+
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP062822022";"2022-08-04 15:50:29";"S";"04209958000148";"CELIO RICARDO SILVA DA COSTA COMUNICACAO";"BADRA COMUNICACAO";"Governador, Senador, Deputado Federal, Deputado Estadual";"2022-08-05 00:00:00";"2022-08-06 00:00:00";1504;"10744";"MARCOS ROGERIO SIMONETTI";"8000,00";"8000,00";"Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo, no caso o eleitorado das cidades do Grande ABC, com 16 anos ou mais. ";"A amostra será representativa do universo, ou seja, a soma do eleitorado das cidades do Grande ABC. 
+ 
+Tamanho da amostra: 1504 entrevistas. Técnica de amostragem: por cotas, segundo combinação das variáveis sexo e faixa etária, proporcionais ao eleitorado de cada região, conforme estatística do eleitorado do Tribunal Superior Eleitoral (TSE mar-2022): SEXO: Masculino (46,6%) e Feminino (53,4%). FAIXA ETÁRIA: 16-24 anos (5,9% masculino e 6,1% feminino); 25-44 anos (19,2% masculino e 21,0% feminino); 45-59 anos (12,1% masculino e 14,0% feminino); e mais de 60 anos (9,4% masculino e 12,3% feminino). Total Masculino: 46,6% - Feminino: 53,4%. 
+Eventual ponderação para correção das variáveis de escolaridade e status econômico caso aconteçam diferenças superiores a 3% entre o previsto na amostra e a coleta de dados, no que pese serem estas variáveis de seleção e abordagem dos entrevistados. Para as variáveis escolaridade e nível econômico: ESCOLARIDADE: Até ensino médio (75,8% - masculino e 75,5% - feminino); Superior (24,2% - masculino e 24,5% feminino). NÍVEL ECONÔMICO (FONTE: Censo 2010 e PNADC 2018): Economicamente ativo (70,5% - masculino e 53,2% - feminino). Não economicamente ativo (29,5 % - masculino e 46,8% - feminino). Para as variáveis de sexo e idade, o fator de ponderação é 1 (resultados obtidos em campo). A margem de erro é de 2,5 pontos percentuais para mais ou para menos, sobre o resultado encontrado no total da amostra. Nível de confiança estimado de 95%, o que quer dizer que há uma probabilidade de 95% de os resultados retratarem a realidade, se repetido nas mesmas condições de execução. Fonte de dados: Censo IBGE 2010; PNADC 2018; TSE mar-2022. 
+ 
+";"Para a realização do levantamento estatístico de dados, a Badra Comunicação se utiliza de equipe de entrevistadores e supervisores de campo experientes e treinados para o trabalho. No mínimo 20% das entrevistas realizadas são auditadas, parte delas ainda em campo, por coordenadores e supervisores. A outra parte via contato telefônico com os entrevistados que fornecem seu primeiro nome e/ou telefone de contato para o devido controle e verificação, conferência e fiscalização da coleta de dados, seja em relação às respostas, seja em confirmação da adequação aos parâmetros amostrais. ";"A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa. 
+
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP076322022";"2022-07-01 20:50:14";"S";"04209958000148";"CELIO RICARDO SILVA DA COSTA COMUNICACAO";"BADRA COMUNICACAO";"Governador, Senador, Deputado Federal, Deputado Estadual";"2022-07-04 00:00:00";"2022-07-08 00:00:00";1504;"10744";"MARCOS ROGERIO SIMONETTI";"8000,00";"8000,00";"Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo, no caso o eleitorado das cidades do Grande ABC, com 16 anos ou mais. ";"A amostra será representativa do universo, ou seja, a soma do eleitorado das cidades do Grande ABC. 
+ 
+Tamanho da amostra: 1504 entrevistas. Técnica de amostragem: por cotas, segundo combinação das variáveis sexo e faixa etária, proporcionais ao eleitorado de cada região, conforme estatística do eleitorado do Tribunal Superior Eleitoral (TSE mar-2022): SEXO: Masculino (46,6%) e Feminino (53,4%). FAIXA ETÁRIA: 16-24 anos (5,9% masculino e 6,1% feminino); 25-44 anos (19,2% masculino e 21,0% feminino); 45-59 anos (12,1% masculino e 14,0% feminino); e mais de 60 anos (9,4% masculino e 12,3% feminino). Total Masculino: 46,6% - Feminino: 53,4%. 
+Eventual ponderação para correção das variáveis de escolaridade e status econômico caso aconteçam diferenças superiores a 3% entre o previsto na amostra e a coleta de dados, no que pese serem estas variáveis de seleção e abordagem dos entrevistados. Para as variáveis escolaridade e nível econômico: ESCOLARIDADE: Até ensino médio (75,8% - masculino e 75,5% - feminino); Superior (24,2% - masculino e 24,5% feminino). NÍVEL ECONÔMICO (FONTE: Censo 2010 e PNADC 2018): Economicamente ativo (70,5% - masculino e 53,2% - feminino). Não economicamente ativo (29,5 % - masculino e 46,8% - feminino). Para as variáveis de sexo e idade, o fator de ponderação é 1 (resultados obtidos em campo). A margem de erro é de 2,5 pontos percentuais para mais ou para menos, sobre o resultado encontrado no total da amostra. Nível de confiança estimado de 95%, o que quer dizer que há uma probabilidade de 95% de os resultados retratarem a realidade, se repetido nas mesmas condições de execução. Fonte de dados: Censo IBGE 2010; PNADC 2018; TSE mar-2022. 
+ 
+";"Para a realização do levantamento estatístico de dados, a Badra Comunicação se utiliza de equipe de entrevistadores e supervisores de campo experientes e treinados para o trabalho. No mínimo 20% das entrevistas realizadas são auditadas, parte delas ainda em campo, por coordenadores e supervisores. A outra parte via contato telefônico com os entrevistados que fornecem seu primeiro nome e/ou telefone de contato para o devido controle e verificação, conferência e fiscalização da coleta de dados, seja em relação às respostas, seja em confirmação da adequação aos parâmetros amostrais. ";"A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa.  "
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP084802022";"2022-06-04 14:54:04";"S";"04209958000148";"CELIO RICARDO SILVA DA COSTA COMUNICACAO";"BADRA COMUNICACAO";"Governador, Senador, Deputado Federal, Deputado Estadual";"2022-06-07 00:00:00";"2022-06-09 00:00:00";1056;"10744";"MARCOS ROGERIO SIMONETTI";"8000,00";"8000,00";"Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo.
+ 
+";"Plano amostral e ponderação quanto a sexo, idade, grau de instrução e nível econômico do 
+entrevistado; intervalo de confiança e margem de erro.
+
+A amostra será representativa do universo, ou seja, o eleitorado das cidades da Baixada Santista.
+Tamanho da amostra: 1056 entrevistas. Técnica de amostragem: por cotas, segundo combinação das variáveis sexo e faixa etária, proporcionais ao eleitorado de cada região, conforme estatística do eleitorado do Tribunal Superior Eleitoral (TSE mar-2022): SEXO: Masculino (45,8%) e Feminino (54,2%). FAIXA ETÁRIA: 16-24 anos (6,1% masculino e 6,3% feminino); 25-44 anos (17,9% masculino e 20,0% feminino); 45-59 anos (11,7% masculino e 13,8% feminino); e mais de 60 anos (10,1% masculino e 14,1% feminino). Total Masculino: 45,8% - Feminino: 54,2%.
+Eventual ponderação para correção das variáveis de escolaridade e status econômico caso aconteçam diferenças superiores a 3% entre o previsto na amostra e a coleta de dados, no que pese serem estas variáveis de seleção e abordagem dos entrevistados. Para as variáveis escolaridade e status econômico: ESCOLARIDADE: Até ensino médio (75,8% - masculino e 75,5% - feminino); Superior (24,2% - masculino e 24,5% feminino). NÍVEL ECONÔMICO (FONTE: Censo 2010 e PNADC 2018): Economicamente ativo (70,5% - masculino e 53,2% - feminino). Não economicamente ativo (29,5 % - masculino e 46,8% - feminino). Para as variáveis de sexo e idade, o fator de ponderação é 1 (resultados obtidos em campo). A margem de erro é de 3,1 pontos percentuais para mais ou para menos, sobre o resultado encontrado no total da amostra. Nível de confiança estimado de 95%, o que quer dizer que há uma probabilidade de 95% de os resultados retratarem a realidade, se repetido nas mesmas condições de execução. Fonte de dados: Censo IBGE 2010; PNADC 2018; TSE mar-2022.
+
+";"Para a realização do levantamento estatístico de dados, a Badra Comunicação se utiliza de equipe de entrevistadores e supervisores de campo experientes e treinados para o trabalho. No mínimo 20% das entrevistas realizadas são auditadas, parte delas ainda em campo, por coordenadores e supervisores. A outra parte via contato telefônico com os entrevistados que fornecem seu primeiro nome e/ou telefone de contato para o devido controle e verificação, conferência e fiscalização da coleta de dados, seja em relação às respostas, seja em confirmação da adequação aos parâmetros amostrais.";"A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa. 
+
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP073002022";"2022-02-24 00:00:00";"S";"04209958000148";"CELIO RICARDO SILVA DA COSTA COMUNICACAO";"BADRA COMUNICACAO";"Governador, Deputado Federal, Deputado Estadual";"2022-03-03 00:00:00";"2022-03-04 00:00:00";1504;"10744";"Marcos Rogério Simonetti";"8500,00";"8500,00";"Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo. Pesquisa realizada na Baixada Santista e Vale do Ribeira.
+";"A amostra será representativa do universo, ou seja, a soma do eleitorado da Baixada Santista e do Vale do Ribeira.
+
+Tamanho da amostra: 1504 entrevistas. Técnica de amostragem: por cotas, segundo combinação das variáveis sexo e faixa etária, proporcionais ao eleitorado de cada região, conforme estatística do eleitorado do Tribunal Superior Eleitoral (TSE jun-2021): SEXO: Masculino (46,3%) e Feminino (53,7%). FAIXA ETÁRIA: 16-24 anos (6,3% masculino e 6,3% feminino); 25-44 anos (18,8% masculino e 21,7% feminino); 45-59 anos (12,0% masculino e 13,8% feminino); e mais de 60 anos (9,4% masculino e 12,0% feminino). Total Masculino: 46,3% - Feminino: 53,7%.
+Eventual ponderação para correção das variáveis de escolaridade e renda familiar caso aconteçam diferenças superiores a 3% entre o previsto na amostra e a coleta de dados, no que pese serem estas variáveis de seleção e abordagem dos entrevistados. Para as variáveis escolaridade e nível econômico: ESCOLARIDADE: Até ensino médio (81,8% - masculino e 79,2% - feminino); Superior (18,2% - masculino e 20,8% feminino). NÍVEL ECONÔMICO (FONTE: Censo 2010 e PNADC 2018): Economicamente ativo (73,4% - masculino e 58,9% - feminino). Não economicamente ativo (26,6 % - masculino e 41,1% - feminino). Para as variáveis de sexo e idade, o fator de ponderação é 1 (resultados obtidos em campo). A margem de erro é de 2,5 pontos percentuais para mais ou para menos, sobre o resultado encontrado no total da amostra. Nível de confiança estimado de 95%, o que quer dizer que há uma probabilidade de 95% de os resultados retratarem a realidade, se repetido nas mesmas condições de execução. Fonte de dados: Censo IBGE 2010; PNADC 2018; TSE jun-2021.
+";"Para a realização do levantamento estatístico de dados, a Badra Comunicação se utiliza de equipe de entrevistadores e supervisores de campo experientes e treinados para o trabalho. No mínimo 20% das entrevistas realizadas são auditadas, parte delas ainda em campo, por coordenadores e supervisores. A outra parte via contato telefônico com os entrevistados que fornecem seu primeiro nome e/ou telefone de contato para o devido controle e verificação, conferência e fiscalização da coleta de dados, seja em relação às respostas, seja em confirmação da adequação aos parâmetros amostrais.
+
+";"Santos, São Vicente, Praia Grande, Guarujá, Cubatão, Peruíbe, Mongaguá, Registro, Cajati, Iguape, Pariquera Açu, Jacupiranga, Itariri e Pedro de Toledo. 
+
+
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP090682022";"2022-08-11 20:13:45";"S";"04209958000148";"CELIO RICARDO SILVA DA COSTA COMUNICACAO";"BADRA COMUNICACAO";"Governador, Senador";"2022-08-17 00:00:00";"2022-08-18 00:00:00";1060;"10744";"MARCOS ROGERIO SIMONETTI";"8000,00";"8000,00";"Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo, no caso o eleitorado da cidade de São Paulo, com 16 anos ou mais e sua distribuição quantitativa, por zona geográfica (divisão territorial), a saber: Sul, Leste, Norte e Centro-Oeste. ";"A amostra será representativa do universo, ou seja, a soma do eleitorado da cidade de São Paulo. 
+ 
+Tamanho da amostra: 1060 entrevistas. Técnica de amostragem: por cotas, segundo combinação das variáveis sexo e faixa etária, proporcionais ao eleitorado de cada região, conforme estatística do eleitorado do Tribunal Superior Eleitoral (TSE -2022): Cotas Amostrais totais: ZONAS: Zona Sul (32,22%); Zona Leste (34,83%). Zona Norte (11,44%) e Zona Centro-Oeste (21,51%) SEXO: Masculino (46,0%) e Feminino (54,0%). FAIXA ETÁRIA: 16-24 anos (6,3% masculino e 6,6% feminino); 25-44 anos (19,4% masculino e 21,6% feminino); 45-59 anos (11,5% masculino e 13,5% feminino); e mais de 60 anos (8,7% masculino e 12,3% feminino). Total Masculino: 46,0% - Feminino: 54,0%. 
+Eventual ponderação para correção das variáveis de escolaridade e status econômico caso aconteçam diferenças superiores a 3% entre o previsto na amostra e a coleta de dados, no que pese serem estas variáveis de seleção e abordagem dos entrevistados. Para as variáveis escolaridade e nível econômico: ESCOLARIDADE: Até ensino médio (78,9% - masculino e 79,4% - feminino); Superior (20,9% - masculino e 20,4% feminino). NÍVEL ECONÔMICO (FONTE: Censo 2010 e PNADC 2018): Economicamente ativo (76,6% - masculino e 59,9% - feminino). Não economicamente ativo (23,4 % - masculino e 40,1% - feminino). Para as variáveis de sexo e idade, o fator de ponderação é 1 (resultados obtidos em campo). A margem de erro é de 2,5 pontos percentuais para mais ou para menos, sobre o resultado encontrado no total da amostra. Nível de confiança estimado de 95%, o que quer dizer que há uma probabilidade de 95% de os resultados retratarem a realidade, se repetido nas mesmas condições de execução. Fonte de dados: Censo IBGE 2010; PNADC 2018; TSE-2022. 
+";"Para a realização do levantamento estatístico de dados, a Badra Comunicação se utiliza de equipe de entrevistadores e supervisores de campo experientes e treinados para o trabalho. No mínimo 20% das entrevistas realizadas são auditadas, parte delas ainda em campo, por coordenadores e supervisores. A outra parte via contato telefônico com os entrevistados que fornecem seu primeiro nome e/ou telefone de contato para o devido controle e verificação, conferência e fiscalização da coleta de dados, seja em relação às respostas, seja em confirmação da adequação aos parâmetros amostrais. ";"A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa. 
+
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP054352022";"2022-07-19 20:58:16";"S";"04209958000148";"CELIO RICARDO SILVA DA COSTA COMUNICACAO";"BADRA COMUNICACAO";"Governador, Senador, Deputado Federal, Deputado Estadual";"2022-07-21 00:00:00";"2022-07-23 00:00:00";2665;"10744";"MARCOS ROGERIO SIMONETTI";"9000,00";"9000,00";"Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo, no caso o eleitorado das cidades do Interior Paulista e da Grande São Paulo, com 16 anos ou mais.¿ ";"A amostra será representativa do universo, ou seja, a soma do eleitorado das cidades do Interior Paulista e da Grande São Paulo.¿ 
+Tamanho da amostra: 2665 entrevistas. Técnica de amostragem: por cotas, segundo combinação das variáveis sexo e faixa etária, proporcionais ao eleitorado de cada região, conforme estatística do eleitorado do Tribunal Superior Eleitoral (TSE jun-21): SEXO: Masculino (46,6%) e Feminino (53,3%). FAIXA ETÁRIA: 16-24 anos (5,9% masculino e 6,2% feminino); 25-44 anos (19,3% masculino e 21,4% feminino); 45-59 anos (12,2% masculino e 14,0% feminino); e mais de 60 anos (9,3% masculino e 11,8% feminino). Total Masculino: 46,6% - Feminino: 53,3%.¿ 
+
+Eventual ponderação para correção das variáveis de escolaridade e status econômico caso aconteçam diferenças superiores a 3% entre o previsto na amostra e a coleta de dados, no que pese serem estas variáveis de seleção e abordagem dos entrevistados. Para as variáveis escolaridade e nível econômico: ESCOLARIDADE: Até ensino médio (81,0% - masculino e 79,8% - feminino); Superior (19% - masculino e 20,2% feminino). NÍVEL ECONÔMICO (FONTE: Censo 2010 e PNADC 2018): Economicamente ativo (70,8% - masculino e 53,1% - feminino). Não economicamente ativo (29,2 % - masculino e 46,9% - feminino). Para as variáveis de sexo e idade, o fator de ponderação é 1 (resultados obtidos em campo). A margem de erro é de 2,5 pontos percentuais para mais ou para menos, sobre o resultado encontrado no total da amostra. Nível de confiança estimado de 95%, o que quer dizer que há uma probabilidade de 95% de os resultados retratarem a realidade, se repetido nas mesmas condições de execução. Fonte de dados: Censo IBGE 2010; PNADC 2018; TSE jun-21.";"Para a realização do levantamento estatístico de dados, a Badra Comunicação se utiliza de equipe de entrevistadores e supervisores de campo experientes e treinados para o trabalho. No mínimo 20% das entrevistas realizadas são auditadas, parte delas ainda em campo, por coordenadores e supervisores. A outra parte via contato telefônico com os entrevistados que fornecem seu primeiro nome e/ou telefone de contato para o devido controle e verificação, conferência e fiscalização da coleta de dados, seja em relação às respostas, seja em confirmação da adequação aos parâmetros amostrais.¿ 
+
+¿ ";"A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa.  
+
+ 
+
+ 
+
+ "
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP007612022";"2022-08-24 16:39:46";"N";"40735589000190";"INTELIGENCIA EM PESQUISA E CONSULTORIA LTDA";"IPEC";"Governador, Senador";"2022-08-24 00:00:00";"2022-08-30 00:00:00";1504;"6208-A";"MARCIA CAVALLARI NUNES";"117059,64";"117059,64";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado de SÃO PAULO.";"Representativo do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: IDADE: 16-24 (masculino) 16% (feminino) 14%; 25-34 (masculino) 19% (feminino) 18%; 35-44 (masculino) 21% (feminino) 21%; 45-59 (masculino) 27% (feminino) 27%; 60 e+ (masculino) 18% (feminino) 19%; INSTRUÇÃO: Até Ensino Médio (masculino) 70% (feminino) 67%; Ensino Superior (masculino) 30% (feminino) 33%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 70% (feminino) 51%; Não Economicamente ativo (masculino) 30% (feminino) 49%. Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 03 (TRÊS) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNADC 2020 | TSE 2022.";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo INTELIGENCIA EM PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o Estado de SÃO PAULO. A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §7º da Resolução 23.600/2019 do TSE.
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP012982022";"2022-03-09 00:00:00";"S";"23340485000168";"DATA NEWS BRASIL OPNIAO PESQUISA E CONSULTORIA LTDA";"VOX OPNIAO PUBLICA";"Deputado Federal, Deputado Estadual";"2022-03-08 00:00:00";"2022-03-10 00:00:00";2507;"9907";"GUILHERME COELHO NEVES";"58500,00";"58500,00";"Metodologia de pesquisa: Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em domicílios particulares permanentemente ocupados (de acordo com a definição do IBGE - Instituto Brasileiro de Geografia e Estatística). O conjunto do eleitorado dos municípios de Guarujá-SP, Mongaguá-SP, Bertioga-SP, Peruíbe-SP, Santos-SP, São Vicente-SP, Praia Grande-SP, Itanhaém-SP e Cubatão-SP com 16 anos ou mais foi tomado como universo da pesquisa. ";"Tamanho da amostra: A amostra prevista é de 2507 entrevistas. Técnica de amostragem A amostra é aleatória, com base na estimativa da média populacional. Utilizamos a amostragem por conglomerados em mais de um estágio. No primeiro estágio dividimos o município em bairros/setores censitários (conglomerados), sendo os mesmos listados, faz-se um sorteio probabilístico dos setores/bairros pesquisados, pelo método da probabilidade proporcional ao tamanho (PPT), tomando a população de cada setor censitário, como base para tal seleção. No segundo estágio, serão selecionadas as ruas (dispondo de um mapa da região), no terceiro estágio realizaremos o sorteio das casas (via amostragem sistemática). O quarto estágio será a seleção do entrevistado dentro da casa, onde o critério adotado foi o da primeira pessoa que atendesse a equipe de pesquisa, sendo este obrigatoriamente morador da residência e eleitor da cidade pesquisada- apenas um morador por residência será entrevistado. Na etapa seguinte será realizado um controle das seguintes variáveis: sexo, idade, grau de instrução e nível econômico. Também adotamos p=50% para maximizar o tamanho da amostra a) a amostra poderá ser ponderada levando em consideração a variável sexo da população dos municípios de Guarujá-SP, Mongaguá-SP, Bertioga-SP, Peruíbe-SP, Santos-SP, São Vicente-SP, Praia Grande-SP, Itanhaém-SP e Cubatão-SP sendo 45,89% homens e 54,11% mulheres, conforme dados do TSE de Fevereiro de 2022 e a variável idade sendo consideradas as faixas: 16 anos:0,11%;17 anos:0,31%; 18 a 20 anos:3,74%; 21 a 24 anos: 7,72%; de 25 a 34 anos: 18,05%; de 35 a 44 anos: 20,21%, de 45 a 59 anos: 25,77%; de 60 a 69 anos: 13,4% e acima de 69 anos: 10,69% (TSE Fevereiro 2022). Quanto à variável grau de instrução, temos: ANALFABETO:1,9%; LÊ E ESCREVE: 3%; ENSINO FUNDAMENTAL INCOMPLETO: 21,35%; ENSINO FUNDAMENTAL COMPLETO:7,46%; ENSINO MÉDIO INCOMPLETO: 18,23%; ENSINO MÉDIO COMPLETO: 30,43%; SUPERIOR INCOMPLETO: 5,63% e SUPERIOR COMPLETO: 12% E para a variável nível econômico, temos: Até 2 Salários-Mínimos: 75,52%; mais de 2 a 5 Salários-Mínimos:18,42%; mais de 5 a 10 Salários-Mínimos:4,4% e acima de 10 Salários Mínimos:1,66%. Em relação à ponderação, devido à metodologia amostral adotada, os fatores de ponderação a serem aplicados em toda as variáveis (sexo, idade, grau de instrução e nível econômico), assumem valor igual a 1(um). Área física: Municípios de Guarujá-SP, Mongaguá-SP, Bertioga-SP, Peruíbe-SP, Santos-SP, São Vicente-SP, Praia Grande-SP, Itanhaém-SP e Cubatão-SP em domicílios particulares permanentemente ocupados. b) Margem de Erro: A margem de erro máxima prevista para o total da amostra é de 2 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95,5%. Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95,5%.";"Os pesquisadores envolvidos na realização desta pesquisa recebem treinamento especializado e instruções específicas de abordagem. O trabalho é feito com a equipe e três coordenadores de campo. Há fiscalização no ato da entrevista e os questionários são recolhidos e checados quanto ao correto preenchimento dos dados. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização que consiste na verificação de 20% dos questionários aplicados individualmente pelos entrevistadores, para checagem das respostas. Internamente, todo o material é verificado, codificado, digitado e, antes do processamento final, realiza-se a conferência da digitação (consistência dos dados).
+
+
+Fontes:
+http://www.tse.jus.br/eleitor/estatisticas-de-eleitorado/estatistica-do-
+eleitorado-por-sexo-e-faixa-etaria
+http://www.tse.jus.br/eleitor/estatisticas-de-eleitorado/estatistica-do-eleitorado-por-sexo-e-grau-de-instrucao
+https://cidades.ibge.gov.br/brasil/sp
+";"Relação de setores Baixada Santista:
+1- Guarujá-SP
+2- Mongaguá-SP
+3- Bertioga-SP
+4- Peruíbe-SP
+5-Santos-SP
+6- São Vicente-SP
+7-Praia Grande-SP
+8-Itanhaém-SP
+9-Cubatão-SP "
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP038182022";"2022-07-25 17:45:01";"N";"81908345000140";"INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA";"#NULO#";"Governador, Senador";"2022-07-25 00:00:00";"2022-07-28 00:00:00";1880;"10245 - 4ª Região";"Tatiani Cristina Ara";"96000,00";"96000,00";"Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de São Paulo.
+
+
+";"""A amostra será representativa do eleitorado da área pesquisada e será selecionada em três etapas. Na primeira etapa realiza-se um sorteio probabilístico dos municípios onde as entrevistas serão realizadas através do método PPT (Probabilidade Proporcional ao Tamanho), considerando a população eleitora com 16 anos ou mais residente nos municípios como base para essa seleção. Na segunda etapa, faz-se um sorteio probabilístico das localidades, onde as entrevistas serão realizadas, através do método PPT (Probabilidade Proporcional ao Tamanho), tomando a população eleitora de 16 anos ou mais residente nas localidades como base para essa seleção. Na terceira etapa, a seleção do entrevistado dentro da localidade, será feita utilizando-se quotas amostrais proporcionais, em função das seguintes variáveis:
+GÊNERO:
+Masculino - 47%;
+Feminino - 53% |
+FAIXA ETÁRIA:
+Entre 16 e 24 anos: 13%;
+Entre 25 e 34 anos: 19%;
+Entre 35 e 44 anos: 21%;
+Entre 45 e 59 anos: 25%;
+Com 60 anos ou mais: 22% |
+ESCOLARIDADE:
+De analfabeto até ensino fundamental completo: 33%;
+Ensino médio incompleto ou completo: 47%
+Ensino superior incompleto ou completo: 20% |
+RENDA DOMICILIAR MENSAL:
+Sem rendimentos até 2 salários mínimos: 31%
+Mais de 2 a 5 salários mínimos: 39%
+Mais de 5 salários mínimos: 30%
+Está prevista eventual ponderação para correção das variáveis gênero e faixa etária, com base nos percentuais acima apresentados, caso ocorram diferenças superiores a 3,0 (três) pontos percentuais entre o previsto na amostra e a coleta realizada, para as variáveis escolaridade e  renda domiciliar mensal, o fator de ponderação é igual a 1, (resultados obtidos no campo). O nível de confiança estimado é de 95% (noventa e cinco por cento) para uma margem de erro estimada, considerando uma técnica de amostragem aleatória simples, de aproximadamente 2,3 (dois vírgula três) pontos percentuais para mais ou para menos sobre os resultados obtidos. Fonte de Dados: IBGE Censo 2010 e TSE - Junho 2022.""
+
+
+
+
+
+";"As entrevistas serão realizadas por uma equipe de entrevistadores e supervisores devidamente qualificada pelo Instituto Paraná Pesquisas, com experiência e treinamento em pesquisas de opinião pública. No decorrer do trabalho de coleta de dados, os questionários aplicados, serão auditados em no mínimo 20% (vinte por cento) para verificação quanto ao cuidado na sua aplicação, bem como a adequação do entrevistado às variáveis das quotas amostrais.
+
+
+
+
+
+";" ""A pesquisa será realizada no Estado de São Paulo, a relação dos municípios  selecionados para a pesquisa será apresentado até o dia seguinte à data a partir da qual a pesquisa puder ser divulgada, conforme §7º do art. 2º da Resolução-TSE nº. 23.600/2019""
+
+
+
+
+
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP082882022";"2022-03-24 00:00:00";"N";"81908345000140";"INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA";"#NULO#";"Governador";"2022-03-25 00:00:00";"2022-03-29 00:00:00";680;"10245 - 4ª Região";"Tatiani Cristina Ara";"28000,00";"28000,00";"Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais telefônicas, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do município de São José dos Campos.
+
+
+";"""A amostra será representativa do eleitorado da área pesquisada e será selecionada em duas etapas. Na primeira etapa realiza-se um sorteio probabilístico das localidades onde as entrevistas serão realizadas através do método PPT (Probabilidade Proporcional ao Tamanho), considerando a população com 16 anos ou mais residente nas localidades como base para essa seleção. Na segunda etapa, a seleção do entrevistado dentro da localidade será feita utilizando-se quotas amostrais proporcionais, em função das seguintes variáveis:
+GÊNERO:
+Masculino - 47%;
+Feminino - 53% |
+FAIXA ETÁRIA:
+Entre 16 e 24 anos: 13%;
+Entre 25 e 34 anos: 20%;
+Entre 35 e 44 anos: 22%;
+Entre 45 e 59 anos: 26%;
+Com 60 anos ou mais: 19% |
+ESCOLARIDADE:
+De analfabeto até ensino fundamental completo: 21%;
+Ensino médio incompleto ou completo: 49%
+Ensino superior incompleto ou completo: 30% |
+RENDA DOMICILIAR MENSAL:
+Sem rendimentos até 2 salários mínimos: 24%
+Mais de 2 a 5 salários mínimos: 38%
+Mais de 5 salários mínimos: 38%
+Está prevista eventual ponderação para correção das variáveis gênero e faixa etária, com base nos percentuais acima apresentados, caso ocorram diferenças superiores a 3,0 (três) pontos percentuais entre o previsto na amostra e a coleta realizada, para as variáveis escolaridade e  renda domiciliar mensal, o fator de ponderação é igual a 1, (resultados obtidos no campo). O nível de confiança estimado é de 95% (noventa e cinco por cento) para uma margem de erro estimada, considerando uma técnica de amostragem aleatória simples, de aproximadamente 3,8 (três vírgula oito) pontos percentuais para mais ou para menos sobre os resultados obtidos. Fonte de Dados: IBGE Censo 2010 e TSE - Fevereiro 2022.""
+
+
+
+
+
+";"As entrevistas serão realizadas por uma equipe de entrevistadores e supervisores devidamente qualificada pelo Instituto Paraná Pesquisas, com experiência e treinamento em pesquisas de opinião pública. No decorrer do trabalho de coleta de dados, os questionários aplicados, serão auditados em no mínimo 20% (vinte por cento) para verificação quanto ao cuidado na sua aplicação, bem como a adequação do entrevistado às variáveis das quotas amostrais.
+
+
+
+
+
+";" ""A pesquisa será realizada no município de São José dos Campos, a relação dos municípios  selecionados para a pesquisa será apresentado até o dia seguinte à data a partir da qual a pesquisa puder ser divulgada, conforme §7º do art. 2º da Resolução-TSE nº. 23.600/2019""
+
+
+
+
+
+"
+"30/08/2022";"05:31:01";2022;9;"Eleições Gerais 2022";"SP";"SP";"SÃO PAULO";"SP016832022";"2022-04-26 15:38:43";"N";"81908345000140";"INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA";"#NULO#";"Governador, Senador";"2022-04-24 00:00:00";"2022-04-29 00:00:00";1820;"10245 - 4ª Região";"Tatiani Cristina Ara";"96000,00";"96000,00";"Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, face a face, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de São Paulo.
+
+
+";"""A amostra será representativa do eleitorado da área pesquisada e será selecionada em três etapas. Na primeira etapa realiza-se um sorteio probabilístico dos municípios onde as entrevistas serão realizadas através do método PPT (Probabilidade Proporcional ao Tamanho), considerando a população eleitora com 16 anos ou mais residente nos municípios como base para essa seleção. Na segunda etapa, faz-se um sorteio probabilístico das localidades, onde as entrevistas serão realizadas, através do método PPT (Probabilidade Proporcional ao Tamanho), tomando a população eleitora de 16 anos ou mais residente nas localidades como base para essa seleção. Na terceira etapa, a seleção do entrevistado dentro da localidade, será feita utilizando-se quotas amostrais proporcionais, em função das seguintes variáveis:
+GÊNERO:
+Masculino - 47%;
+Feminino - 53% |
+FAIXA ETÁRIA:
+Entre 16 e 24 anos: 13%;
+Entre 25 e 34 anos: 19%;
+Entre 35 e 44 anos: 21%;
+Entre 45 e 59 anos: 26%;
+Com 60 anos ou mais: 21% |
+ESCOLARIDADE:
+De analfabeto até ensino fundamental completo: 32%;
+Ensino médio incompleto ou completo: 47%
+Ensino superior incompleto ou completo: 21% |
+RENDA DOMICILIAR MENSAL:
+Sem rendimentos até 2 salários mínimos: 31%
+Mais de 2 a 5 salários mínimos: 39%
+Mais de 5 salários mínimos: 30%
+Está prevista eventual ponderação para correção das variáveis gênero e faixa etária, com base nos percentuais acima apresentados, caso ocorram diferenças superiores a 3,0 (três) pontos percentuais entre o previsto na amostra e a coleta realizada, para as variáveis escolaridade e  renda domiciliar mensal, o fator de ponderação é igual a 1, (resultados obtidos no campo). O nível de confiança estimado é de 95% (noventa e cinco por cento) para uma margem de erro estimada, considerando uma técnica de amostragem aleatória simples, de aproximadamente 2,3 (dois vírgula três) pontos percentuais para mais ou para menos sobre os resultados obtidos. Fonte de Dados: IBGE Censo 2010 e TSE - Março 2022.""
+
+
+
+
+
+";"As entrevistas serão realizadas por uma equipe de entrevistadores e supervisores devidamente qualificada pelo Instituto Paraná Pesquisas, com experiência e treinamento em pesquisas de opinião pública. No decorrer do trabalho de coleta de dados, os questionários aplicados, serão auditados em no mínimo 20% (vinte por cento) para verificação quanto ao cuidado na sua aplicação, bem como a adequação do entrevistado às variáveis das quotas amostrais.
+
+
+
+
+
+";" ""A pesquisa será realizada no Estado de São Paulo, a relação dos municípios  selecionados para a pesquisa será apresentado até o dia seguinte à data a partir da qual a pesquisa puder ser divulgada, conforme §7º do art. 2º da Resolução-TSE nº. 23.600/2019""
+
+
+
+
+
+"
